@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#d4a545" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- d20 icosahedron outline -->
+  <polygon points="50,5 93,30 93,70 50,95 7,70 7,30" fill="none"/>
+  <line x1="50" y1="5" x2="50" y2="95"/>
+  <line x1="7" y1="30" x2="93" y2="70"/>
+  <line x1="93" y1="30" x2="7" y2="70"/>
+  <line x1="50" y1="5" x2="7" y2="70"/>
+  <line x1="50" y1="5" x2="93" y2="70"/>
+  <line x1="50" y1="95" x2="7" y2="30"/>
+  <line x1="50" y1="95" x2="93" y2="30"/>
+  <text x="50" y="58" text-anchor="middle" font-family="serif" font-size="24" font-weight="700" fill="#d4a545" stroke="none">20</text>
+</svg>

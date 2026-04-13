@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap');
+
+:root {
+  --vp-c-brand-1: #96722d;
+  --vp-c-brand-2: #7d5e22;
+  --vp-c-brand-3: #634a18;
+  --vp-c-brand-soft: rgba(150, 114, 45, 0.14);
+
+  --vp-font-family-base: 'Source Sans 3', 'Inter var', 'Inter', ui-sans-serif,
+    system-ui, sans-serif;
+  --vp-font-family-mono: 'Source Code Pro', ui-monospace, 'Menlo', 'Monaco',
+    'Consolas', monospace;
+
+  --wiki-color-gold: #96722d;
+  --wiki-color-gold-bright: #b8922e;
+  --wiki-color-crimson: #8b2a2a;
+  --wiki-color-warm-bg: #faf8f5;
+  --wiki-color-warm-bg-soft: #f5f0ea;
+  --wiki-color-warm-border: #e8e0d4;
+}
+
+.dark {
+  --vp-c-brand-1: #d4a545;
+  --vp-c-brand-2: #c49535;
+  --vp-c-brand-3: #b08528;
+  --vp-c-brand-soft: rgba(212, 165, 69, 0.14);
+
+  --vp-c-bg: #1a1814;
+  --vp-c-bg-alt: #1f1c17;
+  --vp-c-bg-elv: #24211a;
+  --vp-c-bg-soft: #24211a;
+
+  --wiki-color-gold: #d4a545;
+  --wiki-color-gold-bright: #e4b84e;
+  --wiki-color-crimson: #c45555;
+  --wiki-color-warm-bg: #1a1814;
+  --wiki-color-warm-bg-soft: #24211a;
+  --wiki-color-warm-border: #3a3428;
+}
+
+/* ── Typography ────────────────────────────────── */
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3 {
+  font-family: 'Cinzel', 'Georgia', serif;
+  letter-spacing: 0.01em;
+}
+
+.vp-doc h1 {
+  font-weight: 600;
+  border-bottom: 2px solid var(--vp-c-brand-1);
+  padding-bottom: 0.4rem;
+}
+
+.vp-doc h2 {
+  font-weight: 500;
+  border-bottom: 1px solid var(--wiki-color-warm-border);
+  padding-bottom: 0.3rem;
+}
+
+.vp-doc h3 {
+  font-weight: 500;
+}
+
+/* ── Tighter content spacing ──────────────────── */
+
+.vp-doc {
+  line-height: 1.65;
+}
+
+.vp-doc p {
+  margin: 0.75rem 0;
+}
+
+/* ── Links ─────────────────────────────────────── */
+
+.vp-doc a {
+  color: var(--vp-c-brand-1);
+  text-decoration-color: var(--vp-c-brand-soft);
+  transition: color 0.15s, text-decoration-color 0.15s;
+}
+
+.vp-doc a:hover {
+  color: var(--vp-c-brand-2);
+  text-decoration-color: var(--vp-c-brand-1);
+}
+
+/* ── Tables ────────────────────────────────────── */
+
+.vp-doc table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.vp-doc tr:nth-child(even) {
+  background: var(--vp-c-brand-soft);
+}
+
+.vp-doc th {
+  font-family: 'Cinzel', serif;
+  font-weight: 500;
+  font-size: 0.85rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--vp-c-brand-1);
+  border-bottom: 2px solid var(--vp-c-brand-1);
+}
+
+.vp-doc td {
+  border-bottom: 1px solid var(--wiki-color-warm-border);
+}
+
+/* ── Category grid ─────────────────────────────── */
+
+.wiki-category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.75rem;
+  margin: 1.25rem 0;
+}
+
+.wiki-category-card {
+  display: block;
+  padding: 1rem;
+  border: 1px solid var(--wiki-color-warm-border);
+  border-radius: 4px;
+  background: var(--vp-c-bg-soft);
+  text-decoration: none;
+  transition: border-color 0.15s;
+}
+
+.wiki-category-card:hover {
+  border-color: var(--vp-c-brand-1);
+}
+
+.wiki-category-card h3 {
+  margin: 0 0 0.375rem 0;
+  font-family: 'Cinzel', serif;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--vp-c-brand-1);
+}
+
+.wiki-category-card p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2);
+}
+
+/* ── Timeline ──────────────────────────────────── */
+
+.wiki-timeline {
+  border-left: 3px solid var(--vp-c-brand-soft);
+  padding-left: 1.5rem;
+  margin: 1rem 0;
+}
+
+.wiki-timeline-entry {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.wiki-timeline-entry::before {
+  content: '';
+  position: absolute;
+  left: -1.85rem;
+  top: 0.4rem;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--vp-c-brand-1);
+}
+
+/* ── Navbar / sidebar heading font ─────────────── */
+
+.VPNavBarTitle .title {
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.VPSidebar .group > .title {
+  font-family: 'Cinzel', serif;
+  font-weight: 500;
+}
+
+/* ── Nav hover states ──────────────────────────── */
+
+.VPNavBarMenu .VPNavBarMenuLink:hover,
+.VPNavBarMenu .VPNavBarMenuLink.active {
+  color: var(--vp-c-brand-1);
+}
+
+/* ── Clearfix for infobox float ────────────────── */
+
+.vp-doc .content-container::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+/* ── Footer ────────────────────────────────────── */
+
+.VPFooter {
+  border-top-color: var(--wiki-color-warm-border);
+}
+
+.VPFooter .message {
+  font-family: 'Cinzel', serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+}
