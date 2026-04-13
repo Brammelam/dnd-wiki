@@ -6,6 +6,8 @@
 | **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren) |
 | **Location** | Road from [Dior](/places/dior) to [Morgan's Keep](/places/morgans-keep), roadside inn |
 
+> [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-03-29-FightingThorn.pdf)
+
 ## Recap
 
 [Voris](/characters/voris) and [Peren](/characters/peren) traveled from [Dior](/places/dior) toward [Morgan's Keep](/places/morgans-keep) while [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) dealt with the [Burning of Sire](/events/burning-of-sire).

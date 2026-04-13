@@ -6,6 +6,8 @@
 | **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Location** | [Dior](/places/dior) — temple, shops, streets |
 
+> [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-12-07-DiorPlanWedding.pdf)
+
 ## Recap
 
 With two days until the wedding, the party shifted from brute-force plans to reconnaissance and infiltration of the temple on [Dior](/places/dior)'s lake.

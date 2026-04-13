@@ -6,6 +6,8 @@
 | **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Fenris](/characters/fenris) |
 | **Location** | [The Crypt of Dior](/places/the-crypt) |
 
+> [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-10-12-DiorTheCrypt.pdf)
+
 ## Recap
 
 The session opened with the magical trap's vine-like tendrils seizing [Fenris](/characters/fenris)'s hands as the door slammed shut, separating [Gal'Rok](/characters/galrok) on the other side. [Voris](/characters/voris) and [Peren](/characters/peren) frantically pulled Fenris free and rolled clear.

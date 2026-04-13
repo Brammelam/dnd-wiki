@@ -6,6 +6,8 @@
 | **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Location** | [Dior](/places/dior), [The Academy](/places/the-academy), [The Crypt](/places/the-crypt) entrance |
 
+> [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-09-28-DiorEnterCrypt.pdf)
+
 ## Recap
 
 The party arrived in **[Dior](/places/dior)** after a long journey of four to five days. The city lay nestled in mountains, accessed through a steep road leading into a large tunnel flanked by two impressive statues. Emerging on the other side revealed a circular valley with an artificial lake at its center. A great temple rose from the middle of the lake, and the city was divided into a morning side and an evening side.

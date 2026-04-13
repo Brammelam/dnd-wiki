@@ -6,6 +6,8 @@
 | **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Fenris](/characters/fenris) |
 | **Location** | [Dior](/places/dior), [Tyr Moir](/places/tyr-moir) graveyard |
 
+> [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-02-01-DiorInviteHelga.pdf)
+
 ## Recap
 
 One day before the wedding. The party abandoned the violent wedding attack plan in favor of a direct confrontation with [Helga](/characters/helga).

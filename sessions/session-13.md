@@ -6,6 +6,8 @@
 | **Players** | [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Location** | Road to [Sire](/places/sire), [Sire](/places/sire) |
 
+> [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-03-01-Burning-Sire.pdf)
+
 ## Recap
 
 [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) rode toward the smoke while [Voris](/characters/voris) and [Peren](/characters/peren) headed to [Morgan's Keep](/places/morgans-keep).
