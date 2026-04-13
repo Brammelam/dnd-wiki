@@ -3,7 +3,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Chronicles of Morgan',
   description: 'A wiki for our D&D campaign',
-  base: '/dnd/',
   cleanUrls: true,
 
   head: [
@@ -163,12 +162,12 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'gitlab', link: 'https://gitlab.com/hellesvik/dnd' },
+      { icon: 'github', link: 'https://github.com/Brammelam/dnd-wiki' },
     ],
 
     editLink: {
-      pattern: 'https://gitlab.com/hellesvik/dnd/-/edit/main/wiki/:path',
-      text: 'Edit this page on GitLab',
+      pattern: 'https://github.com/Brammelam/dnd-wiki/edit/main/:path',
+      text: 'Edit this page on GitHub',
     },
 
     footer: {
