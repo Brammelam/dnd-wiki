@@ -15,8 +15,7 @@
 Night at the [Tyr Moir](/places/tyr-moir) graveyard. [Helga](/characters/helga), in polished King's Guard armor with a hammer on her back, faced the party. She acknowledged arresting them and confirmed she still held suspicions, but was willing to listen.
 
 Key revelations from Helga:
-- The party's arrest report was filed by a **lieutenant** influenced by his wife's gambling debts and pressure from the **[Humanus Association](/factions/humanus-association)**
-- She named **Bleiment Skiborg** as connected to the conspiracy
+- The party's arrest report was filed by **Lieutenant Jet**, who was manipulated through his wife's gambling debts and pressure from the **[Humanus Association](/factions/humanus-association)**. His wife is now imprisoned in "the Hole"
 - Innocent elves had been **tortured and executed** for the murder
 - She could use her network to **reduce the party's wanted status** if they stayed low
 - The cardinal in the king's council could **compel truth** — a potential path to justice

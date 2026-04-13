@@ -35,4 +35,4 @@ After the party's [escape](/events/escape-from-morgans-keep), the Guard maintain
 
 - **[Helga](/characters/helga)** — Captain; conflicted about the party's guilt
 - **[Lynch](/characters/lynch)** — Interrogator at Morgan's Keep
-- **Bleiment Skiborg** — Named by Helga as a person connected to the conspiracy
+- **Lieutenant Jet** — Filed the false arrest report against the party; manipulated via his wife's debts to the [Humanus Association](/factions/humanus-association)

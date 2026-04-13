@@ -51,8 +51,7 @@ At [Tyr Moir](/places/tyr-moir) graveyard:
 
 The interrogation revealed crucial information about the [Crown Prince murder](/events/crown-prince-murder) conspiracy:
 
-- A lieutenant filed a false report, influenced by his wife's debts and the [Humanus Association](/factions/humanus-association)
-- **Bleiment Skiborg** was named as a connected figure
+- **Lieutenant Jet** filed a false report, manipulated through his wife's debts and pressure from the [Humanus Association](/factions/humanus-association). His wife is now imprisoned in "the Hole"
 - Helga promised to **reduce their wanted status** but could never help them openly
 - She warned: if they contacted her again, duty would force her to arrest them
 
