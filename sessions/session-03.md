@@ -6,6 +6,8 @@
 | **Players** | [Voris](/characters/voris), [Elowen](/characters/elowen), [Flint](/characters/flint) |
 | **Location** | [Turn](/places/turn), road to [Rinden](/places/rinden), [Saltside](/places/saltside) |
 
+> [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-10-07-Session3.md)
+
 ## Recap
 
 The party defeated the **hostile fairies** from the previous session's cliffhanger. The thorns around the Azure Oak wilted, and a **small blue fairy** appeared from the tree, granting permission to take a **seed**.

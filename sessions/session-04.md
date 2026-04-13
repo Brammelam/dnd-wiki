@@ -6,6 +6,8 @@
 | **Players** | [Peren](/characters/peren), [Voris](/characters/voris), [Elowen](/characters/elowen), [Fenris](/characters/fenris), [Lilith](/characters/lilith), [Gal'Rok](/characters/galrok) |
 | **Location** | Road between towns |
 
+> [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-11-16-Session4.md)
+
 ## Recap
 
 After a **cart crash** on the road, the party was hunted by mercenaries led by ex-guard **[Fat Hans](/characters/fat-hans)**.

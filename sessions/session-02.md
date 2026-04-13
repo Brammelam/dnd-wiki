@@ -6,6 +6,8 @@
 | **Players** | [Peren](/characters/peren), [Voris](/characters/voris), [Elowen](/characters/elowen), [Fenris](/characters/fenris), [Lilith](/characters/lilith), [Gal'Rok](/characters/galrok) |
 | **Location** | [Turn](/places/turn), [Azure Oak Grove](/places/azure-oak-grove) |
 
+> [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-09-08-Session2.md)
+
 ## Recap
 
 The full party arrived at **[Turn](/places/turn)**, a timber-trading town suffering from drought and food shortage. They settled at **[The Large Log](/places/the-large-log)** inn. Inside were soldiers, a nobleman, and a female orc with a distinctive metal wound.

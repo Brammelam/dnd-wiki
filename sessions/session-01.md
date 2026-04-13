@@ -6,6 +6,8 @@
 | **Players** | [Flint](/characters/flint), [Peren](/characters/peren), [Thia](/characters/thia), [Voris](/characters/voris) |
 | **Location** | [Morgan's Keep](/places/morgans-keep), road to [Rinden](/places/rinden) |
 
+> [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-08-24-Session1.md)
+
 ## Recap
 
 All four characters lived in [Morgan's Keep](/places/morgans-keep), capital of the [Kingdom of Morgan](/places/kingdom-of-morgan). They were **arrested for the murder of the Crown Prince** — a crime they denied committing. The interrogator [Lynch](/characters/lynch) oversaw their questioning.

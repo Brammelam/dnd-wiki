@@ -6,6 +6,8 @@
 | **Players** | [Elowen](/characters/elowen), [Peren](/characters/peren), Varis |
 | **Location** | [Fey Realm](/places/fey-realm) exit, [Hooves Bay](/places/hooves-bay) |
 
+> [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-05-04-S9-HoovesBay%26FirstDungeon.md)
+
 ::: info Note on Chronology
 This session was played earlier than its number suggests (May 2024), before the numbered sessions 1–5 (August–December 2024). The "Session 9" label comes from the original file naming.
 :::
