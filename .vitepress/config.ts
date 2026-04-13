@@ -143,9 +143,9 @@ export default defineConfig({
           link: '/sessions/',
           items: [
             { text: 'Session 1 – Framed & Fled', link: '/sessions/session-01' },
-            { text: 'Session 2 – Turn & the Azure Oak', link: '/sessions/session-02' },
-            { text: 'Session 3 – Selling the Seed', link: '/sessions/session-03' },
-            { text: 'Session 4 – Fat Hans Ambush', link: '/sessions/session-04' },
+            { text: 'Session 2 – Fat Hans Ambush', link: '/sessions/session-02' },
+            { text: 'Session 3 – Turn & the Azure Oak', link: '/sessions/session-03' },
+            { text: 'Session 4 – Selling the Seed', link: '/sessions/session-04' },
             { text: 'Session 5 – The Crabs of Rinden', link: '/sessions/session-05' },
             { text: 'Session 6 – Arriving in Dior', link: '/sessions/session-06' },
             { text: 'Session 7 – Into the Crypt', link: '/sessions/session-07' },
