@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2026-02-15 |
-| **Players** | Varis ([Voris](/characters/voris)), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
+| **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Location** | [Tyr Moir](/places/tyr-moir), [Dior](/places/dior) outskirts, military camp |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-02-15-Dior-Helga-Confrontation.pdf)

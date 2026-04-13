@@ -27,7 +27,7 @@ The party spent their first day in Dior preparing:
 ## The Descent (Sessions 6–7)
 
 ### Puzzle Door
-Four dwarf statues guarded a sealed stone door. The party solved the button sequence puzzle, but [Gal'Rok](/characters/galrok) was caught by a **magical trap** — threads of light tried to pull him apart, dislocating his shoulder.
+Four dwarf statues guarded a sealed stone door. The party solved the button sequence puzzle, but [Gal'Rok](/characters/galrok) was caught by a **magical trap** — threads of light tried to pull her apart, dislocating her shoulder.
 
 ### The River Crossing
 A 10-meter gap over a steaming underground river required an improvised rope bridge. [Peren](/characters/peren) crossed first with cat-like agility. [Fenris](/characters/fenris) nearly fell but was rescued by Peren in an acrobatic save.
@@ -50,7 +50,7 @@ A massive dragon emerged from beneath the platform. It spoke **telepathically**,
 
 ## Escape (Session 8)
 
-[Gal'Rok](/characters/galrok), separated from the group, solved the puzzle door alone and fought through on his own. The party reunited, fought through waves of goblins, and carried the heavy treasure chest back across the river using rope and — memorably — **goblin intestines** as extra binding.
+[Gal'Rok](/characters/galrok), separated from the group, solved the puzzle door alone and fought through on her own. The party reunited, fought through waves of goblins, and carried the heavy treasure chest back across the river using rope and — memorably — **goblin intestines** as extra binding.
 
 They emerged to [Carlos](/characters/carlos), who paid **583 gold** for the copper chest and helped fence the other loot.
 

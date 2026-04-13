@@ -36,7 +36,7 @@ They agreed to meet at ten that evening. Carlos led them to the entrance — thr
 
 Inside, they found ancient dwarven runes, statues of dwarves holding helmets, and thick dust everywhere. They came to a warning sign about holy ground and skeletal remains. They chose the left door, passing a stairway to a gallery. A suspicious step was carefully avoided.
 
-They explored the gallery, found a hole in the wall as a possible escape route, then descended to a stone door flanked by **four dwarf statues** holding different weapons (hammer, axe, sword, morningstar). Each had four buttons. After working out the code — pressing buttons in sequence — the door opened. [Gal'Rok](/characters/galrok) went first and triggered a **magical trap**: luminous threads tried to pull him apart, dislocating his shoulder before the others cut him free.
+They explored the gallery, found a hole in the wall as a possible escape route, then descended to a stone door flanked by **four dwarf statues** holding different weapons (hammer, axe, sword, morningstar). Each had four buttons. After working out the code — pressing buttons in sequence — the door opened. [Gal'Rok](/characters/galrok) went first and triggered a **magical trap**: luminous threads tried to pull her apart, dislocating her shoulder before the others cut her free.
 
 The session ended with the party pushing deeper into the crypt.
 

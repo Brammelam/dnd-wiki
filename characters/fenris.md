@@ -28,7 +28,7 @@
 
 ## Adventures
 
-### Azure Oak Quest (Session 2)
+### Azure Oak Quest (Session 3)
 In squirrel form, Fenris climbed to the top of the [Azure Oak](/places/azure-oak-grove) to confront the fey protecting it. He negotiated with a small blue fairy who allowed them to take a seed.
 
 ### The Crypt of Dior (Sessions 7–8)

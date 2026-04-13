@@ -17,7 +17,7 @@ The **Fey Portal incident** is one of the most traumatic moments of the campaign
 
 ## What Happened
 
-The party was leaving the [Fey Realm](/places/fey-realm) through a portal. [Flint](/characters/flint)'s leg was badly injured and he was slowing the group down. As they passed through:
+The party was leaving the [Fey Realm](/places/fey-realm) through a portal. [Flint](/characters/flint)'s leg had been badly injured during their time in the Fey Realm and he was slowing the group down. As they passed through:
 
 1. Flint went through the portal
 2. He realized he had left his **hammer** behind

@@ -8,7 +8,7 @@
 |---|---|
 | **Type** | Wealthy district |
 | **Part of** | [Rinden](/places/rinden) |
-| **First Seen** | [Session 3](/sessions/session-03) |
+| **First Seen** | [Session 4](/sessions/session-04) |
 
 </WikiInfobox>
 
@@ -16,4 +16,4 @@
 
 ## Events
 
-The party bluffed their way into a **fancy club** in Saltside during [Session 3](/sessions/session-03). After failing to sell the Azure Oak seed to [Toll Guild](/factions/toll-guild) collectors, [Elowen](/characters/elowen) sold it to wealthy ladies for **120 gold** — declining an offer from [The Academy](/factions/the-academy) for services instead of currency.
+The party bluffed their way into a **fancy club** in Saltside during [Session 4](/sessions/session-04). After failing to sell the Azure Oak seed to [Toll Guild](/factions/toll-guild) collectors, [Elowen](/characters/elowen) sold it to wealthy ladies for **120 gold** — declining an offer from [The Academy](/factions/the-academy) for services instead of currency.

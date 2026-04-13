@@ -10,7 +10,7 @@
 | **Role** | Local leader / Fixer |
 | **Base** | [Turn](/places/turn) |
 | **Status** | Active |
-| **First Seen** | [Session 2](/sessions/session-02) |
+| **First Seen** | [Session 3](/sessions/session-03) |
 
 </WikiInfobox>
 

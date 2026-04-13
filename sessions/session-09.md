@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2024-05-04 |
-| **Players** | [Elowen](/characters/elowen), [Peren](/characters/peren), Varis |
+| **Players** | [Elowen](/characters/elowen), [Peren](/characters/peren), Varis ([Voris](/characters/voris)) |
 | **Location** | [Fey Realm](/places/fey-realm) exit, [Hooves Bay](/places/hooves-bay) |
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-05-04-S9-HoovesBay%26FirstDungeon.md)
@@ -14,7 +14,7 @@ This session was played earlier than its number suggests (May 2024), before the 
 
 ## Recap
 
-The party exited a **[Fey Realm](/places/fey-realm) portal**. [Flint](/characters/flint)'s leg was badly injured. In the most traumatic moment of the campaign, Flint reached back through the closing portal to grab his hammer — and the **portal severed his arm at the elbow**. Flint returned to the portal area to recover while the rest of the party continued.
+The party exited a **[Fey Realm](/places/fey-realm) portal**. [Flint](/characters/flint)'s leg was already badly injured from their time in the Fey Realm and was slowing the group down. In the most traumatic moment of the campaign, Flint reached back through the closing portal to grab his hammer — and the **portal severed his arm at the elbow**. Flint returned to the portal area to recover while the rest of the party continued.
 
 At **[Hooves Bay](/places/hooves-bay)**, a boy asked for help dealing with **pirates**, but the city guards were inactive. The party chose to leave.
 

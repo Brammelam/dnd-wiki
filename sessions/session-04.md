@@ -1,37 +1,35 @@
-# Session 4 — Fat Hans Ambush
+# Session 4 — Selling the Seed
 
 | | |
 |---|---|
 | **Date** | 2024-11-16 |
-| **Players** | [Peren](/characters/peren), [Voris](/characters/voris), [Elowen](/characters/elowen), [Fenris](/characters/fenris), [Lilith](/characters/lilith), [Gal'Rok](/characters/galrok) |
-| **Location** | Road between towns |
+| **Players** | [Voris](/characters/voris), [Elowen](/characters/elowen), [Flint](/characters/flint) |
+| **Location** | [Turn](/places/turn), road to [Rinden](/places/rinden), [Saltside](/places/saltside) |
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-11-16-Session4.md)
 
 ## Recap
 
-After a **cart crash** on the road, the party was hunted by mercenaries led by ex-guard **[Fat Hans](/characters/fat-hans)**.
+The party defeated the **hostile fairies** from the previous session's cliffhanger. The thorns around the Azure Oak wilted, and a **small blue fairy** appeared from the tree, granting permission to take a **seed**.
 
-The fight was decisive. The party defeated the mercenaries and learned the reason for the attack: during their [escape from Morgan's Keep](/events/escape-from-morgans-keep), the wall guards they killed were **sons of a countess**. She had hired Fat Hans and his crew to exact revenge.
+Returning toward [Turn](/places/turn), they encountered a **tent camp of soldiers**. The trader Hagenfeld offered **100 gold (Rinden currency)** for the seed, but they declined.
 
-The party:
-- Won the combat
-- Stole a **horse**
-- Took a **compass** and other gear
-- Tied [Fat Hans](/characters/fat-hans) and surviving mercenaries **to a tree**
-- Moved on
+Skipping the **Harvest Festival**, the party headed to [Rinden](/places/rinden) — a two-day journey. [Practical Joe](/characters/practical-joe) warned them that **house guards** were asking questions in Turn, suggesting the authorities were still searching for fugitives.
+
+In [Rinden](/places/rinden), they entered the wealthy **[Saltside](/places/saltside)** district and bluffed their way into a **fancy club**. They tried several buyers:
+
+- **[Toll Guild](/factions/toll-guild) collectors** — No deal
+- **Wealthy ladies** — [Elowen](/characters/elowen) sold the seed for **120 gold**
+- **[The Academy](/factions/the-academy) representative** — Offered services instead of gold; declined
+
+The session ended with the party 120 gold richer and free to plan their next move.
 
 ## Key Events
 
-- [Mercenary Ambush](/events/mercenary-ambush) — The countess's revenge
-- Discovery that the killed guards had noble connections
+- [Azure Oak Quest](/events/azure-oak-quest) concludes — Seed sold for 120 gold
+- First visit to [Rinden](/places/rinden) and [Saltside](/places/saltside)
 
-## New Characters
+## New Locations
 
-- [Fat Hans](/characters/fat-hans) — Mercenary leader
-
-## Loot
-
-- Horse
-- Compass (later used to track [Helga](/characters/helga))
-- Gear from the mercenaries
+- [Rinden](/places/rinden)
+- [Saltside](/places/saltside)

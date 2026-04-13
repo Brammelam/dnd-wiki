@@ -12,7 +12,7 @@
 
 ### Gal'Rok Alone
 
-[Gal'Rok](/characters/galrok), separated by the sealed door since last session, solved the button puzzle on his own and entered the crypt. He navigated the open coffins, crossed the perilous rope bridge (nearly catching fire from his torch), and made his way through the enormous underground city cavern. He heard the telepathic voice and saw a bridge collapse ahead. When he looked up, he saw a **mountain-sized dragon** crawling toward the platform — and [Fenris](/characters/fenris) lying burned and unconscious, with [Voris](/characters/voris) fleeing across a bridge in panic.
+[Gal'Rok](/characters/galrok), separated by the sealed door since last session, solved the button puzzle on her own and entered the crypt. She navigated the open coffins, crossed the perilous rope bridge (nearly catching fire from her torch), and made her way through the enormous underground city cavern. She heard the telepathic voice and saw a bridge collapse ahead. When she looked up, she saw a **mountain-sized dragon** crawling toward the platform — and [Fenris](/characters/fenris) lying burned and unconscious, with [Voris](/characters/voris) fleeing across a bridge in panic.
 
 ### The Dragon's Deal
 
@@ -31,7 +31,7 @@ Carrying the heavy chest up through the tunnels, the party was attacked by waves
 
 - [Voris](/characters/voris) picked off goblins with precise headshots, commenting dryly that the arrows went *"right through"*
 - [Fenris](/characters/fenris) cast **Barkskin** on Gal'Rok for protection, then **Entangle** to root goblins in place
-- [Gal'Rok](/characters/galrok) entered a **Rage**, cleaving through goblins with his axe — *"two small bodies snapped apart under the blade"*
+- [Gal'Rok](/characters/galrok) entered a **Rage**, cleaving through goblins with her axe — *"two small bodies snapped apart under the blade"*
 - They collected **10 goblin ears** (later worthless) and salvageable arrows
 
 ### The Escape

@@ -8,8 +8,8 @@
 |---|---|
 | **Type** | Exploration / Negotiation |
 | **Location** | [Turn](/places/turn), [Azure Oak Grove](/places/azure-oak-grove), [Rinden](/places/rinden) |
-| **Sessions** | [Session 2](/sessions/session-02), [Session 3](/sessions/session-03) |
-| **Participants** | Full party (Session 2), [Voris](/characters/voris), [Elowen](/characters/elowen), [Flint](/characters/flint) (Session 3) |
+| **Sessions** | [Session 3](/sessions/session-03), [Session 4](/sessions/session-04) |
+| **Participants** | Full party (Session 3), [Voris](/characters/voris), [Elowen](/characters/elowen), [Flint](/characters/flint) (Session 4) |
 
 </WikiInfobox>
 
@@ -36,7 +36,7 @@ The party entered the forest near Turn and encountered fey magic:
 
 ## Selling the Seed
 
-In [Session 3](/sessions/session-03), [Voris](/characters/voris), [Elowen](/characters/elowen), and [Flint](/characters/flint) traveled to [Rinden](/places/rinden):
+In [Session 4](/sessions/session-04), [Voris](/characters/voris), [Elowen](/characters/elowen), and [Flint](/characters/flint) traveled to [Rinden](/places/rinden):
 
 - Hagenfeld offered **100 gold** (Rinden currency) for the seed — declined
 - The party skipped Turn's Harvest Festival

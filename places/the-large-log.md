@@ -8,7 +8,7 @@
 |---|---|
 | **Type** | Inn / Tavern |
 | **Location** | [Turn](/places/turn) |
-| **First Seen** | [Session 2](/sessions/session-02) |
+| **First Seen** | [Session 3](/sessions/session-03) |
 
 </WikiInfobox>
 

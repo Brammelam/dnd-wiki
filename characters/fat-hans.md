@@ -9,7 +9,7 @@
 | **Race** | Human |
 | **Role** | Mercenary leader |
 | **Status** | Defeated |
-| **First Seen** | [Session 4](/sessions/session-04) |
+| **First Seen** | [Session 2](/sessions/session-02) |
 
 </WikiInfobox>
 

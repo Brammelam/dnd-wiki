@@ -1,35 +1,43 @@
-# Session 3 — Selling the Seed
+# Session 3 — Turn & the Azure Oak
 
 | | |
 |---|---|
 | **Date** | 2024-10-07 |
-| **Players** | [Voris](/characters/voris), [Elowen](/characters/elowen), [Flint](/characters/flint) |
-| **Location** | [Turn](/places/turn), road to [Rinden](/places/rinden), [Saltside](/places/saltside) |
+| **Players** | [Peren](/characters/peren), [Voris](/characters/voris), [Elowen](/characters/elowen), [Fenris](/characters/fenris), [Lilith](/characters/lilith), [Gal'Rok](/characters/galrok) |
+| **Location** | [Turn](/places/turn), [Azure Oak Grove](/places/azure-oak-grove) |
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-10-07-Session3.md)
 
 ## Recap
 
-The party defeated the **hostile fairies** from the previous session's cliffhanger. The thorns around the Azure Oak wilted, and a **small blue fairy** appeared from the tree, granting permission to take a **seed**.
+The full party arrived at **[Turn](/places/turn)**, a timber-trading town suffering from drought and food shortage. They settled at **[The Large Log](/places/the-large-log)** inn. Inside were soldiers, a nobleman, and a female orc with a distinctive metal wound.
 
-Returning toward [Turn](/places/turn), they encountered a **tent camp of soldiers**. The trader Hagenfeld offered **100 gold (Rinden currency)** for the seed, but they declined.
+**[Practical Joe](/characters/practical-joe)** became their local contact, explaining the drought and suggesting an **Azure Oak seed** could be worth enough to pay for food. The trader **Hagenfeld** was expected the next day with expensive supplies. When Hagenfeld arrived and the crowd grew angry at her prices, **[Gal'Rok](/characters/galrok)** gave 2 gold pieces to poor half-orcs.
 
-Skipping the **Harvest Festival**, the party headed to [Rinden](/places/rinden) — a two-day journey. [Practical Joe](/characters/practical-joe) warned them that **house guards** were asking questions in Turn, suggesting the authorities were still searching for fugitives.
+**[Lilith](/characters/lilith) and [Fenris](/characters/fenris)** ran a hoax: they rode into town claiming an old town in [Rinden](/places/rinden) had burned, trying to manipulate Hagenfeld. They told the story to Joe as well.
 
-In [Rinden](/places/rinden), they entered the wealthy **[Saltside](/places/saltside)** district and bluffed their way into a **fancy club**. They tried several buyers:
+The party ventured into the forest to find the [Azure Oak](/places/azure-oak-grove):
 
-- **[Toll Guild](/factions/toll-guild) collectors** — No deal
-- **Wealthy ladies** — [Elowen](/characters/elowen) sold the seed for **120 gold**
-- **[The Academy](/factions/the-academy) representative** — Offered services instead of gold; declined
+- **[Gal'Rok](/characters/galrok)** was charmed by a fairy and lured toward a ravine
+- **[Elowen](/characters/elowen)** received a **patron Calling** — the first manifestation of her warlock pact
+- They found the **Azure Oak** surrounded by protective thorns
+- **[Fenris](/characters/fenris)** climbed the tree in **squirrel form**
+- Disturbing the fairies caused them to merge into **one large fairy** that attacked, using roots to threaten the party
 
-The session ended with the party 120 gold richer and free to plan their next move.
+The session ended on a cliffhanger with the fairy attacking and roots closing in.
 
 ## Key Events
 
-- [Azure Oak Quest](/events/azure-oak-quest) concludes — Seed sold for 120 gold
-- First visit to [Rinden](/places/rinden) and [Saltside](/places/saltside)
+- [Azure Oak Quest](/events/azure-oak-quest) begins
+- [Elowen](/characters/elowen)'s patron Calling
+- The Hagenfeld hoax
+
+## New Characters
+
+- [Practical Joe](/characters/practical-joe)
 
 ## New Locations
 
-- [Rinden](/places/rinden)
-- [Saltside](/places/saltside)
+- [Turn](/places/turn)
+- [The Large Log](/places/the-large-log)
+- [Azure Oak Grove](/places/azure-oak-grove)

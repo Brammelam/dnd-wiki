@@ -9,7 +9,7 @@
 | **Type** | Enchanted forest clearing |
 | **Location** | Near [Turn](/places/turn) |
 | **Inhabitants** | Fey creatures |
-| **First Seen** | [Session 2](/sessions/session-02) |
+| **First Seen** | [Session 3](/sessions/session-03) |
 
 </WikiInfobox>
 

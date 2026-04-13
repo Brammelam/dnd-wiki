@@ -10,7 +10,7 @@
 | **Region** | Coastal |
 | **Notable NPCs** | [Salander](/characters/salander), [Father Terry](/characters/father-terry) |
 | **Factions** | [Toll Guild](/factions/toll-guild), [The Crabs](/factions/the-crabs) |
-| **First Seen** | [Session 3](/sessions/session-03) |
+| **First Seen** | [Session 4](/sessions/session-04) |
 
 </WikiInfobox>
 

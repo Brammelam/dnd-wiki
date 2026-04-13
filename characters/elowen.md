@@ -22,10 +22,10 @@ Little is known about Elowen's background before joining the party. She is a Woo
 
 ## Adventures
 
-### Azure Oak Quest (Session 2)
+### Azure Oak Quest (Session 3)
 Near [Turn](/places/turn), Elowen received a **patron Calling** while the party searched for the [Azure Oak](/places/azure-oak-grove). This was the first manifestation of her warlock pact's influence during the campaign.
 
-### Selling the Seed (Session 3)
+### Selling the Seed (Session 4)
 In [Rinden](/places/rinden), Elowen negotiated the sale of the Azure Oak seed in the [Saltside](/places/saltside) district, ultimately selling it for **120 gold** to a buyer at a fancy club — turning down an offer from [The Academy](/factions/the-academy) for services instead of gold.
 
 ### Hooves Bay & the Outpost (Session 9)

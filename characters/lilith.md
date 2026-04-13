@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| **Player** | Bram |
+| **Player** | Laura |
 | **Race** | Half-Elf |
 | **Class** | Bard |
 | **Status** | Active |
@@ -14,17 +14,17 @@
 
 </WikiInfobox>
 
-**Lilith** is a Half-Elf Bard played by **Bram** (who also plays [Voris](/characters/voris)). She is a charismatic performer skilled in deception and social manipulation.
+**Lilith** is a Half-Elf Bard played by **Laura**. She is a charismatic performer skilled in deception and social manipulation.
 
 ## Adventures
 
-### The Turn Hoax (Session 2)
+### The Turn Hoax (Session 3)
 Lilith and [Fenris](/characters/fenris) pulled off a daring con in [Turn](/places/turn). They rode into town claiming that an **old town in Rinden had burned**, hoping to manipulate the trader [Hagenfeld](/places/turn) into lowering his prices during the drought. They told this story to [Practical Joe](/characters/practical-joe) as well, weaving a web of disinformation.
 
-### Mercenary Ambush (Session 4)
+### Mercenary Ambush (Session 2)
 Lilith was present during the [mercenary ambush](/events/mercenary-ambush) by [Fat Hans](/characters/fat-hans) and his crew, helping the party fight off the attackers and escape with stolen supplies.
 
 ## Relationships
 
 - **[Fenris](/characters/fenris)** — Partner in the Turn hoax
-- **[Voris](/characters/voris)** — Both played by the same player; not typically present in the same sessions
+- **[Voris](/characters/voris)** — Fellow party member

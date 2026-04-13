@@ -17,14 +17,14 @@ The party breaks free from captivity and flees the capital, becoming fugitives. 
 </div>
 <div class="wiki-timeline-entry">
 
-### [Azure Oak Quest](/events/azure-oak-quest)
-In [Turn](/places/turn), the party ventures into an enchanted forest to find a valuable Azure Oak seed. *Sessions 2–3*
+### [Mercenary Ambush](/events/mercenary-ambush)
+[Fat Hans](/characters/fat-hans) and his mercenaries ambush the party on the road, hired by a vengeful countess. *Session 2*
 
 </div>
 <div class="wiki-timeline-entry">
 
-### [Mercenary Ambush](/events/mercenary-ambush)
-[Fat Hans](/characters/fat-hans) and his mercenaries ambush the party on the road, hired by a vengeful countess. *Session 4*
+### [Azure Oak Quest](/events/azure-oak-quest)
+In [Turn](/places/turn), the party ventures into an enchanted forest to find a valuable Azure Oak seed. *Sessions 3–4*
 
 </div>
 <div class="wiki-timeline-entry">

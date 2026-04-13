@@ -12,7 +12,7 @@ The party of fugitives framed for the [Crown Prince's murder](/events/crown-prin
 | [Peren](/characters/peren) | Ryan | Wood Elf | Rogue |
 | [Elowen](/characters/elowen) | Vanja | Wood Elf | Warlock |
 | [Fenris Shadowveil](/characters/fenris) | Simon | Wood Elf | Druid |
-| [Lilith](/characters/lilith) | Bram | Half-Elf | Bard |
+| [Lilith](/characters/lilith) | Laura | Half-Elf | Bard |
 | [Gal'Rok](/characters/galrok) | Leo | Half-Orc | Barbarian |
 | [Flint](/characters/flint) | Steffen | Mountain Dwarf | Paladin |
 | [Thia](/characters/thia) | Maria | Drow | Sorcerer |

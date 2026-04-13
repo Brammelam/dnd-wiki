@@ -51,12 +51,14 @@
   font-weight: 600;
   border-bottom: 2px solid var(--vp-c-brand-1);
   padding-bottom: 0.4rem;
+  overflow: hidden;
 }
 
 .vp-doc h2 {
   font-weight: 500;
   border-bottom: 1px solid var(--wiki-color-warm-border);
   padding-bottom: 0.3rem;
+  overflow: hidden;
 }
 
 .vp-doc h3 {
