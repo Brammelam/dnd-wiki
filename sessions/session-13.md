@@ -60,5 +60,4 @@ With the medallion and evidence secured, they headed back toward the horses.
 
 - Glowing medallion (evidence)
 - Burned book pages (pyromancer's spellbook)
-- Two rapiers from the smithy
-- Purse marked "Sigurd"
+- Bag containing remains of pyromancer's ashes
