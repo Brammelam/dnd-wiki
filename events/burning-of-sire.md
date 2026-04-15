@@ -8,7 +8,7 @@
 |---|---|
 | **Type** | Disaster / Combat |
 | **Location** | [Sire](/places/sire) |
-| **Session** | [Session 13](/sessions/session-13) |
+| **Session** | [Session 22](/sessions/session-22) |
 | **Participants** | [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 
 </WikiInfobox>

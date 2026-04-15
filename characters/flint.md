@@ -30,7 +30,7 @@ Flint was among the first arrested for the [Crown Prince's murder](/events/crown
 ### Selling the Seed (Session 4)
 Flint traveled with [Voris](/characters/voris) and [Elowen](/characters/elowen) to [Rinden](/places/rinden), helping negotiate the sale of the Azure Oak seed.
 
-### The Fey Portal (Session 9)
+### The Fey Portal (Session 10)
 In the most traumatic moment of the campaign, Flint's leg had been badly injured during their time in the Fey Realm and was slowing the party down. When they reached a portal to escape, Flint went through but reached back to grab his hammer. The **portal severed his arm at the elbow** — a devastating injury that has permanently changed him. See: [Fey Portal & Flint's Arm](/events/fey-portal).
 
 ## Injuries

@@ -9,7 +9,7 @@
 | **Type** | Mysterious location |
 | **Access** | Sealed portal in the elven outpost |
 | **Status** | Unexplored |
-| **First Seen** | [Session 9](/sessions/session-09) (mentioned) |
+| **First Seen** | [Session 10](/sessions/session-10) (mentioned) |
 
 </WikiInfobox>
 

@@ -8,7 +8,7 @@
 |---|---|
 | **Type** | Elven homeland |
 | **Known for** | Metalwork, optical lenses |
-| **First Seen** | [Session 6](/sessions/session-06) (mentioned) |
+| **First Seen** | [Session 16](/sessions/session-16) (mentioned) |
 
 </WikiInfobox>
 

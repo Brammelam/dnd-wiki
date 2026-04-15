@@ -10,7 +10,7 @@
 | **Role** | Academy receptionist |
 | **Base** | [The Academy](/places/the-academy), [Dior](/places/dior) |
 | **Status** | Active |
-| **First Seen** | [Session 6](/sessions/session-06) |
+| **First Seen** | [Session 16](/sessions/session-16) |
 
 </WikiInfobox>
 

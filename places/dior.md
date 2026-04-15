@@ -10,7 +10,7 @@
 | **Region** | Mountain valley |
 | **Notable NPCs** | [Carlos](/characters/carlos), [Bob Swords](/characters/bob-swords), [Toltec](/characters/toltec), [Helga](/characters/helga) |
 | **Factions** | [The Academy](/factions/the-academy) |
-| **First Seen** | [Session 6](/sessions/session-06) |
+| **First Seen** | [Session 15](/sessions/session-15) |
 
 </WikiInfobox>
 

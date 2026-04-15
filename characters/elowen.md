@@ -28,14 +28,18 @@ Near [Turn](/places/turn), Elowen received a **patron Calling** while the party 
 ### Selling the Seed (Session 4)
 In [Rinden](/places/rinden), Elowen negotiated the sale of the Azure Oak seed in the [Saltside](/places/saltside) district, ultimately selling it for **120 gold** to a buyer at a fancy club — turning down an offer from [The Academy](/factions/the-academy) for services instead of gold.
 
-### Hooves Bay & the Outpost (Session 9)
+### Thorn's Tower (Session 9)
+With [Voris](/characters/voris) and [Peren](/characters/peren), she trained under [Thorn](/characters/thorn-alchemist) and went to harvest serpent venom. When Thorn **drugged the oars** so others would faint and leave Peren alone against the snake, Elowen **destroyed Thorn's front door** in a rage ([Thorn's Serpent and Fey Visions](/events/thorn-serpent-and-visions)).
+
+### Hooves Bay & the Outpost (Session 10)
 At [Hooves Bay](/places/hooves-bay), [Sommerhimmel](/characters/sommerhimmel) — a fey entity — was angry at Elowen for lying to the fey. As punishment (or guidance), Sommerhimmel sent her to discover a **hidden treasure** in a grove. Elowen found a secret phrase that opened an **ancient elven military outpost**, where she had a vision of a masked woman who had once protected the place.
 
-### Fey Portal (Session 9)
+### Fey Portal (Session 10)
 When leaving the [Fey Realm](/places/fey-realm), [Flint](/characters/flint) reached back through a closing portal to grab his hammer. The portal [severed his arm at the elbow](/events/fey-portal) — a traumatic moment for the entire party.
 
 ## Relationships
 
+- **[Thorn](/characters/thorn-alchemist)** — Poison tutor; Elowen smashed his door after the oar trick
 - **[Sommerhimmel](/characters/sommerhimmel)** — A fey entity who has both punished and guided Elowen
 - **[Flint](/characters/flint)** — Fellow party member who was injured during the fey portal incident
 - **Her Patron** — The source of her warlock powers; details remain mysterious

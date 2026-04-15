@@ -9,11 +9,11 @@
 | **Role** | Assistant to [Toltec](/characters/toltec) |
 | **Base** | [The Academy](/places/the-academy), [Dior](/places/dior) |
 | **Status** | Active |
-| **First Seen** | [Session 8](/sessions/session-08) |
+| **First Seen** | [Session 18](/sessions/session-18) |
 
 </WikiInfobox>
 
-**Frida** is [Toltec](/characters/toltec)'s assistant at [The Academy](/places/the-academy) in [Dior](/places/dior).
+**Frida** is [Toltec](/characters/toltec)'s assistant at [The Academy](/places/the-academy) in [Dior](/places/dior). (Not [Frida Marsensen](/characters/frida-marsensen) of [Fort John](/places/fort-john).)
 
 ## Role in the Story
 

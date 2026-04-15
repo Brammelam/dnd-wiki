@@ -60,7 +60,7 @@ The wiki uses a **"Dark Codex" aesthetic** — warm gold/amber accent on dark ba
 
 ## Adding a New Session (Step-by-Step Agent Playbook)
 
-When the user provides a new session summary (PDF, text, or markdown), follow these steps in order. The session number is the next integer after the highest existing one in `sessions/`.
+When the user provides a new session summary (PDF, text, or markdown), follow these steps in order. The wiki currently has **24** numbered recaps (`session-01` … `session-24`); the next file is **`session-25.md`**.
 
 ### 1. Create the session file
 
@@ -97,7 +97,7 @@ Create `sessions/session-XX.md` following the established format:
 
 Rules:
 - Every character, place, faction, and event reference MUST be a markdown link to the correct wiki page.
-- The "original session notes" link MUST point to the corresponding file in `https://gitlab.com/hellesvik/dnd/-/blob/main/History/`. Early sessions (1-5, 9) are `.md` files; later sessions (6+) are `.pdf` files. Match by date prefix in the filename.
+- The "original session notes" link MUST point to the corresponding file in `https://gitlab.com/hellesvik/dnd/-/blob/main/History/`. Several early entries are `.md` (e.g. sessions 1–5, Hooves Bay); most others are `.pdf`. Use the exact filename given in `sessions/index.md` / the GitLab tree — do not assume a rule from session number alone.
 - Use the existing slug conventions: lowercase, hyphens, no special characters (e.g., `galrok` not `gal-rok`, `morgans-keep` not `morgan's-keep`).
 - Match the narrative tone of prior sessions — third person, past tense, detailed but not overwrought.
 

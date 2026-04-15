@@ -9,7 +9,7 @@
 | **Type** | Town (destroyed) |
 | **Region** | River valley |
 | **Status** | Burned |
-| **First Seen** | [Session 13](/sessions/session-13) |
+| **First Seen** | [Session 22](/sessions/session-22) |
 
 </WikiInfobox>
 

@@ -8,7 +8,7 @@
 |---|---|
 | **Type** | Settlement |
 | **Region** | River region |
-| **First Seen** | [Session 12](/sessions/session-12) (mentioned) |
+| **First Seen** | [Session 19](/sessions/session-19) (mentioned) |
 
 </WikiInfobox>
 

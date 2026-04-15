@@ -10,11 +10,11 @@
 | **Location** | Beneath [Dior](/places/dior) |
 | **Builder** | Ancient dwarves |
 | **Age** | 700+ years sealed |
-| **First Seen** | [Session 6](/sessions/session-06) |
+| **First Seen** | [Session 17](/sessions/session-17) |
 
 </WikiInfobox>
 
-**The Crypt of Dior** (also called **the Klypten**) is a 700-year-old sealed dwarven burial site beneath [Dior](/places/dior). The party explored it over three sessions, guided by [Carlos](/characters/carlos) who had discovered a secret entrance.
+**The Crypt of Dior** (also called **the Klypten**) is a 700-year-old sealed dwarven burial site beneath [Dior](/places/dior). The party explored it across [sessions 16–18](/events/dior-crypt), guided by [Carlos](/characters/carlos) who had discovered a secret entrance.
 
 ## Layout
 

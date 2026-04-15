@@ -8,7 +8,7 @@
 |---|---|
 | **Type** | Espionage / Confrontation |
 | **Location** | [Dior](/places/dior), [Tyr Moir](/places/tyr-moir) |
-| **Sessions** | [Session 10](/sessions/session-10), [Session 11](/sessions/session-11), [Session 12](/sessions/session-12) |
+| **Sessions** | [Session 19](/sessions/session-19), [Session 20](/sessions/session-20), [Session 21](/sessions/session-21) |
 | **Participants** | [Voris](/characters/voris), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Target** | [Helga](/characters/helga) |
 
@@ -20,7 +20,7 @@ The **Dior Wedding** plot spanned three sessions of elaborate espionage, culmina
 
 A grand wedding was being prepared at the temple in the center of [Dior](/places/dior)'s lake. [Helga](/characters/helga), the [King's Guard](/factions/kings-guard) captain who had arrested the party, was present overseeing security and logistics.
 
-## Reconnaissance (Session 10)
+## Reconnaissance (Session 19)
 
 The party spent days surveilling and infiltrating:
 
@@ -29,7 +29,7 @@ The party spent days surveilling and infiltrating:
 - **Equipment gathering** — They purchased elemental arrows, potions (including laxatives), disguise materials, and a grappling hook from [Bob Swords](/characters/bob-swords) and the Nymph's Tears shop.
 - **Wedding invitations** — Obtained through [Bob Swords](/characters/bob-swords).
 
-## The Plan (Session 11)
+## The Plan (Session 20)
 
 The party decided against direct violence at the wedding and instead planned to **lure Helga** to a private meeting:
 
@@ -39,7 +39,7 @@ The party decided against direct violence at the wedding and instead planned to 
 - [Fenris](/characters/fenris) (as a cat) **planted a compass** in Helga's belt pouch to track her movements
 - Sent an anonymous threat via magical ring: *"Meet at Tyr Moir, at dusk or wedding destroyed. Come alone."*
 
-## The Confrontation (Sessions 11–12)
+## The Confrontation (Session 21)
 
 At [Tyr Moir](/places/tyr-moir) graveyard:
 
@@ -51,7 +51,7 @@ At [Tyr Moir](/places/tyr-moir) graveyard:
 
 The interrogation revealed crucial information about the [Crown Prince murder](/events/crown-prince-murder) conspiracy:
 
-- **Lieutenant Jet** filed a false report, manipulated through his wife's debts and pressure from the [Humanus Association](/factions/humanus-association). His wife is now imprisoned in "the Hole"
+- **[Lieutenant Jet](/characters/lieutenant-jet)** filed a false report, manipulated through his wife's debts and pressure from the [Humanus Association](/factions/humanus-association). His wife is now imprisoned in "the Hole"
 - Helga promised to **reduce their wanted status** but could never help them openly
 - She warned: if they contacted her again, duty would force her to arrest them
 

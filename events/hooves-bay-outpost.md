@@ -8,7 +8,7 @@
 |---|---|
 | **Type** | Exploration / Discovery |
 | **Location** | [Hooves Bay](/places/hooves-bay) |
-| **Session** | [Session 9](/sessions/session-09) |
+| **Session** | [Session 10](/sessions/session-10) |
 | **Participants** | [Elowen](/characters/elowen), [Peren](/characters/peren), Varis |
 
 </WikiInfobox>

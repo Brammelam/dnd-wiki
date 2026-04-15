@@ -10,7 +10,7 @@
 | **Role** | Fey entity |
 | **Base** | [Fey Realm](/places/fey-realm) |
 | **Status** | Active |
-| **First Seen** | [Session 9](/sessions/session-09) |
+| **First Seen** | [Session 10](/sessions/session-10) |
 
 </WikiInfobox>
 

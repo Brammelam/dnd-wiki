@@ -28,13 +28,13 @@
 ### Turn & Generosity (Session 3)
 In [Turn](/places/turn), when the party encountered angry crowds dealing with drought and food shortages, Gal'Rok quietly gave **2 gold pieces** to poor half-orcs in the crowd — a small but telling act of kindness.
 
-### Escaping the Crypt (Session 8)
+### Escaping the Crypt (Session 18)
 Gal'Rok was separated from the party by a sealed door in [the Crypt](/places/the-crypt). She solved the button puzzle on her own, crossed the treacherous rope bridge (nearly catching fire from her torch), and reunited with the others just as a massive dragon emerged. She helped carry the heavy treasure chest out and fought through waves of goblins, cleaving through them with her axe while in a rage.
 
-### Wedding Reconnaissance (Session 10)
+### Wedding Reconnaissance (Session 19)
 In [Dior](/places/dior), Gal'Rok helped case the temple for the upcoming wedding. He transformed into a cat (via party magic) to follow [Helga](/characters/helga) and later visited a relic shop seeking a device that could capture images.
 
-### Burning of Sire (Session 13)
+### Burning of Sire (Session 22)
 Gal'Rok and [Fenris](/characters/fenris) rode to investigate fires near [Sire](/places/sire). They rescued [Knut Pilsen](/characters/knut-pilsen) and his daughter from a burning building, with Gal'Rok smothering flames with her cloak despite her own **trauma around fire**. She then fought a pyromancer on the town square, taking a direct fireball to the chest and continuing to fight. She severed the pyromancer's hand with her glass axe in a devastating strike but was eventually knocked unconscious by a point-blank fire explosion before being revived by Fenris.
 
 ## Notable Moments

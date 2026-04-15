@@ -1,60 +1,28 @@
-# Session 12 — Graveyard Confrontation
+# Session 12 — Fort John, Part One
 
 | | |
 |---|---|
-| **Date** | 2026-02-15 |
-| **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
-| **Location** | [Tyr Moir](/places/tyr-moir), [Dior](/places/dior) outskirts, military camp |
+| **Date** | 2025-06-06 |
+| **Players** | Varis ([Voris](/characters/voris)), [Elowen](/characters/elowen), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok), [Peren](/characters/peren) |
+| **Location** | Fey portal chamber, approach to **Fort John** |
 
-> [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-02-15-Dior-Helga-Confrontation.pdf)
+> [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-06-06-FortJohnOne.pdf)
 
 ## Recap
 
-### The Interrogation
+**Elowen** touched a **crystal** and met **Mirbog**, a half-orc guardian sent by **Titania** to keep a **portal** sealed. Three relics — shield, sword, mask — anchored the seal; Elowen chose the **mask** (+2 illusion spells, *Nathair's Mischief* once per day). A ritual freed them; the crystal became **spear-like** and dangerously **healing** — even **reviving** a dead orc at a terrible cost.
 
-Night at the [Tyr Moir](/places/tyr-moir) graveyard. [Helga](/characters/helga), in polished King's Guard armor with a hammer on her back, faced the party. She acknowledged arresting them and confirmed she still held suspicions, but was willing to listen.
+The party realized removing the relics might unleash a **dead horde**; Mirbog gave a **formula to reseal** the gate and departed. They pressed toward **Fort John**, now a **rebel-occupied** siege camp: **Karl Marsensen**'s arrest had sparked revolt. **Lieutenant Markus** and **Baron Peridott** hired them as "independent agents" — **5 gp** each to extract Karl, **15 gp** to solve the crisis, plus a **masterwork bow** rumor.
 
-Key revelations from Helga:
-- The party's arrest report was filed by **Lieutenant Jet**, who was manipulated through his wife's gambling debts and pressure from the **[Humanus Association](/factions/humanus-association)**. His wife is now imprisoned in "the Hole"
-- Innocent elves had been **tortured and executed** for the murder
-- She could use her network to **reduce the party's wanted status** if they stayed low
-- The cardinal in the king's council could **compel truth** — a potential path to justice
-- She would **not** help them openly; if they contacted her again, she would arrest them
-
-[Voris](/characters/voris) drew his bow and aimed at her. [Fenris](/characters/fenris) placed a hand on the bow to de-escalate. They pressed harder with a knife to her guard's throat, but Helga held firm — she had said everything she intended to say.
-
-They released the bound guard, warned Helga that her family would suffer if anything happened, and retreated.
-
-### Aftermath & Planning
-
-At the inn, they hatched a new plan: a **prison break** to free the lieutenant's wife as a bargaining chip. They discussed disguises, fake invitations, and seeking allies in elven settlements or through shady contacts.
-
-They visited [Bob Swords](/characters/bob-swords), who bought back their wedding invitations. Bob provided intelligence and helped with logistics. The party discussed infiltrating the [Humanus Association](/factions/humanus-association) (difficult — they likely only admit humans) and considered acquiring locksmith tools or telescopes.
-
-[Gal'Rok](/characters/galrok) mentioned a strange sword that could **teleport** both wielder and target to a random spot within 10 meters — they considered using it for a jailbreak by striking through a cell window.
-
-### Leaving Dior
-
-The party exited Dior through the long tunnel. Outside, a large **military camp** was spread along the riverbank — tents, fires, horses, and an uneasy atmosphere. Smoke drifted from the west, and something was burning.
-
-[Voris](/characters/voris) approached a young soldier and showed his City Watch insignia. The soldier spoke of his service under "RitznJett," worship of Tyr, Torm, and Ylmater, and revealed that the force was likely **marching south toward Morgan's Keep**. The cardinal had reportedly **fled to Dior** and was sending forces against "Orrids Keep."
-
-### City Planning
-
-In a remarkable scene, the party sat down and **built a map of Morgan's Keep** using markers:
-- Placed the castle, library, and a desecrated sacred grove
-- Mapped noble districts, displaced family areas, the shipyard
-- Debated the location of the [Toll Guild](/factions/toll-guild), barracks, and thieves' guild
-- Designated Northern Docks, Southern Docks, Observatory tower
-- Created a General Camp with curfew enforcement
-- Named a settlement called "Springtown" at a creek
-
-[Fenris](/characters/fenris) used **Speak with Plants** on an old pine tree by the river. The tree communicated: *"rush. dry. safe."* — confirming the river flowed, the land was drier, and smoke was present but no immediate danger.
+Plans ranged from **diplomacy** with Karl's wife **Frida**, **Fenris** as giant spider, **illusions**, to **sabotage** of supplies. The fortress's rusted hinges, side doors, and river approaches were scouted.
 
 ## Key Events
 
-- [Dior Wedding & Helga Confrontation](/events/dior-wedding) — Interrogation and aftermath
-- [Humanus Association](/factions/humanus-association) identified as conspirators
-- Military buildup outside Dior discovered
-- Morgan's Keep city map created
-- Party splits: Voris/Peren to Morgan's Keep, Fenris/Gal'Rok toward smoke
+- Portal seal / Mirbog / mask artifact
+- Fort John rebellion setup; baron's contract
+
+## Related
+
+- [Fort John Rebellion](/events/fort-john-rebellion)
+- [Fort John](/places/fort-john), [Mirbog](/characters/mirbog), [Baron Peridott](/characters/baron-peridott), [Markus](/characters/markus-lieutenant)
+- Political fallout continues in Sessions 13–14

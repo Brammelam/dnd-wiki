@@ -1,45 +1,30 @@
-# Session 9 — Hooves Bay & the Outpost
+# Session 9 — Snakes & the Fey
 
 | | |
 |---|---|
-| **Date** | 2024-05-04 |
-| **Players** | [Elowen](/characters/elowen), [Peren](/characters/peren), Varis ([Voris](/characters/voris)) |
-| **Location** | [Fey Realm](/places/fey-realm) exit, [Hooves Bay](/places/hooves-bay) |
+| **Date** | 2025-03-22 |
+| **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Elowen](/characters/elowen) |
+| **Location** | Coast near **Havfika**, alchemist **Thorn**'s hut, snake island, Fey-touched wilds |
 
-> [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-05-04-S9-HoovesBay%26FirstDungeon.md)
-
-::: info Note on Chronology
-This session was played earlier than its number suggests (May 2024), before the numbered sessions 1–5 (August–December 2024). The "Session 9" label comes from the original file naming.
-:::
+> [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-03-22-S8-Snakes%26Fey.pdf)
 
 ## Recap
 
-The party exited a **[Fey Realm](/places/fey-realm) portal**. [Flint](/characters/flint)'s leg was already badly injured from their time in the Fey Realm and was slowing the group down. In the most traumatic moment of the campaign, Flint reached back through the closing portal to grab his hammer — and the **portal severed his arm at the elbow**. Flint returned to the portal area to recover while the rest of the party continued.
+Varis, Peren, and Elowen sought **[Thorn](/characters/thorn-alchemist)**, a reclusive poison expert recommended by **[Griselda](/characters/griselda-mud-street)**. Thorn lived by the sea with a small stone tower. Wary but curious, he taught [Elowen](/characters/elowen) recipes (including **"Dobbelsvin"**) and sent them to an **island sea serpent** for venom.
 
-At **[Hooves Bay](/places/hooves-bay)**, a boy asked for help dealing with **pirates**, but the city guards were inactive. The party chose to leave.
+Thorn had **rubbed sleeping potion on the oars** of the rowboat so several of them **collapsed unconscious** when they reached the island — his aim was to force **[Peren](/characters/peren)** to face the serpent **alone**. [Elowen](/characters/elowen), furious at the trick, went into a **rage** and **smashed Thorn's front door**.
 
-That night, **[Sommerhimmel](/characters/sommerhimmel)**, a fey entity, was angry at [Elowen](/characters/elowen) for lying to the fey. Sommerhimmel sent her to find a **hidden treasure** in a nearby grove.
+The **serpent fight** was desperate: poison clouds, bites, and narrow survival. Back at Thorn's, Elowen deepened her craft — and suffered **visions**: caged beings **Grimm** and **Bobble** in flame, a calling tied to the **[Fey Realm](/places/fey-realm)**. A ritual would need a **friend's stick**, **three gold coins**, and **a life** (interpreted with grim care).
 
-Following this lead, the party discovered:
-- A **secret phrase** that opened a concealed entrance
-- An **ancient elven military outpost** hidden underground
-- **Loot** from the ancient armory
-- A **ghost** haunting the corridors
-- A **sealed portal to [Dead Isle](/places/dead-isle)**
-- **Crystals** by an underground lake
-
-When they took the **largest crystal**, [Elowen](/characters/elowen) had a vision of a **masked woman** who had once protected the place. Movement was detected in the lake but not investigated.
+Omens of fire and fey obligation set up the party's next steps into stranger magic.
 
 ## Key Events
 
-- [Fey Portal & Flint's Arm](/events/fey-portal) — Flint loses his arm
-- [Hooves Bay & Ancient Outpost](/events/hooves-bay-outpost) — Discovery of the hidden outpost
+- Poison training with Thorn; sea serpent harvest
+- Elowen's fey visions (Grimm, Bobble) and looming ritual cost
 
-## New Characters
+## Related
 
-- [Sommerhimmel](/characters/sommerhimmel) — Fey entity
-
-## New Locations
-
-- [Hooves Bay](/places/hooves-bay)
-- [Dead Isle](/places/dead-isle) (mentioned, sealed portal)
+- [Thorn's Serpent and Fey Visions](/events/thorn-serpent-and-visions)
+- [Thorn](/characters/thorn-alchemist), [Havfika](/places/havfika)
+- Bridges into later fey-portal and Hooves Bay threads

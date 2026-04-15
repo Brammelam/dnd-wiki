@@ -8,7 +8,7 @@
 |---|---|
 | **Type** | Graveyard / Sacred site |
 | **Location** | Outside [Dior](/places/dior), hillside |
-| **First Seen** | [Session 11](/sessions/session-11) |
+| **First Seen** | [Session 21](/sessions/session-21) |
 
 </WikiInfobox>
 

@@ -8,7 +8,7 @@
 |---|---|
 | **Type** | Dungeon crawl |
 | **Location** | [The Crypt of Dior](/places/the-crypt), [Dior](/places/dior) |
-| **Sessions** | [Session 6](/sessions/session-06), [Session 7](/sessions/session-07), [Session 8](/sessions/session-08) |
+| **Sessions** | [Session 16](/sessions/session-16), [Session 17](/sessions/session-17), [Session 18](/sessions/session-18) |
 | **Participants** | [Voris](/characters/voris), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Guide** | [Carlos](/characters/carlos) |
 
@@ -16,7 +16,7 @@
 
 The **Dior Crypt Expedition** was a three-session dungeon crawl through a 700-year-old sealed dwarven burial complex beneath [Dior](/places/dior).
 
-## Setup (Session 6)
+## Setup (Session 16)
 
 The party spent their first day in Dior preparing:
 - Sold magical glasses to [Gilda](/characters/gilda) at [the Academy](/places/the-academy) for 300 gold
@@ -24,7 +24,7 @@ The party spent their first day in Dior preparing:
 - Met [Carlos](/characters/carlos) on the shadow side, who offered to guide them to a secret entrance for 25% of loot
 - Entered through loose planks in a cellar wall, accessed via the back of the temple near the lake
 
-## The Descent (Sessions 6–7)
+## The Descent (Session 17)
 
 ### Puzzle Door
 Four dwarf statues guarded a sealed stone door. The party solved the button sequence puzzle, but [Gal'Rok](/characters/galrok) was caught by a **magical trap** — threads of light tried to pull her apart, dislocating her shoulder.
@@ -48,7 +48,7 @@ A massive dragon emerged from beneath the platform. It spoke **telepathically**,
 - [Voris](/characters/voris) was **magically branded** as seal of the oath
 - The dragon offered them the treasure chest in exchange for a future task: light a rune in [Morgan's Keep](/places/morgans-keep) and explore a hidden place there
 
-## Escape (Session 8)
+## Escape (Session 18)
 
 [Gal'Rok](/characters/galrok), separated from the group, solved the puzzle door alone and fought through on her own. The party reunited, fought through waves of goblins, and carried the heavy treasure chest back across the river using rope and — memorably — **goblin intestines** as extra binding.
 

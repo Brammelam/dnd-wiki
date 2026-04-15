@@ -9,7 +9,7 @@
 | **Race** | Dwarf |
 | **Role** | Courier / Agent of [The Academy](/factions/the-academy) |
 | **Status** | Active |
-| **First Seen** | [Session 14](/sessions/session-14) |
+| **First Seen** | [Session 23](/sessions/session-23) |
 
 </WikiInfobox>
 

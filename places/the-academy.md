@@ -9,7 +9,7 @@
 | **Type** | Scholarly institution |
 | **Location** | [Dior](/places/dior), morning side |
 | **Notable NPCs** | [Toltec](/characters/toltec), [Gilda](/characters/gilda), [Frida](/characters/frida) |
-| **First Seen** | [Session 6](/sessions/session-06) |
+| **First Seen** | [Session 16](/sessions/session-16) |
 
 </WikiInfobox>
 

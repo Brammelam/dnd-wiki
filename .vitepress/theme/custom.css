@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap');
 
 :root {
+  /* Wider sidebar so "Chronicles of Morgan" + logo fit; tune layout max for desktops */
+  --vp-sidebar-width: 304px;
+  --vp-layout-max-width: 1560px;
+  --wiki-page-inline-pad: clamp(16px, 2.5vw, 40px);
+
   --vp-c-brand-1: #96722d;
   --vp-c-brand-2: #7d5e22;
   --vp-c-brand-3: #634a18;
@@ -179,7 +184,9 @@
 .VPNavBarTitle .title {
   font-family: 'Cinzel', serif;
   font-weight: 600;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
+  font-size: 15px;
+  overflow: visible;
 }
 
 .VPSidebar .group > .title {
@@ -212,4 +219,43 @@
   font-family: 'Cinzel', serif;
   font-size: 0.85rem;
   letter-spacing: 0.02em;
+}
+
+/* ── Wide screens: avoid huge empty left gutter + title/sidebar overlap ───── Default VitePress (≥1440px) expands sidebar into a centered max-width gutter;
+   we use modest inline padding so the sidebar and nav title align without clipping. */
+
+@media (min-width: 1440px) {
+  .VPSidebar {
+    padding-left: var(--wiki-page-inline-pad) !important;
+    width: var(--vp-sidebar-width) !important;
+    max-width: var(--vp-sidebar-width) !important;
+  }
+
+  .VPNavBar.has-sidebar .container > .title {
+    padding-left: var(--wiki-page-inline-pad) !important;
+    padding-right: 12px;
+    width: auto !important;
+    min-width: var(--vp-sidebar-width);
+    max-width: calc(var(--vp-sidebar-width) + 3rem);
+    overflow: visible;
+    z-index: 3;
+  }
+
+  .VPNavBar.has-sidebar .content {
+    padding-left: calc(var(--wiki-page-inline-pad) + var(--vp-sidebar-width)) !important;
+    padding-right: var(--wiki-page-inline-pad) !important;
+  }
+
+  .VPNavBar.has-sidebar .divider {
+    padding-left: calc(var(--wiki-page-inline-pad) + var(--vp-sidebar-width)) !important;
+  }
+
+  .VPContent.has-sidebar {
+    padding-left: calc(var(--wiki-page-inline-pad) + var(--vp-sidebar-width)) !important;
+    padding-right: var(--wiki-page-inline-pad) !important;
+  }
+
+  .VPLocalNav.has-sidebar {
+    padding-left: calc(var(--wiki-page-inline-pad) + var(--vp-sidebar-width)) !important;
+  }
 }

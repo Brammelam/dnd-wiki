@@ -8,13 +8,13 @@ const categories = [
     title: 'Characters',
     href: '/characters/',
     description: 'Player characters and the NPCs encountered across the campaign.',
-    count: 24,
+    count: 41,
   },
   {
     title: 'Places',
     href: '/places/',
     description: 'Cities, taverns, dungeons, and wilderness across the realm.',
-    count: 19,
+    count: 27,
   },
   {
     title: 'Factions',
@@ -26,20 +26,20 @@ const categories = [
     title: 'Events',
     href: '/events/',
     description: 'Major plot points from conspiracy to war.',
-    count: 10,
+    count: 18,
   },
   {
     title: 'Sessions',
     href: '/sessions/',
     description: 'Full recaps of every session played.',
-    count: 14,
+    count: 24,
   },
 ]
 
 const recentSessions = [
-  { title: 'Session 14 — Salt, Thorn & Cheese', href: '/sessions/session-14' },
-  { title: 'Session 13 — Burning of Sire', href: '/sessions/session-13' },
-  { title: 'Session 12 — Graveyard Confrontation', href: '/sessions/session-12' },
+  { title: 'Session 24 — Return to Morgan’s Keep', href: '/sessions/session-24' },
+  { title: 'Session 23 — Salt, Thorn & Cheese', href: '/sessions/session-23' },
+  { title: 'Session 22 — Burning of Sire', href: '/sessions/session-22' },
 ]
 </script>
 

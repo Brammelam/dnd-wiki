@@ -31,23 +31,26 @@
 ### Azure Oak Quest (Session 3)
 In squirrel form, Fenris climbed to the top of the [Azure Oak](/places/azure-oak-grove) to confront the fey protecting it. He negotiated with a small blue fairy who allowed them to take a seed.
 
-### The Crypt of Dior (Sessions 7–8)
+### The Crypt of Dior (Sessions 17–18)
 Fenris was central to surviving the crypt. As a polar bear, he fought the fire elemental with devastating melee attacks while healing himself between rounds. He nearly died when a dragon emerged from beneath the platform, taking a direct fireball. The dragon spared the party after they swore an oath of silence about its existence, magically branding [Voris](/characters/voris).
 
-### Wedding Espionage (Sessions 10–11)
+### Wedding Espionage (Sessions 19–20)
 Fenris repeatedly transformed into a **cat** to infiltrate the temple in [Dior](/places/dior) ahead of the wedding. As a cat, he:
 - Caused chaos by knocking over a flower vase to create a diversion
 - Scratched a servant who chased him with a broom
 - Followed [Helga](/characters/helga) through the city to discover where she lived
 - Planted a compass tracker in Helga's belt pouch while chasing a mouse
 
-### Helga Confrontation (Sessions 11–12)
+### Helga Confrontation (Session 21)
 At [Tyr Moir](/places/tyr-moir) graveyard, Fenris guarded the entrance and used light and sound tricks. He calmed [Voris](/characters/voris) when tensions escalated, placing a hand on his bow to de-escalate. He bound and gagged [Helga](/characters/helga)'s guard and hid the body.
 
-### Burning of Sire (Session 13)
-Fenris and [Gal'Rok](/characters/galrok) rode toward [Sire](/places/sire) to investigate smoke on the horizon. They rescued [Knut Pilsen](/characters/knut-pilsen) and his daughter from burning debris, with Fenris transforming into a bear to lift a fallen tree. He then fought a **pyromancer** in the burning town, transforming into a giant constricting snake to grapple the enemy. He collected a glowing medallion and the pyromancer's remains as evidence.
+### Burning of Sire (Session 22)
+Fenris and [Gal'Rok](/characters/galrok) rode toward [Sire](/places/sire) to investigate smoke on the horizon. They rescued [Knut Pilsen](/characters/knut-pilsen) and [Anna Pilsen](/characters/anna-pilsen) from burning debris, with Fenris transforming into a bear to lift a fallen tree. He then fought a **pyromancer** in the burning town, transforming into a giant constricting snake to grapple the enemy. He collected a glowing medallion and the pyromancer's remains as evidence.
 
-### Communing with Trees (Session 12)
+### Return to Morgan's Keep (Session 24)
+Fenris traveled with [Voris](/characters/voris), helping escort Knut and Anna, meeting brokers and [Magda](/characters/magda-artificer) with [Thor](/characters/thor-veteran), and opening the spymaster path toward the [Crypt of Alabaster](/places/crypt-of-alabaster) ([Return to Morgan's Keep](/events/return-to-morgans-keep)).
+
+### Communing with Trees (Session 21)
 Fenris used Speak with Plants to consult an ancient pine tree by the river outside [Dior](/places/dior). The tree communicated in simple concepts: "rush. dry. safe." — confirming the river still flowed but the land was drier than usual, and smoke was present.
 
 ## Relationships

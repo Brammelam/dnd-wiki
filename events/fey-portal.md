@@ -8,7 +8,7 @@
 |---|---|
 | **Type** | Traumatic incident |
 | **Location** | [Fey Realm](/places/fey-realm) portal |
-| **Session** | [Session 9](/sessions/session-09) |
+| **Session** | [Session 10](/sessions/session-10) |
 | **Victim** | [Flint](/characters/flint) |
 
 </WikiInfobox>

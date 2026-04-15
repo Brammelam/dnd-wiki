@@ -24,7 +24,7 @@ The Crown Prince of the Kingdom of Morgan was killed in the capital city of [Mor
 Key details about the conspiracy have emerged over the course of the campaign:
 
 - **False confessions** — Under torture, innocent elves confessed to the murder and were executed (revealed by [Helga](/characters/helga))
-- **Lieutenant Jet** — A lieutenant in the [King's Guard](/factions/kings-guard) who filed the false report against the party. He was manipulated through his wife's gambling debts and pressure from the [Humanus Association](/factions/humanus-association). His wife is now imprisoned in "the Hole"
+- **[Lieutenant Jet](/characters/lieutenant-jet)** — A lieutenant in the [King's Guard](/factions/kings-guard) who filed the false report against the party. He was manipulated through his wife's gambling debts and pressure from the [Humanus Association](/factions/humanus-association). His wife is now imprisoned in "the Hole"
 - **The Cardinal** — A cardinal in the king's council has the power to compel truth and may be key to uncovering the real culprits
 - **[Humanus Association](/factions/humanus-association)** — This human supremacist organization is suspected of orchestrating the frame-up, headquartered in Morgan's Keep
 

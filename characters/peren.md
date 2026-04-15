@@ -44,14 +44,14 @@ Peren was arrested at [Morgan's Keep](/places/morgans-keep) and helped [escape](
 ### The Crabs (Session 5)
 In [Rinden](/places/rinden), Peren and [Voris](/characters/voris) infiltrated [The Crabs](/factions/the-crabs) gang. Peren watched fight pits, saved a gang member, and earned a poison-making course. He met the leader [Salander](/characters/salander), who agreed to help investigate the party's framing.
 
-### The Crypt of Dior (Sessions 6–7)
+### The Crypt of Dior (Sessions 17–18)
 Peren was first across the rope bridge over the underground river and saved [Fenris](/characters/fenris) from falling with an acrobatic rescue. He activated the cursed rust knives by taking them from a statue, triggering a fire elemental. Despite his blood aversion, he fought bravely with his daggers.
 
-### Dior Infiltration (Sessions 10–11)
+### Dior Infiltration (Sessions 19–20)
 Peren disguised himself to infiltrate the temple ahead of the wedding, picking locks and mapping the building's interior. He created an illusory rat swarm with a flute to distract guards and planted a compass tracker on [Helga](/characters/helga) while in cat form (via [Fenris](/characters/fenris)).
 
-### Ambush at the Inn (Session 14)
-Peren was poisoned and stabbed in his sleep at a roadside inn. Despite being severely wounded, he fought back, pinning his attacker and using his street smarts to survive. He obtained the attacker's poisoning notebook.
+### Ambush at the Inn (Session 23)
+During the [Road Inn Ambush](/events/road-inn-ambush), [Thorn](/characters/thorn-alchemist) — the poisoner from [Session 9](/sessions/session-09) — drugged him and **stabbed him in the back** in the stable, seeking revenge for his smashed door and the serpent-island scheme. Peren fought back and pinned Thorn. He kept Thorn's **poisoning notebook**.
 
 ## Relationships
 

@@ -35,7 +35,7 @@ The party lured Helga to the [Tyr Moir](/places/tyr-moir) graveyard with an anon
 [Voris](/characters/voris) shot out the lantern, plunging the graveyard into darkness. After a tense standoff, Helga revealed key information:
 - She still suspected the party but was **willing to help** within limits
 - Her position in the King's Guard bound her; she couldn't act openly
-- **Lieutenant Jet** had filed the damning report, manipulated through his wife's gambling debts and pressure from the [Humanus Association](/factions/humanus-association). His wife is now imprisoned in "the Hole"
+- **[Lieutenant Jet](/characters/lieutenant-jet)** had filed the damning report, manipulated through his wife's gambling debts and pressure from the [Humanus Association](/factions/humanus-association). His wife is now imprisoned in "the Hole"
 - She promised to **reduce their wanted status** if they kept a low profile
 - She warned that if they contacted her again, her duty would force her to arrest them
 

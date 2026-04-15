@@ -9,7 +9,7 @@
 | **Type** | Other plane |
 | **Inhabitants** | Fey, [Sommerhimmel](/characters/sommerhimmel) |
 | **Access** | Portals |
-| **First Seen** | [Session 9](/sessions/session-09) |
+| **First Seen** | [Session 10](/sessions/session-10) |
 
 </WikiInfobox>
 
