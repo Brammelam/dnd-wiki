@@ -1,8 +1,8 @@
-# Anna Pilsen
+# Anne Knutsen
 
 <WikiInfobox type="character">
 
-### Anna Pilsen
+### Anne Knutsen
 
 | | |
 |---|---|
@@ -14,7 +14,7 @@
 
 </WikiInfobox>
 
-**Anna** is [Knut Pilsen](/characters/knut-pilsen)'s daughter. She ran to [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) during the [Burning of Sire](/events/burning-of-sire) when her father was trapped.
+**Anne Knutsen** is [Knut Pilsen](/characters/knut-pilsen)'s daughter. Early session notes sometimes rendered her given name as **Anna**. She ran to [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) during the [Burning of Sire](/events/burning-of-sire) when her father was trapped.
 
 She traveled with [Voris](/characters/voris) and [Fenris](/characters/fenris) toward [Morgan's Keep](/places/morgans-keep) ([Session 24](/sessions/session-24)), soot-stained from the fires.
 

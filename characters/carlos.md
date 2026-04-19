@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| **Race** | Dragonborn |
+| **Race** | Half-Orc |
 | **Role** | Treasure hunter / Archaeologist |
 | **Base** | [Dior](/places/dior) (shadow side) |
 | **Status** | Active |
@@ -14,7 +14,7 @@
 
 </WikiInfobox>
 
-**Carlos** is a Dragonborn treasure hunter and amateur archaeologist based on the shadow side of [Dior](/places/dior). He guided the party into [the Crypt of Dior](/places/the-crypt) through a secret entrance he had discovered.
+**Carlos** is a Half-Orc treasure hunter and amateur archaeologist from **warmer northern lands** (his name reflects that heritage). He is based on the shadow side of [Dior](/places/dior) and guided the party into [the Crypt of Dior](/places/the-crypt) through a secret entrance he had discovered.
 
 ## Description
 

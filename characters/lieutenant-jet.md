@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| **Role** | Lieutenant, [King's Guard](/factions/kings-guard) |
+| **Role** | Lieutenant, [King's Guard](/factions/kings-guard); scion of **House Jet** |
 | **Base** | [Morgan's Keep](/places/morgans-keep) |
 | **Status** | Active |
 | **First Seen** | [Session 21](/sessions/session-21) (revealed) |

@@ -13,7 +13,7 @@
 
 </WikiInfobox>
 
-**Konstantin Carnelian** hunted the party on a **Tom** murder accusation on behalf of [Lady Alabaster](/characters/lady-alabaster). [Markus](/characters/markus-lieutenant) helped the party avoid him during the endgame of the [Fort John Rebellion](/events/fort-john-rebellion). He later confronted [Voris](/characters/voris) and [Fenris](/characters/fenris) under a **blood-red moon** ([Session 15](/sessions/session-15)): defeated, he admitted the hire, surrendered a **magic compass** that tracked Voris, and accepted **limited healing** in exchange for gold and oaths.
+**Konstantin Carnelian** hunted the party on a **Tom** murder accusation on behalf of [Lady Alabaster](/characters/lady-alabaster). The party **saw him in [Rinden](/places/rinden) before [Session 14](/sessions/session-14)**. [Markus](/characters/markus-lieutenant) helped the party avoid him during the endgame of the [Fort John Rebellion](/events/fort-john-rebellion). He later confronted [Voris](/characters/voris) and [Fenris](/characters/fenris) under a **blood-red moon** ([Session 15](/sessions/session-15)): defeated, he admitted the hire, surrendered a **magic compass** that tracked Voris, and accepted **limited healing** in exchange for gold and oaths. He **promised to leave the party in peace** afterward.
 
 ## See Also
 

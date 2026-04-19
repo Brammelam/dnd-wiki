@@ -8,7 +8,7 @@ const categories = [
     title: 'Characters',
     href: '/characters/',
     description: 'Player characters and the NPCs encountered across the campaign.',
-    count: 41,
+    count: 39,
   },
   {
     title: 'Places',
@@ -20,7 +20,7 @@ const categories = [
     title: 'Factions',
     href: '/factions/',
     description: 'Guilds, temples, and organizations shaping the world.',
-    count: 6,
+    count: 7,
   },
   {
     title: 'Events',

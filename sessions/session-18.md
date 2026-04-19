@@ -42,7 +42,7 @@ The party made a treacherous return crossing with the chest. Fenris improvised â
 
 [Carlos](/characters/carlos) inspected the haul: rusty knives with value, dwarven gold coins, and the copper chest. He offered **583 gold** for the chest and took it away. They split the payment.
 
-The next morning, they delivered the **mysterious box** to [Toltec](/characters/toltec) at the Academy. The old green Dragonborn paid **200 gold** and sent them off with his assistant [Frida](/characters/frida). Toltec mentioned knowledge of **magical optical lenses**.
+The next morning, they delivered the **mysterious box** to [Toltec](/characters/toltec) at the Academy. The old green Dragonborn paid **200 gold** and sent them off with his assistant [Lynn Salt](/characters/lynn-salt). Toltec mentioned knowledge of **magical optical lenses**.
 
 ### Planning the Wedding Attack
 

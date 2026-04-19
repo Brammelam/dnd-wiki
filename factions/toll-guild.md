@@ -12,7 +12,7 @@
 
 </WikiInfobox>
 
-**The Toll Guild** is a powerful trade guild that controls commerce in [Rinden](/places/rinden). They collect dues on goods entering and leaving the city, effectively functioning as a trade authority.
+**The Toll Guild** is a powerful trade guild that controls commerce in [Rinden](/places/rinden). They collect dues on goods entering and leaving the city, effectively functioning as a trade authority. **Garreth Carnelian** — often called **Old Garreth** — leads the guild and holds one of the three seats on the king's senior council alongside the [Third Army](/factions/third-army) and the [Church of the Triad](/factions/temple-of-tyr) (see [Kingdom of Morgan § Politics](/places/kingdom-of-morgan#politics)).
 
 ## Role in the Story
 

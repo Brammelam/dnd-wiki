@@ -19,7 +19,7 @@ The **Dior Crypt Expedition** was a three-session dungeon crawl through a 700-ye
 ## Setup (Session 16)
 
 The party spent their first day in Dior preparing:
-- Sold magical glasses to [Gilda](/characters/gilda) at [the Academy](/places/the-academy) for 300 gold
+- Sold magical glasses to [Lynn Salt](/characters/lynn-salt) at [the Academy](/places/the-academy) for 300 gold
 - Visited [Bob Swords](/characters/bob-swords) and [Tore Idle](/characters/tore-idle) for equipment
 - Met [Carlos](/characters/carlos) on the shadow side, who offered to guide them to a secret entrance for 25% of loot
 - Entered through loose planks in a cellar wall, accessed via the back of the temple near the lake

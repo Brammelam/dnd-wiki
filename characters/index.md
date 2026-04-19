@@ -23,14 +23,14 @@ The party of fugitives framed for the [Crown Prince's murder](/events/crown-prin
 ### Allies & Contacts
 
 - **[Bob Swords](/characters/bob-swords)** — Hobbit weapon merchant in [Dior](/places/dior)
-- **[Carlos](/characters/carlos)** — Dragonborn treasure hunter and guide to [the Crypt](/places/the-crypt)
+- **[Carlos](/characters/carlos)** — Half-Orc treasure hunter and guide to [the Crypt](/places/the-crypt)
 - **[Practical Joe](/characters/practical-joe)** — Helpful resident of [Turn](/places/turn)
 - **[Salander](/characters/salander)** — Leader of [The Crabs](/factions/the-crabs) in [Rinden](/places/rinden)
 - **[Brad](/characters/brad-academy-student)** — Academy student; passage to [Scully Stronghold](/places/scully-stronghold); box courier
 - **[Markus](/characters/markus-lieutenant)** — Soldier tied to [Fort John](/places/fort-john) and [Rinden](/places/rinden) gates
-- **[Lynn Salt](/characters/lynn-salt)** — Dwarven courier for [The Academy](/factions/the-academy)
+- **[Lynn Salt](/characters/lynn-salt)** — Dwarven Academy staff (Dior reception, Toltec's logistics) and courier
 - **[Knut Pilsen](/characters/knut-pilsen)** — Survivor rescued from the [Burning of Sire](/events/burning-of-sire)
-- **[Anna Pilsen](/characters/anna-pilsen)** — Knut's daughter
+- **[Anne Knutsen](/characters/anne-knutsen)** — Knut's daughter (early notes: "Anna")
 - **[Thor](/characters/thor-veteran)** — Old road companion and veteran of the capital outskirts
 
 ### Antagonists & Authorities
@@ -45,9 +45,7 @@ The party of fugitives framed for the [Crown Prince's murder](/events/crown-prin
 ### Scholars & Merchants
 
 - **[Toltec](/characters/toltec)** — Dragonborn academic at [The Academy](/places/the-academy) in Dior
-- **[Gilda](/characters/gilda)** — Dwarven receptionist at the Academy
 - **[Tore Idle](/characters/tore-idle)** — Dragonborn smith in Dior
-- **[Frida](/characters/frida)** — Toltec's assistant (distinct from [Frida Marsensen](/characters/frida-marsensen))
 - **[Thorn](/characters/thorn-alchemist)** — Coastal poison expert near [Havfika](/places/havfika)
 - **[Rudolf the Great](/characters/rudolf-the-great)** — Appraiser on the road to Dior
 

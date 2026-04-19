@@ -9,11 +9,11 @@
 | **Type** | Travel / investigation / exoneration hook |
 | **Location** | [Sire](/places/sire) environs, [Frontier](/places/frontier-outskirts), [Morgan's Keep](/places/morgans-keep) outskirts |
 | **Session** | [Session 24](/sessions/session-24) |
-| **Participants** | [Voris](/characters/voris), [Fenris](/characters/fenris); [Knut Pilsen](/characters/knut-pilsen), [Anna Pilsen](/characters/anna-pilsen) escorted |
+| **Participants** | [Voris](/characters/voris), [Fenris](/characters/fenris); [Knut Pilsen](/characters/knut-pilsen), [Anne Knutsen](/characters/anne-knutsen) escorted |
 
 </WikiInfobox>
 
-**Return to Morgan's Keep** covers [Voris](/characters/voris) and [Fenris](/characters/fenris) escorting [Knut](/characters/knut-pilsen) and [Anna](/characters/anna-pilsen) toward the capital after the [Burning of Sire](/events/burning-of-sire). Voris studied the **pyromancer medallion** (*Temple of Life*; names **Catherine** / **Katinka**). They sold **Betty** the horse to give Knut coin, stayed at **[The Final Straw](/places/the-final-straw)** on the **[Frontier](/places/frontier-outskirts)**, and began rebuilding livelihoods with wagon and courier plans.
+**Return to Morgan's Keep** covers [Voris](/characters/voris) and [Fenris](/characters/fenris) escorting [Knut](/characters/knut-pilsen) and [Anne](/characters/anne-knutsen) toward the capital after the [Burning of Sire](/events/burning-of-sire). Voris studied the **pyromancer medallion** (*Temple of Life*; names **Catherine** / **Katinka**). They sold **Betty** the horse to give Knut coin, stayed at **[The Final Straw](/places/the-final-straw)** on the **[Frontier](/places/frontier-outskirts)**, and began rebuilding livelihoods with wagon and courier plans.
 
 ## Intelligence network
 

@@ -28,7 +28,7 @@ He was living in [Morgan's Keep](/places/morgans-keep) when he was arrested alon
 
 - **Longbow** — His primary weapon, repaired and upgraded by [Tore Idle](/characters/tore-idle) in [Dior](/places/dior). He chose a more powerful variant with longer range at the cost of aiming difficulty.
 - **Rapier** — Secondary melee weapon
-- **Glasses** — Rare optical aids from [Alverike](/places/alverike); he sold a pair to [Gilda](/characters/gilda) for 300 gold
+- **Glasses** — Rare optical aids from [Alverike](/places/alverike); he sold a pair to [Lynn Salt](/characters/lynn-salt) for 300 gold
 - **City Watch insignia** — A badge from his time in the military, used to gain trust
 
 ## Key Abilities
@@ -52,7 +52,7 @@ Voris shot out [Helga](/characters/helga)'s lantern with a dramatic arrow at the
 Traveling with [Peren](/characters/peren), Voris survived the [Road Inn Ambush](/events/road-inn-ambush). [Thorn](/characters/thorn-alchemist) alone attacked Peren in the stable; Voris joined the fight, then gave Thorn a **healing potion** to **stabilize** him. He met [Lynn Salt](/characters/lynn-salt) and [Thor](/characters/thor-veteran), sharing stories over cheese before continuing toward the capital.
 
 ### Return to Morgan's Keep (Session 24)
-With [Fenris](/characters/fenris), Voris escorted [Knut Pilsen](/characters/knut-pilsen) and [Anna Pilsen](/characters/anna-pilsen), sold **Betty** the horse to fund them, and pursued intelligence on [Lieutenant Jet](/characters/lieutenant-jet) and the [Crypt of Alabaster](/places/crypt-of-alabaster) toward clearing the [Crown Prince murder](/events/crown-prince-murder) charge ([Return to Morgan's Keep](/events/return-to-morgans-keep)).
+With [Fenris](/characters/fenris), Voris escorted [Knut Pilsen](/characters/knut-pilsen) and [Anne Knutsen](/characters/anne-knutsen), sold **Betty** the horse to fund them, and pursued intelligence on [Lieutenant Jet](/characters/lieutenant-jet) and the [Crypt of Alabaster](/places/crypt-of-alabaster) toward clearing the [Crown Prince murder](/events/crown-prince-murder) charge ([Return to Morgan's Keep](/events/return-to-morgans-keep)).
 
 ## Relationships
 

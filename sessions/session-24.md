@@ -10,13 +10,13 @@
 
 ## Recap
 
-Smoke still hung over the land when **Varis** and **Fenris** returned to **[Knut Pilsen](/characters/knut-pilsen)** and his daughter **[Anna Pilsen](/characters/anna-pilsen)**, soot-stained after the fires. Villagers knew little of fire-throwers in town; fear lingered where the forest had jumped the river. Knut and Anna meant to try their luck toward **Morgan's Keep** and thanked the pair.
+Smoke still hung over the land when **Varis** and **Fenris** returned to **[Knut Pilsen](/characters/knut-pilsen)** and his daughter **[Anne Knutsen](/characters/anne-knutsen)**, soot-stained after the fires. Villagers knew little of fire-throwers in town; fear lingered where the forest had jumped the river. Knut and Anne meant to try their luck toward **Morgan's Keep** and thanked the pair.
 
 Varis showed a **medallion** taken from the **pyromancer** in Sire — fragments read *Temple of Life*; names like **Catherine** / **Katinka** were debated. At camp, Varis **meditated with the amulet** and felt a surge of **healing power**, intense and slightly dangerous. Fenris, recovering from **poison** after a suspicious meal, had been stabilized with potions.
 
-The pair decided to **bring Knut and Anna** along. The journey toward **Perun** and **Morganskip** would take two days; they joked about rations and debt. They rode with **Roach** and a farm horse, **Betty**, while Knut and his daughter rode double. Fenris mused about one day commanding weather — or flying — as the farmlands rolled past. Passing **[Dior](/places/dior)**, they noted a **military camp** already raised; soldiers moved along the road in good order.
+The pair decided to **bring Knut and Anne** along. The journey toward **Perun** and **Morganskip** would take two days; they joked about rations and debt. They rode with **Roach** and a farm horse, **Betty**, while Knut and his daughter rode double. Fenris mused about one day commanding weather — or flying — as the farmlands rolled past. Passing **[Dior](/places/dior)**, they noted a **military camp** already raised; soldiers moved along the road in good order.
 
-Approaching **Frontier** outside Morgan's Keep, streets were **emptier than usual**: uniforms on watch, few civilians. They took rooms at **[The Final Straw](/places/the-final-straw)** — a converted farm inn on the **[Frontier](/places/frontier-outskirts)**, busy that night. A braided-haired girl worked the bar; a shy teen served food. They secured space for Knut and Anna.
+Approaching **Frontier** outside Morgan's Keep, streets were **emptier than usual**: uniforms on watch, few civilians. They took rooms at **[The Final Straw](/places/the-final-straw)** — a converted farm inn on the **[Frontier](/places/frontier-outskirts)**, busy that night. A braided-haired girl worked the bar; a shy teen served food. They secured space for Knut and Anne.
 
 Over dinner they debated coin: Varis offered to buy **Betty** to give Knut startup coin; the man said Betty was all he owned but city costs would bite. They settled on paying for **room, board, and tips**. By morning they had struck **thirty-five gold** for Betty — a price meant to give father and child a chance, split between the friends.
 
@@ -39,7 +39,7 @@ Later, Varis and Fenris sat with a **spymaster** who would help if **Thor vouche
 ## Key Events
 
 - [Return to Morgan's Keep](/events/return-to-morgans-keep)
-- Escort Knut and [Anna](/characters/anna-pilsen); Betty sale; courier hire brewing
+- Escort Knut and [Anne](/characters/anne-knutsen); Betty sale; courier hire brewing
 - [Frontier](/places/frontier-outskirts) / Morgan's Keep atmosphere — watchful guards
 - Reunion with [Thor](/characters/thor-veteran); intelligence on [Humanus Association](/factions/humanus-association) and **the Hole**
 - Spymaster path toward [Crypt of Alabaster](/places/crypt-of-alabaster) and exoneration

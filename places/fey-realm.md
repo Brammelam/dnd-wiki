@@ -13,7 +13,7 @@
 
 </WikiInfobox>
 
-**The Fey Realm** is the plane of existence inhabited by fey creatures. It is accessible through portals that exist in the material world, though crossing between realms carries significant risks.
+**The Fey Realm** is the plane of existence inhabited by fey creatures. Elvish speech often names the same realm **Alverike** (see [Alverike](/places/alverike)). It is accessible through portals in the material world, though crossing between realms carries significant risks.
 
 ## Dangers
 

@@ -34,23 +34,23 @@ The kingdom is experiencing internal strife:
 
 - The **Crown Prince** has been murdered, and the investigation has been corrupted
 - The **[Humanus Association](/factions/humanus-association)** exerts political influence, promoting human supremacist views
-- A **cardinal** in the king's council has been mentioned as having power to compel truth
+- **King's Council** — The crown's senior council is composed of the heads of the three national pillars: the **[Third Army](/factions/third-army)** (under General **Kamp**; formations such as the **Fourth Brigade** belong to it), the **[Church of the Triad](/factions/temple-of-tyr)** (led by the **cardinal**), and the **[Toll Guild](/factions/toll-guild)** (led by **Garreth Carnelian**, often called **Old Garreth**)
+- **Great houses** — Noble power clusters especially in five families: **Amber**, **Peridot**, **Alabaster**, **Jet**, and **Carnelian**
+- A **cardinal** on the council has been mentioned as having power to compel truth
 - **Military mobilization** has been observed outside [Dior](/places/dior), with soldiers preparing for a march toward Morgan's Keep
 - The cardinal has reportedly **fled to Dior** and is sending forces against "Orrids Keep"
 
 ## Religion
 
-- **Tyr** — God of justice, worshipped at the [Temple of the Just](/factions/temple-of-tyr)
-- **Torm** — Another god mentioned in military religious practice
-- **Ylmater** — Referenced by soldiers
+State worship runs through the [Church of the Triad](/factions/temple-of-tyr): **Tyr**, **Torm**, and **Ilmater**, with sub-temples and orders (the capital's great **Tyr** temple is the one [Flint](/characters/flint) knew).
 
 ## Economy
 
-The kingdom operates on a gold standard with various denominations. A drought has caused food shortages in rural areas, particularly around [Turn](/places/turn). The [Toll Guild](/factions/toll-guild) controls trade in [Rinden](/places/rinden), and [The Academy](/factions/the-academy) in [Dior](/places/dior) deals in magical knowledge and artifacts.
+The kingdom operates on a gold standard with various denominations. A drought has caused food shortages in rural areas, particularly around [Turn](/places/turn). The [Toll Guild](/factions/toll-guild) controls trade in [Rinden](/places/rinden). [The Academy](/factions/the-academy) maintains offices in major cities, including a notable branch in [Dior](/places/dior) that trades in magical knowledge and artifacts.
 
 ## Notable Features
 
-- **Optical technology** is rare — glasses from [Alverike](/places/alverike) are considered exotic novelties
+- **Optical technology** is rare — glasses crafted in [Alverike](/places/alverike) are considered exotic novelties
 - **Portals** exist but are dangerous, particularly to metallic objects
 - **Fey creatures** inhabit the forests, and the [Fey Realm](/places/fey-realm) is accessible
 - **Dwarven ruins** dot the landscape, including [the Crypt of Dior](/places/the-crypt)

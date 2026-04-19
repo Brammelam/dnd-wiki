@@ -37,7 +37,7 @@ They visited [Bob Swords](/characters/bob-swords), who bought back their wedding
 
 The party exited Dior through the long tunnel. Outside, a large **military camp** was spread along the riverbank — tents, fires, horses, and an uneasy atmosphere. Smoke drifted from the west, and something was burning.
 
-[Voris](/characters/voris) approached a young soldier and showed his City Watch insignia. The soldier spoke of his service under "RitznJett," worship of Tyr, Torm, and Ylmater, and revealed that the force was likely **marching south toward Morgan's Keep**. The cardinal had reportedly **fled to Dior** and was sending forces against "Orrids Keep."
+[Voris](/characters/voris) approached a young soldier and showed his City Watch insignia. The soldier spoke of his service under "RitznJett," worship of Tyr, Torm, and Ilmater, and revealed that the force was likely **marching south toward Morgan's Keep**. The cardinal had reportedly **fled to Dior** and was sending forces against "Orrids Keep."
 
 ### City Planning
 

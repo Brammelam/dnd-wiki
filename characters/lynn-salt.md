@@ -2,28 +2,40 @@
 
 <WikiInfobox type="character">
 
-### Lynn Salt
+### Lynn Gilda Salt
 
 | | |
 |---|---|
 | **Race** | Dwarf |
-| **Role** | Courier / Agent of [The Academy](/factions/the-academy) |
+| **Role** | [The Academy](/factions/the-academy) — Dior reception, courier, logistics for [Toltec](/characters/toltec) |
+| **Base** | [The Academy](/places/the-academy), [Dior](/places/dior); travels for the Academy |
 | **Status** | Active |
-| **First Seen** | [Session 23](/sessions/session-23) |
+| **First Seen** | [Session 16](/sessions/session-16) (Dior); [Session 23](/sessions/session-23) (road) |
 
 </WikiInfobox>
 
-**Lynn Salt** is a Dwarven woman with curly hair and a rounder face than typical dwarves. She works as a courier for [The Academy](/factions/the-academy), transporting magical ingredients and handling other business.
+**Lynn Gilda Salt** — usually called **Lynn Salt** — is a Dwarven woman with curly hair and a rounder face than typical dwarves. Older notes split her Dior reception work and courier road presence under mixed names; she is **one** person.
 
 ## Role in the Story
 
-[Voris](/characters/voris) and [Peren](/characters/peren) encountered Lynn at a roadside inn on their way to [Morgan's Keep](/places/morgans-keep). She entered with a backpack and a book, also headed to the capital. She spoke matter-of-factly about her work — transporting magical ingredients for the Academy — without revealing too much.
+### Dior (Sessions 16–18)
 
-Lynn was present at the inn when the party was attacked in the night. After the attack, [Peren](/characters/peren) and [Voris](/characters/voris) decided to travel with her wagon for the remainder of the journey.
+At [the Academy](/places/the-academy) in [Dior](/places/dior), Lynn works the reception desk and controls access to senior academics such as [Toltec](/characters/toltec). When the party arrived with the box for Toltec, she haggled hard over [Fenris](/characters/fenris)'s [Alverike](/places/alverike) glasses — the frames did not suit her vision, but she still bought them for **300 gold** after trying to open at **200**. She scheduled Toltec for the **7 PM** delivery.
 
-She gave a lesson on local cheese-making and was knowledgeable about the area's culinary traditions.
+After the [crypt](/places/the-crypt) run, when Toltec paid **200 gold** for the box, Lynn handled follow-up logistics. Fenris showed her fey **pollen**; she hinted it could be used to influence people if he wished to speak with her further about alchemical uses.
+
+### Road to Morgan's Keep (Session 23)
+
+[Voris](/characters/voris) and [Peren](/characters/peren) met Lynn again at a roadside inn, bound for the capital with a backpack and a book. She described transporting magical ingredients for the Academy. She was present when the inn was attacked at night; the party then traveled with her wagon.
+
+She shared local **cheese-making** lore on the journey.
 
 ## Relationships
 
-- **[The Academy](/factions/the-academy)** — Her employer
-- **[Voris](/characters/voris)** and **[Peren](/characters/peren)** — Traveling companions on the road to Morgan's Keep
+- **[The Academy](/factions/the-academy)** — Employer
+- **[Toltec](/characters/toltec)** — Senior academic she screens and assists
+- **[Voris](/characters/voris)**, **[Peren](/characters/peren)**, **[Fenris](/characters/fenris)** — Contacts through Dior and the road
+
+## See Also
+
+- [Frida Marsensen](/characters/frida-marsensen) — unrelated; Fort John rebel leader

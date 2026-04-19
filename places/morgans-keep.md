@@ -9,7 +9,7 @@
 | **Type** | Capital city |
 | **Region** | Central [Kingdom of Morgan](/places/kingdom-of-morgan) |
 | **Notable NPCs** | [Lynch](/characters/lynch), [Helga](/characters/helga) |
-| **Factions** | [King's Guard](/factions/kings-guard), [Temple of the Just](/factions/temple-of-tyr), [Humanus Association](/factions/humanus-association) |
+| **Factions** | [King's Guard](/factions/kings-guard), [Church of the Triad](/factions/temple-of-tyr) (great Tyr temple), [Humanus Association](/factions/humanus-association) |
 | **First Seen** | [Session 1](/sessions/session-01) |
 
 </WikiInfobox>
@@ -18,12 +18,12 @@
 
 ## Description
 
-Morgan's Keep is a large, well-fortified city that serves as the seat of the kingdom's power. It houses the royal palace, the [Temple of the Just](/factions/temple-of-tyr), and the headquarters of the [King's Guard](/factions/kings-guard). The city has a functioning City Watch and a complex social hierarchy.
+Morgan's Keep is a large, well-fortified city that serves as the seat of the kingdom's power. It houses the royal palace, the great **Tyr** temple of the [Church of the Triad](/factions/temple-of-tyr), and the headquarters of the [King's Guard](/factions/kings-guard). The city has a functioning City Watch and a complex social hierarchy.
 
 ## Key Locations
 
 - **The Royal Palace** — Seat of the king; where the Crown Prince was murdered
-- **[Temple of the Just](/factions/temple-of-tyr)** — Temple dedicated to Tyr, where [Flint](/characters/flint) served as an acolyte
+- **[Church of the Triad](/factions/temple-of-tyr)** — Tyr's great temple in the capital, where [Flint](/characters/flint) served as an acolyte
 - **The Prison** — Where the party was held before their escape
 - **[Humanus Association](/factions/humanus-association) Headquarters** — Base of the supremacist organization
 
@@ -39,7 +39,14 @@ The party was originally heading to [Rinden](/places/rinden) to investigate the 
 
 ## Known Residents
 
+All player characters originally lived in Morgan's Keep before the [Crown Prince murder](/events/crown-prince-murder) and their flight:
+
 - [Voris](/characters/voris) — Veteran of the Morganian army
 - [Peren](/characters/peren) — Criminal who grew up here
-- [Flint](/characters/flint) — Acolyte at the Temple of the Just
+- [Elowen](/characters/elowen) — Wood elf warlock
+- [Fenris Shadowveil](/characters/fenris) — Druid
+- [Lilith](/characters/lilith) — Bard
+- [Gal'Rok](/characters/galrok) — Barbarian
+- [Flint](/characters/flint) — Acolyte at the Tyr temple
 - [Thia](/characters/thia) — Drow sorcerer who enjoyed city life here
+- [Sir Simon Strong](/characters/sir-simon) — Paladin

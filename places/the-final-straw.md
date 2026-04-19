@@ -12,7 +12,7 @@
 
 </WikiInfobox>
 
-**The Final Straw** is a busy converted farm inn on the [Frontier](/places/frontier-outskirts) where [Voris](/characters/voris) and [Fenris](/characters/fenris) lodged with [Knut Pilsen](/characters/knut-pilsen) and [Anna Pilsen](/characters/anna-pilsen). A braided-haired girl worked the bar; a shy teen served food.
+**The Final Straw** is a busy converted farm inn on the [Frontier](/places/frontier-outskirts) where [Voris](/characters/voris) and [Fenris](/characters/fenris) lodged with [Knut Pilsen](/characters/knut-pilsen) and [Anne Knutsen](/characters/anne-knutsen). A braided-haired girl worked the bar; a shy teen served food.
 
 ## See Also
 

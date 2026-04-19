@@ -1,38 +1,36 @@
-# Temple of the Just (Tyr)
+# Church of the Triad
 
 <WikiInfobox type="faction">
 
-### Temple of the Just
+### Church of the Triad
 
 | | |
 |---|---|
-| **Type** | Religious order |
-| **Deity** | Tyr (God of Justice) |
-| **Base** | [Morgan's Keep](/places/morgans-keep) |
-| **Known Members** | [Flint](/characters/flint) (Acolyte) |
-| **Alignment** | Lawful Good |
+| **Type** | National church |
+| **Deities** | **Tyr** (justice), **Torm**, **Ilmater** |
+| **Structure** | Cardinalate; sub-temples and orders (e.g. Tyr in the capital) |
+| **Base** | Realm-wide; major temple in [Morgan's Keep](/places/morgans-keep) |
 
 </WikiInfobox>
 
-**The Temple of the Just** is a religious order dedicated to **Tyr**, the god of justice. Its main temple is located in [Morgan's Keep](/places/morgans-keep).
+The **Church of the Triad** is the dominant religious institution of the [Kingdom of Morgan](/places/kingdom-of-morgan), centered on **Tyr**, **Torm**, and **Ilmater**. Public worship and military chaplaincy often refer to the three together.
 
-## Beliefs
+In [Morgan's Keep](/places/morgans-keep), the large **temple of Tyr** — where [Flint](/characters/flint) served as an acolyte — is a major chapter of this church, not a separate national religion.
 
-Tyr is the god of justice, and his followers believe in upholding the law, punishing the wicked, and protecting the innocent. The temple's values include:
+The **cardinal** sits on the **King's Council** alongside the heads of the [Third Army](/factions/third-army) and the [Toll Guild](/factions/toll-guild) (see [Kingdom of Morgan § Politics](/places/kingdom-of-morgan#politics)).
 
-- **Justice over vengeance** — Though [Flint](/characters/flint) took the Oath of Vengeance, the temple's core teaching distinguishes between righteous punishment and blind revenge
-- **Truth** — The cardinal in the king's council reportedly has the power to compel truth
-- **Service** — Soldiers mentioned that Tyr, along with Torm and Ylmater, are the gods worshipped by the military
+## Beliefs and role
 
-## Known Members
+- **Tyr** — Justice and oaths; grave sites such as [Tyr Moir](/places/tyr-moir) echo his cult
+- **Torm** and **Ilmater** — Fellow patrons of the Triad, invoked with Tyr in military and civic ritual
+- **Truth** — Royal and inquisitorial symbolism ties to the cardinal's influence
 
-- **[Flint](/characters/flint)** — A Mountain Dwarf Paladin who served as an acolyte at the temple before being arrested and becoming a fugitive
+## Known members
 
-## Role in the Story
+- **[Flint](/characters/flint)** — Former acolyte at the capital's Tyr temple before the party's arrest
 
-Flint's background at the temple provides the party with a connection to religious authority. References to Tyr appear throughout the campaign:
+## In the story
 
-- Refugees invoke Tyr's protection during the [Sire](/places/sire) fire
-- Soldiers mention Tyr, Torm, and Ylmater as their patron gods
-- The [Tyr Moir](/places/tyr-moir) graveyard outside [Dior](/places/dior) is named after the god
-- A statue of Tyr Moir stands at the graveyard's center, where [Helga](/characters/helga) placed her lantern
+- Refugees invoked Tyr during the [Burning of Sire](/events/burning-of-sire)
+- Soldiers name Tyr, Torm, and Ilmater alongside their duties
+- [Helga](/characters/helga) left a lantern at the Tyr statue in Tyr Moir during the [Dior wedding](/events/dior-wedding) arc

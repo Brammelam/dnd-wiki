@@ -37,7 +37,7 @@ The locations our party has traveled through across the [Kingdom of Morgan](/pla
 - [Crypt of Alabaster](/places/crypt-of-alabaster) — Capital crypt named in the exoneration plot
 - [Azure Oak Grove](/places/azure-oak-grove) — Enchanted grove near [Turn](/places/turn)
 - [Tyr Moir](/places/tyr-moir) — Graveyard outside [Dior](/places/dior)
-- [The Academy](/places/the-academy) — Scholarly institution in [Dior](/places/dior)
+- [Academy office (Dior)](/places/the-academy) — Local premises of the national [Academy](/factions/the-academy) (not a single-site "capital campus"; the organization keeps offices in major cities)
 
 ## Other Realms
 

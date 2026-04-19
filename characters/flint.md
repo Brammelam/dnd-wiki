@@ -16,11 +16,11 @@
 
 </WikiInfobox>
 
-**Flint** is a Mountain Dwarf Paladin played by **Steffen**. An acolyte at the [Temple of the Just](/factions/temple-of-tyr) in [Morgan's Keep](/places/morgans-keep), Flint serves the god **Tyr** and has taken the **Oath of Vengeance**. He strives to live as a righteous dwarf, though he struggles with **misophonia** (sensitivity to certain sounds).
+**Flint** is a Mountain Dwarf Paladin played by **Steffen**. An acolyte at the great Tyr temple of the [Church of the Triad](/factions/temple-of-tyr) in [Morgan's Keep](/places/morgans-keep), Flint serves the god **Tyr** and has taken the **Oath of Vengeance**. He strives to live as a righteous dwarf, though he struggles with **misophonia** (sensitivity to certain sounds).
 
 ## Background
 
-Flint was an acolyte at the [Temple of the Just](/factions/temple-of-tyr) in [Morgan's Keep](/places/morgans-keep), dedicated to the god Tyr — the god of justice. His faith drove him to take the Oath of Vengeance, committing himself to punishing those who have committed grievous sins. Despite his stern religious outlook, he is a loyal companion who takes his duties seriously.
+Flint was an acolyte at the capital Tyr temple of the [Church of the Triad](/factions/temple-of-tyr) in [Morgan's Keep](/places/morgans-keep), dedicated to the god Tyr — the god of justice. His faith drove him to take the Oath of Vengeance, committing himself to punishing those who have committed grievous sins. Despite his stern religious outlook, he is a loyal companion who takes his duties seriously.
 
 ## Adventures
 

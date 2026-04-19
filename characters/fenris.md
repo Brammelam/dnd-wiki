@@ -45,10 +45,10 @@ Fenris repeatedly transformed into a **cat** to infiltrate the temple in [Dior](
 At [Tyr Moir](/places/tyr-moir) graveyard, Fenris guarded the entrance and used light and sound tricks. He calmed [Voris](/characters/voris) when tensions escalated, placing a hand on his bow to de-escalate. He bound and gagged [Helga](/characters/helga)'s guard and hid the body.
 
 ### Burning of Sire (Session 22)
-Fenris and [Gal'Rok](/characters/galrok) rode toward [Sire](/places/sire) to investigate smoke on the horizon. They rescued [Knut Pilsen](/characters/knut-pilsen) and [Anna Pilsen](/characters/anna-pilsen) from burning debris, with Fenris transforming into a bear to lift a fallen tree. He then fought a **pyromancer** in the burning town, transforming into a giant constricting snake to grapple the enemy. He collected a glowing medallion and the pyromancer's remains as evidence.
+Fenris and [Gal'Rok](/characters/galrok) rode toward [Sire](/places/sire) to investigate smoke on the horizon. They rescued [Knut Pilsen](/characters/knut-pilsen) and [Anne Knutsen](/characters/anne-knutsen) from burning debris, with Fenris transforming into a bear to lift a fallen tree. He then fought a **pyromancer** in the burning town, transforming into a giant constricting snake to grapple the enemy. He collected a glowing medallion and the pyromancer's remains as evidence.
 
 ### Return to Morgan's Keep (Session 24)
-Fenris traveled with [Voris](/characters/voris), helping escort Knut and Anna, meeting brokers and [Magda](/characters/magda-artificer) with [Thor](/characters/thor-veteran), and opening the spymaster path toward the [Crypt of Alabaster](/places/crypt-of-alabaster) ([Return to Morgan's Keep](/events/return-to-morgans-keep)).
+Fenris traveled with [Voris](/characters/voris), helping escort Knut and Anne, meeting brokers and [Magda](/characters/magda-artificer) with [Thor](/characters/thor-veteran), and opening the spymaster path toward the [Crypt of Alabaster](/places/crypt-of-alabaster) ([Return to Morgan's Keep](/events/return-to-morgans-keep)).
 
 ### Communing with Trees (Session 21)
 Fenris used Speak with Plants to consult an ancient pine tree by the river outside [Dior](/places/dior). The tree communicated in simple concepts: "rush. dry. safe." — confirming the river still flowed but the land was drier than usual, and smoke was present.
