@@ -32,9 +32,9 @@ Fenris met an old **information broker** scarred by a northern basilisk — vagu
 
 Varis pursued leads on **[Lieutenant Jet](/characters/lieutenant-jet)**'s wife in **the Hole**, crossed **Humanus** and **cardinal truth-magic**, and spoke with **dwarf artificers** who served the district. Fenris arranged **cheese buyers in Estranger**, sent **Knut** for stock, and scouted **Cape Town** on the south coast for camp. Knut got **four gold** for tackle; **"dear" Hansen** waited in the street.
 
-Evening closed in: Varis at a **closing tavern**, **Thor** returning with **[Magda](/characters/magda-artificer)**, a one-armed **half-orc artificer** tied to **General Camp** — threads to tighten next session.
+Evening closed in: Varis at a **closing tavern**, **Thor** returning with his superior **[Magda](/characters/magda)** — a one-armed **half-orc** in **General Kamp**’s intelligence network, not an artificer — threads to tighten next session.
 
-Later, Varis and Fenris sat with a **spymaster** who would help if **Thor vouched** for them. **[Lieutenant Jet](/characters/lieutenant-jet)** and his wife's **Humanus debt** framed the frame-up against the party. The service offered **false papers**, cover, and a **limited-use ring** to question the recent dead — a corpse in **[Crypt of Alabaster](/places/crypt-of-alabaster)** might speak. Fenris lacked necromancy; Varis countered with **[Brad](/characters/brad-academy-student)**'s papers and **medallion** evidence. Next step agreed: **Crypt of Alabaster** — infiltration, disguises, and the long work of **clearing their names**.
+Later, Varis and Fenris sat with a **spymaster** who would help if **Thor vouched** for them. **[Lieutenant Jet](/characters/lieutenant-jet)** and his wife's **Humanus debt** framed the frame-up against the party. The service offered **false papers**, cover, and a **limited-use ring** to question the recent dead — they need to reach **Gregory Alabastor**’s remains in the **[Crypt of Alabaster](/places/crypt-of-alabaster)** (*the man who has passed*). Fenris lacked necromancy; Varis countered with **[Brad](/characters/brad-academy-student)**'s papers and **medallion** evidence. Next step agreed: **Crypt of Alabaster** — infiltration, disguises, and the long work of **clearing their names**.
 
 ## Key Events
 

@@ -8,7 +8,7 @@ const categories = [
     title: 'Characters',
     href: '/characters/',
     description: 'Player characters and the NPCs encountered across the campaign.',
-    count: 39,
+    count: 40,
   },
   {
     title: 'Places',

@@ -17,11 +17,11 @@
 
 ## Intelligence network
 
-[Fenris](/characters/fenris) met an **information broker** scarred by a basilisk; [Voris](/characters/voris) trailed **[Thor](/characters/thor-veteran)** — maimed, with staff and bad leg — and pursued **[Lieutenant Jet](/characters/lieutenant-jet)**'s wife and **Humanus** debt threads. **Thor** returned with **[Magda](/characters/magda-artificer)**, a one-armed half-orc artificer tied to **General Camp**.
+[Fenris](/characters/fenris) met an **information broker** scarred by a basilisk; [Voris](/characters/voris) trailed **[Thor](/characters/thor-veteran)** — maimed, with staff and bad leg — and pursued **[Lieutenant Jet](/characters/lieutenant-jet)**'s wife and **Humanus** debt threads. **Thor** returned with his superior **[Magda](/characters/magda)** — one-armed half-orc **intelligence** for [General Kamp](/factions/third-army), not an artificer.
 
 ## Spymaster and Alabaster
 
-A **spymaster** offered help if Thor vouched: **false papers**, cover, and a **limited-use ring** to question the recent dead. The next step named was infiltration of the **[Crypt of Alabaster](/places/crypt-of-alabaster)** to reach a corpse that might speak — part of **clearing their names** in the [Crown Prince murder](/events/crown-prince-murder) conspiracy.
+A **spymaster** offered help if Thor vouched: **false papers**, cover, and a **limited-use ring** to question the recent dead. The next step named was infiltration of the **[Crypt of Alabaster](/places/crypt-of-alabaster)** to reach **[Gregory Alabastor](/characters/gregory-alabastor)** — *the man who has passed* — whose remains might speak, part of **clearing their names** in the [Crown Prince murder](/events/crown-prince-murder) conspiracy.
 
 ## See Also
 

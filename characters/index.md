@@ -63,4 +63,5 @@ The party of fugitives framed for the [Crown Prince's murder](/events/crown-prin
 - **[Father Terry](/characters/father-terry)** — A figure of dubious reputation in [Rinden](/places/rinden)
 - **[Griselda](/characters/griselda-mud-street)** — Rinden fixer on Mud Street
 - **[Lady Alabaster](/characters/lady-alabaster)** — Noble who hired Konstantin over her son Tom
-- **[Magda](/characters/magda-artificer)** — Half-orc artificer tied to Thor
+- **[Magda](/characters/magda)** — Half-orc intelligence lead for General Kamp; Thor’s superior
+- **[Gregory Alabastor](/characters/gregory-alabastor)** — Deceased; crypt target for the exoneration plot
