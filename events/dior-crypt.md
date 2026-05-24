@@ -9,7 +9,7 @@
 | **Type** | Dungeon crawl |
 | **Location** | [The Crypt of Dior](/places/the-crypt), [Dior](/places/dior) |
 | **Sessions** | [Session 16](/sessions/session-16), [Session 17](/sessions/session-17), [Session 18](/sessions/session-18) |
-| **Participants** | [Voris](/characters/voris), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
+| **Participants** | [Varis](/characters/varis), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Guide** | [Carlos](/characters/carlos) |
 
 </WikiInfobox>
@@ -39,13 +39,13 @@ They discovered an enormous cavern containing an abandoned dwarven city. **Gobli
 On a central platform, four dwarf statues guarded a sarcophagus. When [Peren](/characters/peren) took **knives** from one statue, a **fire elemental** erupted. The fight was brutal:
 - The elemental was **resistant to physical damage**
 - [Fenris](/characters/fenris) raised a wind wall and later fought as a polar bear
-- [Voris](/characters/voris) played a bone flute to summon spectral water spirits, driving the elemental into the stone
+- [Varis](/characters/varis) played a bone flute to summon spectral water spirits, driving the elemental into the stone
 - [Peren](/characters/peren) ate mysterious mushrooms growing around the sarcophagus, gaining unpredictable effects
 
 ### The Dragon
 A massive dragon emerged from beneath the platform. It spoke **telepathically**, demanding respect and silence. After [Fenris](/characters/fenris) was knocked unconscious by a fireball, the party negotiated:
 - All swore an **oath of silence** about the dragon's existence
-- [Voris](/characters/voris) was **magically branded** as seal of the oath
+- [Varis](/characters/varis) was **magically branded** as seal of the oath
 - The dragon offered them the treasure chest in exchange for a future task: light a rune in [Morgan's Keep](/places/morgans-keep) and explore a hidden place there
 
 ## Escape (Session 18)

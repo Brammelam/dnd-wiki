@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2025-09-28 |
-| **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
+| **Players** | Varis ([Varis](/characters/varis)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Location** | [Dior](/places/dior), [The Academy](/places/the-academy), [The Crypt](/places/the-crypt) entrance |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-09-28-DiorEnterCrypt.pdf)

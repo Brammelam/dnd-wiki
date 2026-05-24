@@ -42,13 +42,13 @@ The party infiltrates a noble island fortress off [Rinden](/places/rinden) using
 <div class="wiki-timeline-entry">
 
 ### [Rinden Mud Street Brawl](/events/rinden-mud-street-brawl)
-After refusing an assassination contract, [Voris](/characters/voris), [Flint](/characters/flint), and [Peren](/characters/peren) brawl through Mud Street for a dwarf fixer's tenants. *Session 7*
+After refusing an assassination contract, [Varis](/characters/varis), [Flint](/characters/flint), and [Peren](/characters/peren) brawl through Mud Street for a dwarf fixer's tenants. *Session 7*
 
 </div>
 <div class="wiki-timeline-entry">
 
 ### [Toltec Box Courier Contract](/events/toltec-box-courier)
-[Voris](/characters/voris) and [Elowen](/characters/elowen) leave [Rinden](/places/rinden) toward [Dior](/places/dior) carrying a locked Academy box for [Toltec](/characters/toltec). *Session 8*
+[Varis](/characters/varis) and [Elowen](/characters/elowen) leave [Rinden](/places/rinden) toward [Dior](/places/dior) carrying a locked Academy box for [Toltec](/characters/toltec). *Session 8*
 
 </div>
 <div class="wiki-timeline-entry">
@@ -72,7 +72,7 @@ The party discovers a hidden ancient elven military outpost near [Hooves Bay](/p
 <div class="wiki-timeline-entry">
 
 ### [Lake Hydra Hunt](/events/lake-hydra-hunt)
-[Voris](/characters/voris), [Fenris](/characters/fenris), and [Gal'Rok](/characters/galrok) slay a regenerating hydra in an underground lake; [Gal'Rok](/characters/galrok) trades with the [Glassmaker](/characters/glassmaker-fey). *Session 11*
+Hydra showdown near [Alverike](/places/alverike): [Varis](/characters/varis), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok), and [Elowen](/characters/elowen); [Gal'Rok](/characters/galrok) trades with the [Glassmaker](/characters/glassmaker-fey). **Crystal-sealed undead conduit:** [Fenris](/characters/fenris) carries **Blade of the Ethereal**; [Elowen](/characters/elowen) carries **Sprout** and **Nathair's Mask**—against an **orc oracle's warning**—while [Varis](/characters/varis) pockets **Amulet of the Living** from separate delve loot. *Session 11*
 
 </div>
 <div class="wiki-timeline-entry">
@@ -102,13 +102,19 @@ The town of [Sire](/places/sire) burns in a devastating fire; [Fenris](/characte
 <div class="wiki-timeline-entry">
 
 ### [Road Inn Ambush](/events/road-inn-ambush)
-[Thorn](/characters/thorn-alchemist) drugs and ambushes [Peren](/characters/peren) in a stable, avenging the smashed door and oar trick from the serpent quest; [Voris](/characters/voris) stabilizes Thorn afterward. *Session 23*
+[Thorn](/characters/thorn-alchemist) drugs and ambushes [Peren](/characters/peren) in a stable, avenging the smashed door and oar trick from the serpent quest; [Varis](/characters/varis) stabilizes Thorn afterward. *Session 23*
 
 </div>
 <div class="wiki-timeline-entry">
 
 ### [Return to Morgan's Keep](/events/return-to-morgans-keep)
-[Voris](/characters/voris) and [Fenris](/characters/fenris) escort survivors to the capital outskirts, reunite with [Thor](/characters/thor-veteran), and open a spymaster path toward the [Crypt of Alabaster](/places/crypt-of-alabaster). *Session 24*
+[Varis](/characters/varis) and [Fenris](/characters/fenris) escort survivors to the capital outskirts, reunite with [Thor](/characters/thor-veteran), and open a spymaster path toward the [Crypt of Alabaster](/places/crypt-of-alabaster). *Session 24*
+
+</div>
+<div class="wiki-timeline-entry">
+
+### [Alabaster Crypt Infiltration](/events/alabaster-crypt-infiltration)
+[Varis](/characters/varis), [Peren](/characters/peren), and [Fenris](/characters/fenris) infiltrate cathedral crypts under [Morgan's Keep](/places/morgans-keep) after **[Gal'Rok](/characters/galrok)** leaves at camp—**Gregory I** mis-step, confrontation with **[Gregory IV](/characters/gregory-alabaster)**—**binder orb smashed ineffectively**, **[Amulet of the Living](/characters/varis)** used like **_Turn Undead_** (**charges left: 2**); **Blade of the Ethereal** ([Fenris](/characters/fenris)' Lake Hydra prize) drives nave chaos and **_Wind Wall_** egress. *Session 25*
 
 </div>
 </div>

@@ -9,7 +9,7 @@
 | **Type** | Espionage / Confrontation |
 | **Location** | [Dior](/places/dior), [Tyr Moir](/places/tyr-moir) |
 | **Sessions** | [Session 19](/sessions/session-19), [Session 20](/sessions/session-20), [Session 21](/sessions/session-21) |
-| **Participants** | [Voris](/characters/voris), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
+| **Participants** | [Varis](/characters/varis), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Target** | [Helga](/characters/helga) |
 
 </WikiInfobox>
@@ -44,9 +44,9 @@ The party decided against direct violence at the wedding and instead planned to 
 At [Tyr Moir](/places/tyr-moir) graveyard:
 
 1. [Helga](/characters/helga) arrived armed with a hammer, placed her lantern on the central statue
-2. [Voris](/characters/voris) **shot the lantern** with an arrow, plunging the graveyard into darkness
+2. [Varis](/characters/varis) **shot the lantern** with an arrow, plunging the graveyard into darkness
 3. [Peren](/characters/peren) appeared and vanished among the gravestones like a shadow
-4. [Voris](/characters/voris) **rappelled from a rooftop** in a dramatic entrance
+4. [Varis](/characters/varis) **rappelled from a rooftop** in a dramatic entrance
 5. [Fenris](/characters/fenris) stepped forward at the gate, smoking a pipe
 
 The interrogation revealed crucial information about the [Crown Prince murder](/events/crown-prince-murder) conspiracy:
@@ -60,7 +60,7 @@ A guard Helga had posted was subdued, bound, gagged, and hidden by the party.
 ## Aftermath
 
 The party left Dior with key intelligence, heading in different directions:
-- [Voris](/characters/voris) and [Peren](/characters/peren) rode toward [Morgan's Keep](/places/morgans-keep)
+- [Varis](/characters/varis) and [Peren](/characters/peren) rode toward [Morgan's Keep](/places/morgans-keep)
 - [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) rode toward the smoke from [Sire](/places/sire)
 
 ## Related Events

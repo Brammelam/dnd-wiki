@@ -21,7 +21,7 @@ To force **[Peren](/characters/peren)** to face the serpent **without help**, Th
 
 ## Road revenge
 
-Later, Thorn tracked [Voris](/characters/voris) and Peren on the road ([Road Inn Ambush](/events/road-inn-ambush)): disguised as a **traveling herbalist**, he **drugged their drinks**, then **ambushed Peren alone** in the stable. [Voris](/characters/voris) helped subdue him and used a **healing potion** to **stabilize** Thorn after the fight. Peren kept Thorn's **poisoning notebook**.
+Later, Thorn tracked [Varis](/characters/varis) and Peren on the road ([Road Inn Ambush](/events/road-inn-ambush)): disguised as a **traveling herbalist**, he **drugged their drinks**, then **ambushed Peren alone** in the stable. [Varis](/characters/varis) helped subdue him and used a **healing potion** to **stabilize** Thorn after the fight. Peren kept Thorn's **poisoning notebook**.
 
 ## See Also
 

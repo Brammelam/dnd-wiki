@@ -16,7 +16,7 @@
 
 **Magda** is a **one-armed** half-orc who works in **information and intelligence** for **General Kamp**’s apparatus — not as an artificer. She is **[Thor](/characters/thor-veteran)**’s **boss** in that chain.
 
-She arrived with Thor during [Voris](/characters/voris) and [Fenris](/characters/fenris)'s return to the capital region ([Session 24](/sessions/session-24)).
+She arrived with Thor during [Varis](/characters/varis) and [Fenris](/characters/fenris)'s return to the capital region ([Session 24](/sessions/session-24)).
 
 ## See Also
 

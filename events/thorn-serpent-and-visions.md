@@ -9,7 +9,7 @@
 | **Type** | Alchemy training / combat / visions |
 | **Location** | Coast near [Havfika](/places/havfika), [Thorn](/characters/thorn-alchemist)'s tower, serpent island |
 | **Session** | [Session 9](/sessions/session-09) |
-| **Participants** | [Voris](/characters/voris), [Peren](/characters/peren), [Elowen](/characters/elowen) |
+| **Participants** | [Varis](/characters/varis), [Peren](/characters/peren), [Elowen](/characters/elowen) |
 
 </WikiInfobox>
 

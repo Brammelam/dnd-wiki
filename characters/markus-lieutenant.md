@@ -13,7 +13,7 @@
 
 </WikiInfobox>
 
-**Markus** is a guard who knew [Voris](/characters/voris) from military service. At [Rinden](/places/rinden)'s gates he delayed the party with nostalgia and mentioned his unit heading to [Fort John](/places/fort-john) amid unrest.
+**Markus** is a guard who knew [Varis](/characters/varis) from military service. At [Rinden](/places/rinden)'s gates he delayed the party with nostalgia and mentioned his unit heading to [Fort John](/places/fort-john) amid unrest.
 
 Later he served **[Baron Peridott](/characters/baron-peridott)** during the [Fort John Rebellion](/events/fort-john-rebellion), hiring independent agents and helping the party evade **[Konstantin Carnelian](/characters/konstantin-carnelian)**.
 

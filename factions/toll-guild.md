@@ -16,7 +16,7 @@
 
 ## Role in the Story
 
-The party first encountered the Toll Guild in [Session 5](/sessions/session-05) when [Peren](/characters/peren) and [Voris](/characters/voris) visited their **headquarters** to investigate the [Crown Prince murder](/events/crown-prince-murder). The clerk was unhelpful and bureaucratic, providing no useful information.
+The party first encountered the Toll Guild in [Session 5](/sessions/session-05) when [Peren](/characters/peren) and [Varis](/characters/varis) visited their **headquarters** to investigate the [Crown Prince murder](/events/crown-prince-murder). The clerk was unhelpful and bureaucratic, providing no useful information.
 
 The Guild maintains an **observatory** — a white tower controlling both sides of the quay in Rinden — from which they monitor all trade entering the city. Their influence over trade and taxation makes them a significant political force in the port city.
 

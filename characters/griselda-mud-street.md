@@ -14,7 +14,7 @@
 
 </WikiInfobox>
 
-**Griselda** is a tough dwarf with a **broken arm** who offered [Voris](/characters/voris), [Flint](/characters/flint), and [Peren](/characters/peren) work **intimidating delinquent tenants** on Mud Street after they refused an assassination job from [Salander](/characters/salander). She connected [Peren](/characters/peren) toward poison contacts.
+**Griselda** is a tough dwarf with a **broken arm** who offered [Varis](/characters/varis), [Flint](/characters/flint), and [Peren](/characters/peren) work **intimidating delinquent tenants** on Mud Street after they refused an assassination job from [Salander](/characters/salander). She connected [Peren](/characters/peren) toward poison contacts.
 
 ## See Also
 

@@ -9,7 +9,7 @@
 | **Type** | Street violence / debt collection |
 | **Location** | [Rinden](/places/rinden), Mud Street |
 | **Session** | [Session 7](/sessions/session-07) |
-| **Participants** | [Voris](/characters/voris), [Flint](/characters/flint), [Peren](/characters/peren) |
+| **Participants** | [Varis](/characters/varis), [Flint](/characters/flint), [Peren](/characters/peren) |
 
 </WikiInfobox>
 
@@ -17,7 +17,7 @@ The **Mud Street brawl** followed intelligence from [Salander](/characters/salan
 
 ## Fight
 
-[Voris](/characters/voris), [Flint](/characters/flint), and [Peren](/characters/peren) forced a confrontation: holy water, clubs, poison bluffing, archery, and Flint's **Vow of Enmity**. The locals were beaten into submission for [Griselda](/characters/griselda-mud-street)'s leverage.
+[Varis](/characters/varis), [Flint](/characters/flint), and [Peren](/characters/peren) forced a confrontation: holy water, clubs, poison bluffing, archery, and Flint's **Vow of Enmity**. The locals were beaten into submission for [Griselda](/characters/griselda-mud-street)'s leverage.
 
 ## See Also
 

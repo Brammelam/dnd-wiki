@@ -9,7 +9,7 @@
 | **Type** | Combat encounter |
 | **Location** | Road between towns |
 | **Session** | [Session 2](/sessions/session-02) |
-| **Participants** | [Peren](/characters/peren), [Voris](/characters/voris), [Elowen](/characters/elowen), [Fenris](/characters/fenris), [Lilith](/characters/lilith), [Gal'Rok](/characters/galrok) |
+| **Participants** | [Peren](/characters/peren), [Varis](/characters/varis), [Elowen](/characters/elowen), [Fenris](/characters/fenris), [Lilith](/characters/lilith), [Gal'Rok](/characters/galrok) |
 
 </WikiInfobox>
 

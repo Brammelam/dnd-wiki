@@ -13,9 +13,9 @@
 
 </WikiInfobox>
 
-**Thor** first met [Voris](/characters/voris) and [Peren](/characters/peren) on the road toward [Morgan's Keep](/places/morgans-keep), sharing cheese and rumors of **Fortrejon** and **Kopp**.
+**Thor** first met [Varis](/characters/varis) and [Peren](/characters/peren) on the road toward [Morgan's Keep](/places/morgans-keep), sharing cheese and rumors of **Fortrejon** and **Kopp**.
 
-In the capital outskirts ([Session 24](/sessions/session-24)), [Voris](/characters/voris) found him changed — **battle-worn**, with a **staff** and **bad leg**. Thor's vouch mattered to a **spymaster** offering help. He returned with his superior **[Magda](/characters/magda)** — intelligence for [General Kamp](/factions/third-army), not an artificer.
+In the capital outskirts ([Session 24](/sessions/session-24)), [Varis](/characters/varis) found him changed — **battle-worn**, with a **staff** and **bad leg**. Thor's vouch mattered to a **spymaster** offering help. He returned with his superior **[Magda](/characters/magda)** — intelligence for [General Kamp](/factions/third-army), not an artificer.
 
 ## See Also
 

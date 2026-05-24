@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2025-07-19 |
-| **Players** | Varis ([Voris](/characters/voris)), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
+| **Players** | Varis ([Varis](/characters/varis)), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Location** | **Fort John** — towers, beer cellar, inner keep |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-07-19-FortJohnTwo.pdf)

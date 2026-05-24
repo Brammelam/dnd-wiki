@@ -16,7 +16,7 @@
 
 **Brad** is a polite, unremarkable mage the party used as social cover to reach [Scully Stronghold](/places/scully-stronghold). [Elowen](/characters/elowen) posed as his guest after a fabricated tale of searching for a lost love on the island.
 
-He later hired [Voris](/characters/voris) and [Elowen](/characters/elowen) to courier a **locked metal box** to [Toltec](/characters/toltec) in [Dior](/places/dior) for forty gold ([Session 8](/sessions/session-08)).
+He later hired [Varis](/characters/varis) and [Elowen](/characters/elowen) to courier a **locked metal box** to [Toltec](/characters/toltec) in [Dior](/places/dior) for forty gold ([Session 8](/sessions/session-08)).
 
 ## See Also
 

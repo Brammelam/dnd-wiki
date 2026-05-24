@@ -10,7 +10,7 @@
 
 ## Recap
 
-[Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) rode toward the smoke while [Voris](/characters/voris) and [Peren](/characters/peren) headed to [Morgan's Keep](/places/morgans-keep).
+[Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) rode toward the smoke while [Varis](/characters/varis) and [Peren](/characters/peren) headed to [Morgan's Keep](/places/morgans-keep).
 
 ### The Journey
 

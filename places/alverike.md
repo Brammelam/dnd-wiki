@@ -16,7 +16,7 @@
 
 ## Notable Exports
 
-- **Magical glasses** — Rare optical aids that can correct vision. The party carried a pair that [Fenris](/characters/fenris) sold to [Lynn Salt](/characters/lynn-salt) at [the Academy](/places/the-academy) for 300 gold. [Voris](/characters/voris) also uses a pair for his farsightedness.
+- **Magical glasses** — Rare optical aids that can correct vision. The party carried a pair that [Fenris](/characters/fenris) sold to [Lynn Salt](/characters/lynn-salt) at [the Academy](/places/the-academy) for 300 gold. [Varis](/characters/varis) also uses a pair for his farsightedness.
 - **Fine metalwork** — Alverike is known for quality metal craftsmanship
 
 The glasses were described as being made by a "glass master in Alverike," and few people in the wider world understood their function as optical aids.

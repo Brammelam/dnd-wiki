@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2024-11-16 |
-| **Players** | [Voris](/characters/voris), [Elowen](/characters/elowen), [Flint](/characters/flint) |
+| **Players** | [Varis](/characters/varis), [Elowen](/characters/elowen), [Flint](/characters/flint) |
 | **Location** | [Turn](/places/turn), road to [Rinden](/places/rinden), [Saltside](/places/saltside) |
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-11-16-Session4.md)

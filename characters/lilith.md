@@ -27,4 +27,4 @@ Lilith was present during the [mercenary ambush](/events/mercenary-ambush) by [F
 ## Relationships
 
 - **[Fenris](/characters/fenris)** — Partner in the Turn hoax
-- **[Voris](/characters/voris)** — Fellow party member
+- **[Varis](/characters/varis)** — Fellow party member

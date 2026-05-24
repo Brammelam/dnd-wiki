@@ -32,7 +32,7 @@ Helga appeared in [Dior](/places/dior) overseeing preparations for a grand weddi
 ### The Graveyard Confrontation
 The party lured Helga to the [Tyr Moir](/places/tyr-moir) graveyard with an anonymous threatening message: *"Meet at Tyr Moir, at dusk or wedding destroyed. Come alone."* She came alone but armed, setting her lantern on a statue of Tyr Moir.
 
-[Voris](/characters/voris) shot out the lantern, plunging the graveyard into darkness. After a tense standoff, Helga revealed key information:
+[Varis](/characters/varis) shot out the lantern, plunging the graveyard into darkness. After a tense standoff, Helga revealed key information:
 - She still suspected the party but was **willing to help** within limits
 - Her position in the King's Guard bound her; she couldn't act openly
 - **[Lieutenant Jet](/characters/lieutenant-jet)** had filed the damning report, manipulated through his wife's gambling debts and pressure from the [Humanus Association](/factions/humanus-association). His wife is now imprisoned in "the Hole"
@@ -41,7 +41,7 @@ The party lured Helga to the [Tyr Moir](/places/tyr-moir) graveyard with an anon
 
 ## Relationships
 
-- **[Voris](/characters/voris)** — He confronted her at gunpoint (bowpoint); she respects his directness
+- **[Varis](/characters/varis)** — He confronted her at gunpoint (bowpoint); she respects his directness
 - **[Fenris](/characters/fenris)** — He calmed tensions during the confrontation
 - **The Party** — A complicated relationship: she arrested them, but provided crucial information
 - **The King's Guard** — Her loyalty is to the institution, not necessarily to justice

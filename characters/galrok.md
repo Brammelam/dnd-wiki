@@ -37,6 +37,9 @@ In [Dior](/places/dior), Gal'Rok helped case the temple for the upcoming wedding
 ### Burning of Sire (Session 22)
 Gal'Rok and [Fenris](/characters/fenris) rode to investigate fires near [Sire](/places/sire). They rescued [Knut Pilsen](/characters/knut-pilsen) and his daughter from a burning building, with Gal'Rok smothering flames with her cloak despite her own **trauma around fire**. She then fought a pyromancer on the town square, taking a direct fireball to the chest and continuing to fight. She severed the pyromancer's hand with her glass axe in a devastating strike but was eventually knocked unconscious by a point-blank fire explosion before being revived by Fenris.
 
+### Session 25 — Riverside camp
+At the riverside approach to [Morgan's Keep](/places/morgans-keep), companions noted **burn scarring across her right foot**. The player **left before the party entered the cathedral**—[Gal'Rok](/characters/galrok) does **not** appear in the nave, undercrofts, or [Crypt of Alabaster](/places/crypt-of-alabaster) beats from that session ([Session 25](/sessions/session-25)).
+
 ## Notable Moments
 
 - Gave 2 gp to poor half-orcs in Turn
@@ -47,5 +50,5 @@ Gal'Rok and [Fenris](/characters/fenris) rode to investigate fires near [Sire](/
 ## Relationships
 
 - **[Fenris](/characters/fenris)** — Fought together at Sire; Fenris provided healing and support
-- **[Voris](/characters/voris)** — Traveled together through the Dior crypt
+- **[Varis](/characters/varis)** — Traveled together through the Dior crypt
 - **[Carlos](/characters/carlos)** — Worked with him on the crypt expedition

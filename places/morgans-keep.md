@@ -41,7 +41,7 @@ The party was originally heading to [Rinden](/places/rinden) to investigate the 
 
 All player characters originally lived in Morgan's Keep before the [Crown Prince murder](/events/crown-prince-murder) and their flight:
 
-- [Voris](/characters/voris) — Veteran of the Morganian army
+- [Varis](/characters/varis) — Veteran of the Morganian army
 - [Peren](/characters/peren) — Criminal who grew up here
 - [Elowen](/characters/elowen) — Wood elf warlock
 - [Fenris Shadowveil](/characters/fenris) — Druid

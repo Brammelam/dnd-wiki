@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2024-09-08 |
-| **Players** | [Peren](/characters/peren), [Voris](/characters/voris), [Elowen](/characters/elowen), [Fenris](/characters/fenris), [Lilith](/characters/lilith), [Gal'Rok](/characters/galrok) |
+| **Players** | [Peren](/characters/peren), [Varis](/characters/varis), [Elowen](/characters/elowen), [Fenris](/characters/fenris), [Lilith](/characters/lilith), [Gal'Rok](/characters/galrok) |
 | **Location** | Road between towns |
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-09-08-Session2.md)

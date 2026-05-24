@@ -21,14 +21,14 @@ The graveyard is positioned on elevated ground with good views of the surroundin
 - **Monoliths and gravestones** — Large enough to hide behind
 - **A central statue** — Where [Helga](/characters/helga) placed her lantern
 - **A small chapel** — With a door to catacombs (usually guarded, unguarded on the day of the confrontation)
-- **Rooftop access** — [Voris](/characters/voris) used a nearby building's roof for his entrance
+- **Rooftop access** — [Varis](/characters/varis) used a nearby building's roof for his entrance
 - **Old groundskeeper Anne** — An elderly woman who tends the graves
 
 ## The Confrontation
 
 The party sent [Helga](/characters/helga) an anonymous message: *"Meet at Tyr Moir, at dusk or wedding destroyed. Come alone."* She came armed with a hammer, set her lantern on the central statue, and waited with crossed arms.
 
-[Voris](/characters/voris) shot the lantern to plunge the area into darkness, then rappelled from a rooftop. [Peren](/characters/peren) appeared and vanished like a shadow among the gravestones. [Fenris](/characters/fenris) stepped forward at the gate. The three surrounded Helga for an intense interrogation that revealed key information about the [Crown Prince murder](/events/crown-prince-murder) conspiracy.
+[Varis](/characters/varis) shot the lantern to plunge the area into darkness, then rappelled from a rooftop. [Peren](/characters/peren) appeared and vanished like a shadow among the gravestones. [Fenris](/characters/fenris) stepped forward at the gate. The three surrounded Helga for an intense interrogation that revealed key information about the [Crown Prince murder](/events/crown-prince-murder) conspiracy.
 
 A guard [Helga](/characters/helga) had posted was subdued by [Peren](/characters/peren), bound, gagged, and hidden in a bush.
 

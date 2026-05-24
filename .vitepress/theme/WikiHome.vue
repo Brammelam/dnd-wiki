@@ -26,20 +26,20 @@ const categories = [
     title: 'Events',
     href: '/events/',
     description: 'Major plot points from conspiracy to war.',
-    count: 18,
+    count: 19,
   },
   {
     title: 'Sessions',
     href: '/sessions/',
     description: 'Full recaps of every session played.',
-    count: 24,
+    count: 25,
   },
 ]
 
 const recentSessions = [
+  { title: 'Session 25 — Crypt of Morgan (Alabaster)', href: '/sessions/session-25' },
   { title: 'Session 24 — Return to Morgan’s Keep', href: '/sessions/session-24' },
   { title: 'Session 23 — Salt, Thorn & Cheese', href: '/sessions/session-23' },
-  { title: 'Session 22 — Burning of Sire', href: '/sessions/session-22' },
 ]
 </script>
 
@@ -74,7 +74,7 @@ const recentSessions = [
         <div class="wiki-home__prose">
           <p>
             Our party &mdash;
-            <a href="/characters/voris">Voris</a>,
+            <a href="/characters/varis">Varis</a>,
             <a href="/characters/peren">Peren</a>,
             <a href="/characters/flint">Flint</a>,
             <a href="/characters/thia">Thia</a>,

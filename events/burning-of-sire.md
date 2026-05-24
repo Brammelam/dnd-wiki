@@ -17,7 +17,7 @@ The **Burning of Sire** was a devastating fire that consumed the town of [Sire](
 
 ## The Journey
 
-Smoke was visible on the horizon from outside [Dior](/places/dior). [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) rode toward it while [Voris](/characters/voris) and [Peren](/characters/peren) continued to [Morgan's Keep](/places/morgans-keep). They rode for a day and a half, passing refugees:
+Smoke was visible on the horizon from outside [Dior](/places/dior). [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) rode toward it while [Varis](/characters/varis) and [Peren](/characters/peren) continued to [Morgan's Keep](/places/morgans-keep). They rode for a day and a half, passing refugees:
 - Mothers with children
 - Elderly on donkeys
 - Men carrying salvaged possessions

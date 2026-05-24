@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2024-10-07 |
-| **Players** | [Peren](/characters/peren), [Voris](/characters/voris), [Elowen](/characters/elowen), [Fenris](/characters/fenris), [Lilith](/characters/lilith), [Gal'Rok](/characters/galrok) |
+| **Players** | [Peren](/characters/peren), [Varis](/characters/varis), [Elowen](/characters/elowen), [Fenris](/characters/fenris), [Lilith](/characters/lilith), [Gal'Rok](/characters/galrok) |
 | **Location** | [Turn](/places/turn), [Azure Oak Grove](/places/azure-oak-grove) |
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-10-07-Session3.md)

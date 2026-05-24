@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2025-12-07 |
-| **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
+| **Players** | Varis ([Varis](/characters/varis)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Location** | [Dior](/places/dior) — temple, shops, streets |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-12-07-DiorPlanWedding.pdf)
@@ -21,7 +21,7 @@ Workers were setting up chairs and decorations at the temple. Guards stood at th
 - The cat explored the altar and columns, but accidentally knocked over a large flower vase — creating a loud crash that drew everyone's attention
 - Using the chaos, Peren slipped past the guards and explored the **basement**: three doors on each side, a locked room, storage, and a dining area with workers. Five doors total, the nearest locked. The rooms extended under the building and partially under the waterline
 - [Gal'Rok](/characters/galrok) used the confusion to climb up and survey from above
-- [Voris](/characters/voris) stood watch outside
+- [Varis](/characters/varis) stood watch outside
 
 The cat (Fenris) continued causing havoc — climbing curtains, scratching a servant who swung a broom at him, and eventually escaping through the crowd.
 

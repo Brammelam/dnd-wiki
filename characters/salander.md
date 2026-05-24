@@ -18,7 +18,7 @@
 
 ## Role in the Story
 
-[Peren](/characters/peren) and [Voris](/characters/voris) sought out The Crabs to gain information about who framed them for the [Crown Prince's murder](/events/crown-prince-murder). After proving themselves by watching fight pits and rescuing a Crabs member, they earned a meeting with Salander.
+[Peren](/characters/peren) and [Varis](/characters/varis) sought out The Crabs to gain information about who framed them for the [Crown Prince's murder](/events/crown-prince-murder). After proving themselves by watching fight pits and rescuing a Crabs member, they earned a meeting with Salander.
 
 Salander offered a deal: he would **dig into who framed the party** if they did a job for him first — exposing the shady business dealings of [Father Terry](/characters/father-terry).
 

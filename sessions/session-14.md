@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2025-08-03 |
-| **Players** | Varis ([Voris](/characters/voris)), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
+| **Players** | Varis ([Varis](/characters/varis)), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Location** | **Fort John**, baron's camp, road toward **Dior** |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-08-03-FortJohnThree.pdf)

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2026-02-15 |
-| **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
+| **Players** | Varis ([Varis](/characters/varis)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
 | **Location** | [Tyr Moir](/places/tyr-moir), [Dior](/places/dior) outskirts, military camp |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-02-15-Dior-Helga-Confrontation.pdf)
@@ -21,7 +21,7 @@ Key revelations from Helga:
 - The cardinal in the king's council could **compel truth** — a potential path to justice
 - She would **not** help them openly; if they contacted her again, she would arrest them
 
-[Voris](/characters/voris) drew his bow and aimed at her. [Fenris](/characters/fenris) placed a hand on the bow to de-escalate. They pressed harder with a knife to her guard's throat, but Helga held firm — she had said everything she intended to say.
+[Varis](/characters/varis) drew his bow and aimed at her. [Fenris](/characters/fenris) placed a hand on the bow to de-escalate. They pressed harder with a knife to her guard's throat, but Helga held firm — she had said everything she intended to say.
 
 They released the bound guard, warned Helga that her family would suffer if anything happened, and retreated.
 
@@ -37,7 +37,7 @@ They visited [Bob Swords](/characters/bob-swords), who bought back their wedding
 
 The party exited Dior through the long tunnel. Outside, a large **military camp** was spread along the riverbank — tents, fires, horses, and an uneasy atmosphere. Smoke drifted from the west, and something was burning.
 
-[Voris](/characters/voris) approached a young soldier and showed his City Watch insignia. The soldier spoke of his service under "RitznJett," worship of Tyr, Torm, and Ilmater, and revealed that the force was likely **marching south toward Morgan's Keep**. The cardinal had reportedly **fled to Dior** and was sending forces against "Orrids Keep."
+[Varis](/characters/varis) approached a young soldier and showed his City Watch insignia. The soldier spoke of his service under "RitznJett," worship of Tyr, Torm, and Ilmater, and revealed that the force was likely **marching south toward Morgan's Keep**. The cardinal had reportedly **fled to Dior** and was sending forces against "Orrids Keep."
 
 ### City Planning
 
@@ -57,4 +57,4 @@ In a remarkable scene, the party sat down and **built a map of Morgan's Keep** u
 - [Humanus Association](/factions/humanus-association) identified as conspirators
 - Military buildup outside Dior discovered
 - Morgan's Keep city map created
-- Party splits: Voris/Peren to Morgan's Keep, Fenris/Gal'Rok toward smoke
+- Party splits: Varis/Peren to Morgan's Keep, Fenris/Gal'Rok toward smoke

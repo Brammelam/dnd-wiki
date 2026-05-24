@@ -35,5 +35,5 @@ Bob connected the party with [Carlos](/characters/carlos) for the crypt expediti
 ## Relationships
 
 - **[Carlos](/characters/carlos)** — A friend he referred the party to
-- **[Voris](/characters/voris)** — Regular customer; discussed bow upgrades and equipment
+- **[Varis](/characters/varis)** — Regular customer; discussed bow upgrades and equipment
 - **The Party** — A trusted ally who provides both goods and intelligence

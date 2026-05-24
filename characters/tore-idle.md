@@ -18,14 +18,14 @@
 
 ## Role in the Story
 
-Tore examined [Voris](/characters/voris)'s damaged bow and offered to repair it for **50 gold**, warning that the result wouldn't be quite the same as the original. He presented several options:
+Tore examined [Varis](/characters/varis)'s damaged bow and offered to repair it for **50 gold**, warning that the result wouldn't be quite the same as the original. He presented several options:
 
 - A **more powerful bow** with longer range but harder to aim
 - A **standard bow** that was easier to handle but with shorter range
 
-Voris chose the powerful option, valuing precision and force. Tore showed interest in customizing the weapon to Voris's specific needs and discussed possible upgrades, though at premium prices.
+Varis chose the powerful option, valuing precision and force. Tore showed interest in customizing the weapon to Varis's specific needs and discussed possible upgrades, though at premium prices.
 
 ## Relationships
 
 - **[Bob Swords](/characters/bob-swords)** — Professional contact who referred customers
-- **[Voris](/characters/voris)** — Repaired and upgraded his bow
+- **[Varis](/characters/varis)** — Repaired and upgraded his bow

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2025-01-18 |
-| **Players** | Varis ([Voris](/characters/voris)), [Flint](/characters/flint), [Fenris](/characters/fenris), [Elowen](/characters/elowen) |
+| **Players** | Varis ([Varis](/characters/varis)), [Flint](/characters/flint), [Fenris](/characters/fenris), [Elowen](/characters/elowen) |
 | **Location** | [Rinden](/places/rinden) docks, Scully's Stronghold (island) |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-01-18-S5-Rinden-ScullyStronghold.pdf)
@@ -18,7 +18,7 @@ The layered plan took shape: Fenris as a **rat in a crate**; Elowen escorted by 
 
 ## Key Events
 
-- [Scully Stronghold Infiltration](/events/scully-stronghold-infiltration) — boarding the lektør with [Brad](/characters/brad-academy-student)'s cover, [Voris](/characters/voris) invisible, [Fenris](/characters/fenris) staging Wild Shape among cargo
+- [Scully Stronghold Infiltration](/events/scully-stronghold-infiltration) — boarding the lektør with [Brad](/characters/brad-academy-student)'s cover, [Varis](/characters/varis) invisible, [Fenris](/characters/fenris) staging Wild Shape among cargo
 - Combined stealth: invisibility, druid shape, and social engineering toward [Lady Amber](/characters/lady-amber)'s redoubt
 
 ## Related

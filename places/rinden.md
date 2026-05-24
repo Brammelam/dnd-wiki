@@ -31,7 +31,7 @@
 ## Events
 
 - **[Azure Oak Seed Sale](/events/azure-oak-quest)** — [Elowen](/characters/elowen) sold the seed for 120 gold in the Saltside district
-- **[The Crabs Job](/events/the-crabs-job)** — [Peren](/characters/peren) and [Voris](/characters/voris) infiltrated the gang to gain intelligence
+- **[The Crabs Job](/events/the-crabs-job)** — [Peren](/characters/peren) and [Varis](/characters/varis) infiltrated the gang to gain intelligence
 
 ## Description
 

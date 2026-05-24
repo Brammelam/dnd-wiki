@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2025-02-15 |
-| **Players** | Varis ([Voris](/characters/voris)), [Flint](/characters/flint), [Peren](/characters/peren) |
+| **Players** | Varis ([Varis](/characters/varis)), [Flint](/characters/flint), [Peren](/characters/peren) |
 | **Location** | [Rinden](/places/rinden) — The Pits, Mud Street |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-02-15-S6-Rinden-TwoFights.pdf)

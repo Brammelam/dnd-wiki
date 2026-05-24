@@ -9,7 +9,7 @@
 | **Type** | Prison break / Combat |
 | **Location** | [Morgan's Keep](/places/morgans-keep) |
 | **Session** | [Session 1](/sessions/session-01) |
-| **Participants** | [Flint](/characters/flint), [Peren](/characters/peren), [Thia](/characters/thia), [Voris](/characters/voris) |
+| **Participants** | [Flint](/characters/flint), [Peren](/characters/peren), [Thia](/characters/thia), [Varis](/characters/varis) |
 
 </WikiInfobox>
 
@@ -17,7 +17,7 @@ The **Escape from Morgan's Keep** was the party's desperate breakout from captiv
 
 ## The Escape
 
-[Flint](/characters/flint), [Peren](/characters/peren), [Thia](/characters/thia), and [Voris](/characters/voris) fought their way through the prison and guards, reaching a gate and fleeing the capital. During the escape, they killed several wall guards — a decision with lasting consequences.
+[Flint](/characters/flint), [Peren](/characters/peren), [Thia](/characters/thia), and [Varis](/characters/varis) fought their way through the prison and guards, reaching a gate and fleeing the capital. During the escape, they killed several wall guards — a decision with lasting consequences.
 
 ## Aftermath
 

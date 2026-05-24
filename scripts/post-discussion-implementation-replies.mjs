@@ -27,7 +27,7 @@ const DISCUSSIONS = [
     nodeId: "D_kwDOSBoiMc4Al6XW",
     body: `**Scribe / wiki:** The changes from this thread are implemented in the repo.
 
-- **Gregory Alabastor** — Added as the deceased they plan to **find in the [Crypt of Alabaster](https://dnd-wiki-0mrf.onrender.com/places/crypt-of-alabaster)** (per “the man who has passed”), with a stub at \`characters/gregory-alabastor.md\`. [Session 24](https://dnd-wiki-0mrf.onrender.com/sessions/session-24), [Return to Morgan’s Keep](https://dnd-wiki-0mrf.onrender.com/events/return-to-morgans-keep), and the crypt place page are aligned.
+- **Gregory Alabaster** — [Great-house](/places/kingdom-of-morgan#politics) corpse at center of crypt plot; stub became full page at \`characters/gregory-alabaster.md\` after Session 25.
 `,
   },
 ]

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2025-05-04 |
-| **Players** | [Elowen](/characters/elowen), [Peren](/characters/peren), Varis ([Voris](/characters/voris)) |
+| **Players** | [Elowen](/characters/elowen), [Peren](/characters/peren), Varis ([Varis](/characters/varis)) |
 | **Location** | [Fey Realm](/places/fey-realm) exit, [Hooves Bay](/places/hooves-bay) |
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-05-04-S9-HoovesBay%26FirstDungeon.md)

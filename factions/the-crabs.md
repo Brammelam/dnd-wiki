@@ -17,7 +17,7 @@
 
 ## Role in the Story
 
-[Peren](/characters/peren) and [Voris](/characters/voris) sought out The Crabs in [Session 5](/sessions/session-05) to find information about who framed them for the [Crown Prince's murder](/events/crown-prince-murder). To earn the gang's trust, they:
+[Peren](/characters/peren) and [Varis](/characters/varis) sought out The Crabs in [Session 5](/sessions/session-05) to find information about who framed them for the [Crown Prince's murder](/events/crown-prince-murder). To earn the gang's trust, they:
 
 1. Watched the **fight pits** — underground combat arenas
 2. **Saved a Crabs member** from danger

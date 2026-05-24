@@ -57,7 +57,7 @@ Beneath the platform lurked a **massive dragon** (reddish, fire-breathing) that 
 
 ## The Dragon's Deal
 
-The dragon offered the party the treasure chest if they performed a service: travel to [Morgan's Keep](/places/morgans-keep), light a special rune with coal, and explore a hidden ancient place there. All party members swore an oath to **never reveal the dragon's existence**, sealed with a magical brand on [Voris](/characters/voris).
+The dragon offered the party the treasure chest if they performed a service: travel to [Morgan's Keep](/places/morgans-keep), light a special rune with coal, and explore a hidden ancient place there. All party members swore an oath to **never reveal the dragon's existence**, sealed with a magical brand on [Varis](/characters/varis).
 
 ## See Also
 

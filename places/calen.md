@@ -12,7 +12,7 @@
 
 </WikiInfobox>
 
-**Calen** is a hungry **elven hamlet** on the approach to [Dior](/places/dior), where [Voris](/characters/voris) and [Fenris](/characters/fenris) stopped after dealing with **[Konstantin Carnelian](/characters/konstantin-carnelian)**.
+**Calen** is a hungry **elven hamlet** on the approach to [Dior](/places/dior), where [Varis](/characters/varis) and [Fenris](/characters/fenris) stopped after dealing with **[Konstantin Carnelian](/characters/konstantin-carnelian)**.
 
 ## See Also
 

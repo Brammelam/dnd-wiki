@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2024-08-24 |
-| **Players** | [Flint](/characters/flint), [Peren](/characters/peren), [Thia](/characters/thia), [Voris](/characters/voris) |
+| **Players** | [Flint](/characters/flint), [Peren](/characters/peren), [Thia](/characters/thia), [Varis](/characters/varis) |
 | **Location** | [Morgan's Keep](/places/morgans-keep), road to [Rinden](/places/rinden) |
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-08-24-Session1.md)

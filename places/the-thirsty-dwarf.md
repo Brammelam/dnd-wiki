@@ -12,7 +12,7 @@
 
 </WikiInfobox>
 
-**The Thirsty Dwarf** is an inn where [Voris](/characters/voris) and [Peren](/characters/peren) stayed **early** on their journey toward the capital. The later [Road Inn Ambush](/events/road-inn-ambush) involving [Thorn](/characters/thorn-alchemist) happened at a **different** full roadside inn where they slept in the stable.
+**The Thirsty Dwarf** is an inn where [Varis](/characters/varis) and [Peren](/characters/peren) stayed **early** on their journey toward the capital. The later [Road Inn Ambush](/events/road-inn-ambush) involving [Thorn](/characters/thorn-alchemist) happened at a **different** full roadside inn where they slept in the stable.
 
 ## See Also
 

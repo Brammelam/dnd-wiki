@@ -9,7 +9,7 @@
 | **Type** | Infiltration / heist setup |
 | **Location** | [Rinden](/places/rinden) docks, [Scully Stronghold](/places/scully-stronghold) |
 | **Session** | [Session 6](/sessions/session-06) |
-| **Participants** | [Voris](/characters/voris), [Flint](/characters/flint), [Fenris](/characters/fenris), [Elowen](/characters/elowen) |
+| **Participants** | [Varis](/characters/varis), [Flint](/characters/flint), [Fenris](/characters/fenris), [Elowen](/characters/elowen) |
 
 </WikiInfobox>
 
@@ -17,11 +17,11 @@ The **Scully Stronghold infiltration** was the party's opening move against a se
 
 ## Approach
 
-In Rinden's **Old Town** docks, the party watched the **lektør** barge — powered by donkeys walking in circles — that carried cargo and invited guests to the island fortress. [Elowen](/characters/elowen) approached a mage she knew, **[Brad](/characters/brad-academy-student)**, spun a tale of searching for a lost love on the stronghold, and secured passage as his guest. [Voris](/characters/voris) was made **invisible** and slipped aboard; [Fenris](/characters/fenris) held back to enter later as a small animal among cargo; [Flint](/characters/flint) remained in Rinden as backup.
+In Rinden's **Old Town** docks, the party watched the **lektør** barge — powered by donkeys walking in circles — that carried cargo and invited guests to the island fortress. [Elowen](/characters/elowen) approached a mage she knew, **[Brad](/characters/brad-academy-student)**, spun a tale of searching for a lost love on the stronghold, and secured passage as his guest. [Varis](/characters/varis) was made **invisible** and slipped aboard; [Fenris](/characters/fenris) held back to enter later as a small animal among cargo; [Flint](/characters/flint) remained in Rinden as backup.
 
 ## Landing
 
-After a short crossing, the barge docked at the stronghold. [Elowen](/characters/elowen) went ashore as a guest while [Voris](/characters/voris), still unseen, scouted the dock, outbuildings, and path toward the main gate.
+After a short crossing, the barge docked at the stronghold. [Elowen](/characters/elowen) went ashore as a guest while [Varis](/characters/varis), still unseen, scouted the dock, outbuildings, and path toward the main gate.
 
 ## See Also
 

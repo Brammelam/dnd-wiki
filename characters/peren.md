@@ -42,7 +42,7 @@ As a child, Peren witnessed a group of mercenaries commit terrible violence in t
 Peren was arrested at [Morgan's Keep](/places/morgans-keep) and helped [escape](/events/escape-from-morgans-keep). He traveled to [Turn](/places/turn) and [Rinden](/places/rinden), where he and [Lilith](/characters/lilith) ran a con on the trader [Hagenfeld](/places/turn) by claiming a town had burned.
 
 ### The Crabs (Session 5)
-In [Rinden](/places/rinden), Peren and [Voris](/characters/voris) infiltrated [The Crabs](/factions/the-crabs) gang. Peren watched fight pits, saved a gang member, and earned a poison-making course. He met the leader [Salander](/characters/salander), who agreed to help investigate the party's framing.
+In [Rinden](/places/rinden), Peren and [Varis](/characters/varis) infiltrated [The Crabs](/factions/the-crabs) gang. Peren watched fight pits, saved a gang member, and earned a poison-making course. He met the leader [Salander](/characters/salander), who agreed to help investigate the party's framing.
 
 ### The Crypt of Dior (Sessions 17–18)
 Peren was first across the rope bridge over the underground river and saved [Fenris](/characters/fenris) from falling with an acrobatic rescue. He activated the cursed rust knives by taking them from a statue, triggering a fire elemental. Despite his blood aversion, he fought bravely with his daggers.
@@ -53,8 +53,11 @@ Peren disguised himself to infiltrate the temple ahead of the wedding, picking l
 ### Ambush at the Inn (Session 23)
 During the [Road Inn Ambush](/events/road-inn-ambush), [Thorn](/characters/thorn-alchemist) — the poisoner from [Session 9](/sessions/session-09) — drugged him and **stabbed him in the back** in the stable, seeking revenge for his smashed door and the serpent-island scheme. Peren fought back and pinned Thorn. He kept Thorn's **poisoning notebook**.
 
+### Crypt of Alabaster (Session 25)
+Peren guarded **[Gregory IV](/characters/gregory-alabaster)'s antechamber** while undead battered the choke, absorbing **knife thrusts punching door slots** repeatedly—ending the ordeal **barely alive** (**few HP**) before retreating beneath Fenris's **_Wind Wall_** ([Session 25](/sessions/session-25)).
+
 ## Relationships
 
-- **[Voris](/characters/voris)** — Primary partner; they frequently travel and fight as a duo
+- **[Varis](/characters/varis)** — Primary partner; they frequently travel and fight as a duo
 - **[Salander](/characters/salander)** — Criminal contact who promised to investigate their framing
 - **[Fenris](/characters/fenris)** — Trusted companion in the Dior crypt; Fenris often heals him in combat

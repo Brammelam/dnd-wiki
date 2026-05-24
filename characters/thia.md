@@ -25,10 +25,10 @@ A pivotal moment came when she met another traveling Drow who sensed **old magic
 ## Adventures
 
 ### The Escape (Session 1)
-Thia was arrested alongside [Flint](/characters/flint), [Voris](/characters/voris), and [Peren](/characters/peren) for the [Crown Prince's murder](/events/crown-prince-murder). She helped fight through the guards and escape [Morgan's Keep](/places/morgans-keep), traveling with the group toward [Rinden](/places/rinden).
+Thia was arrested alongside [Flint](/characters/flint), [Varis](/characters/varis), and [Peren](/characters/peren) for the [Crown Prince's murder](/events/crown-prince-murder). She helped fight through the guards and escape [Morgan's Keep](/places/morgans-keep), traveling with the group toward [Rinden](/places/rinden).
 
 ## Relationships
 
 - **[Flint](/characters/flint)** — Fellow escapee from the initial arrest
-- **[Voris](/characters/voris)** — Traveled with from the beginning
+- **[Varis](/characters/varis)** — Traveled with from the beginning
 - **Unknown Drow** — A mysterious traveler who sensed old magic within Thia

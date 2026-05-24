@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2025-03-22 |
-| **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Elowen](/characters/elowen) |
+| **Players** | Varis ([Varis](/characters/varis)), [Peren](/characters/peren), [Elowen](/characters/elowen) |
 | **Location** | Coast near **Havfika**, alchemist **Thorn**'s hut, snake island, Fey-touched wilds |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-03-22-S8-Snakes%26Fey.pdf)

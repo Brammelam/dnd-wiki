@@ -25,10 +25,10 @@ Flint was an acolyte at the capital Tyr temple of the [Church of the Triad](/fac
 ## Adventures
 
 ### The Escape (Session 1)
-Flint was among the first arrested for the [Crown Prince's murder](/events/crown-prince-murder). He fought alongside [Voris](/characters/voris), [Peren](/characters/peren), and [Thia](/characters/thia) to break free from [Morgan's Keep](/places/morgans-keep).
+Flint was among the first arrested for the [Crown Prince's murder](/events/crown-prince-murder). He fought alongside [Varis](/characters/varis), [Peren](/characters/peren), and [Thia](/characters/thia) to break free from [Morgan's Keep](/places/morgans-keep).
 
 ### Selling the Seed (Session 4)
-Flint traveled with [Voris](/characters/voris) and [Elowen](/characters/elowen) to [Rinden](/places/rinden), helping negotiate the sale of the Azure Oak seed.
+Flint traveled with [Varis](/characters/varis) and [Elowen](/characters/elowen) to [Rinden](/places/rinden), helping negotiate the sale of the Azure Oak seed.
 
 ### The Fey Portal (Session 10)
 In the most traumatic moment of the campaign, Flint's leg had been badly injured during their time in the Fey Realm and was slowing the party down. When they reached a portal to escape, Flint went through but reached back to grab his hammer. The **portal severed his arm at the elbow** — a devastating injury that has permanently changed him. See: [Fey Portal & Flint's Arm](/events/fey-portal).
@@ -40,5 +40,5 @@ In the most traumatic moment of the campaign, Flint's leg had been badly injured
 ## Relationships
 
 - **Tyr** — His patron god; Flint's faith in justice drives his actions
-- **[Voris](/characters/voris)** — Fellow escapee from Morgan's Keep
+- **[Varis](/characters/varis)** — Fellow escapee from Morgan's Keep
 - **The Party** — His injury was a sobering moment for everyone

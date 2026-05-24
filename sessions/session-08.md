@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2025-02-27 |
-| **Players** | Varis ([Voris](/characters/voris)), [Elowen](/characters/elowen) |
+| **Players** | Varis ([Varis](/characters/varis)), [Elowen](/characters/elowen) |
 | **Location** | [Rinden](/places/rinden), roads north, gates toward **Fort John** |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-02-27-S7-PoorFisherman.pdf)

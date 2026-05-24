@@ -3,18 +3,18 @@
 | | |
 |---|---|
 | **Date** | 2026-03-29 |
-| **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren) |
+| **Players** | Varis ([Varis](/characters/varis)), [Peren](/characters/peren) |
 | **Location** | Road from [Dior](/places/dior) to [Morgan's Keep](/places/morgans-keep), roadside inn |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-03-29-FightingThorn.pdf)
 
 ## Recap
 
-[Voris](/characters/voris) and [Peren](/characters/peren) traveled from [Dior](/places/dior) toward [Morgan's Keep](/places/morgans-keep) while [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) dealt with the [Burning of Sire](/events/burning-of-sire).
+[Varis](/characters/varis) and [Peren](/characters/peren) traveled from [Dior](/places/dior) toward [Morgan's Keep](/places/morgans-keep) while [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) dealt with the [Burning of Sire](/events/burning-of-sire).
 
 ### The Road
 
-They stayed at an inn called **[The Thirsty Dwarf](/places/the-thirsty-dwarf)** outside the city, then continued along the river through flat, dusty terrain. Voris was weighed down by weapons while Peren moved lighter. They passed farms, fisher folk, and growing crowds of travelers all heading toward Morgan's Keep.
+They stayed at an inn called **[The Thirsty Dwarf](/places/the-thirsty-dwarf)** outside the city, then continued along the river through flat, dusty terrain. Varis was weighed down by weapons while Peren moved lighter. They passed farms, fisher folk, and growing crowds of travelers all heading toward Morgan's Keep.
 
 At a roadside inn, all rooms were full — they slept in the stable. The meal was memorable: sausages, root vegetables, good bread, and a **distinctive local cheese** that became a running theme.
 
@@ -34,8 +34,8 @@ The party drew storytelling cards. [Peren](/characters/peren) told a formative m
 
 ### The Potion Shop
 
-Voris and Peren visited a **traveling herbalist** — in truth **[Thorn](/characters/thorn-alchemist)** from their [Session 9](/sessions/session-09) sea-serpent outing, operating under a merchant guise. They:
-- Discussed magical glasses — Voris always wanted a far-seeing pair
+Varis and Peren visited a **traveling herbalist** — in truth **[Thorn](/characters/thorn-alchemist)** from their [Session 9](/sessions/session-09) sea-serpent outing, operating under a merchant guise. They:
+- Discussed magical glasses — Varis always wanted a far-seeing pair
 - Examined **fey pollen** and **dried surbla** leaf
 - Thorn explained that pollen potions have unpredictable effects: healing, but with possible side effects like skin discoloration or strange smells
 - Peren **impulsively threw a reagent into the fire**, creating a blinding flash that temporarily blinded him and ruined the surbla potion
@@ -46,7 +46,7 @@ Voris and Peren visited a **traveling herbalist** — in truth **[Thorn](/charac
 
 Thorn **poisoned their drinks** with a sleep compound, then struck in the stable. His grudge went back to the serpent quest: he had **slicked the oars** so the party would faint on the island and **Peren** would fight the snake **alone**; [Elowen](/characters/elowen) had **destroyed his front door** in a rage over that trick ([Thorn's Serpent and Fey Visions](/events/thorn-serpent-and-visions)).
 
-There was **only one attacker** — Thorn. Peren woke groggy and took a **knife in the back**; he wrestled free and pinned Thorn with a knife to the throat while [Voris](/characters/voris) joined the fight. Thorn was **badly hurt** in the brawl. Voris gave him a **healing potion** to **stabilize** him. Peren took Thorn's **poisoning notebook** and some daggers.
+There was **only one attacker** — Thorn. Peren woke groggy and took a **knife in the back**; he wrestled free and pinned Thorn with a knife to the throat while [Varis](/characters/varis) joined the fight. Thorn was **badly hurt** in the brawl. Varis gave him a **healing potion** to **stabilize** him. Peren took Thorn's **poisoning notebook** and some daggers.
 
 ### Departure
 
@@ -59,7 +59,7 @@ The session ended with the party traveling the final stretch toward the capital.
 - [Road Inn Ambush](/events/road-inn-ambush)
 - Journey toward [Morgan's Keep](/places/morgans-keep)
 - Meeting [Lynn Salt](/characters/lynn-salt) and [Thor](/characters/thor-veteran)
-- [Thorn](/characters/thorn-alchemist)'s revenge ambush (stable; Voris stabilizes him after)
+- [Thorn](/characters/thorn-alchemist)'s revenge ambush (stable; Varis stabilizes him after)
 - Peren's potion-making talent discovered
 - Fairy healing potion commissioned
 

@@ -8,7 +8,7 @@ The party of fugitives framed for the [Crown Prince's murder](/events/crown-prin
 
 | Character | Player | Race | Class |
 |-----------|--------|------|-------|
-| [Voris](/characters/voris) | Bram | Half-Elf | Fighter (Samurai) |
+| [Varis](/characters/varis) | Bram | Half-Elf | Fighter (Samurai) |
 | [Peren](/characters/peren) | Ryan | Wood Elf | Rogue |
 | [Elowen](/characters/elowen) | Vanja | Wood Elf | Warlock |
 | [Fenris Shadowveil](/characters/fenris) | Simon | Wood Elf | Druid |
@@ -64,4 +64,4 @@ The party of fugitives framed for the [Crown Prince's murder](/events/crown-prin
 - **[Griselda](/characters/griselda-mud-street)** — Rinden fixer on Mud Street
 - **[Lady Alabaster](/characters/lady-alabaster)** — Noble who hired Konstantin over her son Tom
 - **[Magda](/characters/magda)** — Half-orc intelligence lead for General Kamp; Thor’s superior
-- **[Gregory Alabastor](/characters/gregory-alabastor)** — Deceased; crypt target for the exoneration plot
+- **[Gregory Alabaster](/characters/gregory-alabaster)** — Fourth of his name; Alabaster house corpse in crypt plot

@@ -3,14 +3,14 @@
 | | |
 |---|---|
 | **Date** | 2024-12-01 |
-| **Players** | [Peren](/characters/peren), [Voris](/characters/voris) |
+| **Players** | [Peren](/characters/peren), [Varis](/characters/varis) |
 | **Location** | [Rinden](/places/rinden) |
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-12-01-Session5.md)
 
 ## Recap
 
-With only [Peren](/characters/peren) and [Voris](/characters/voris) present, this session focused on investigating **who framed them** for the [Crown Prince's murder](/events/crown-prince-murder).
+With only [Peren](/characters/peren) and [Varis](/characters/varis) present, this session focused on investigating **who framed them** for the [Crown Prince's murder](/events/crown-prince-murder).
 
 They first visited the **[Toll Guild](/factions/toll-guild) HQ**, where a bureaucratic clerk provided no useful information.
 

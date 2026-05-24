@@ -26,7 +26,7 @@ After the [crypt](/places/the-crypt) run, when Toltec paid **200 gold** for the 
 
 ### Road to Morgan's Keep (Session 23)
 
-[Voris](/characters/voris) and [Peren](/characters/peren) met Lynn again at a roadside inn, bound for the capital with a backpack and a book. She described transporting magical ingredients for the Academy. She was present when the inn was attacked at night; the party then traveled with her wagon.
+[Varis](/characters/varis) and [Peren](/characters/peren) met Lynn again at a roadside inn, bound for the capital with a backpack and a book. She described transporting magical ingredients for the Academy. She was present when the inn was attacked at night; the party then traveled with her wagon.
 
 She shared local **cheese-making** lore on the journey.
 
@@ -34,7 +34,7 @@ She shared local **cheese-making** lore on the journey.
 
 - **[The Academy](/factions/the-academy)** — Employer
 - **[Toltec](/characters/toltec)** — Senior academic she screens and assists
-- **[Voris](/characters/voris)**, **[Peren](/characters/peren)**, **[Fenris](/characters/fenris)** — Contacts through Dior and the road
+- **[Varis](/characters/varis)**, **[Peren](/characters/peren)**, **[Fenris](/characters/fenris)** — Contacts through Dior and the road
 
 ## See Also
 

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2025-08-31 |
-| **Players** | Varis ([Voris](/characters/voris)), [Fenris](/characters/fenris) |
+| **Players** | Varis ([Varis](/characters/varis)), [Fenris](/characters/fenris) |
 | **Location** | Wilds after Fort John, **Calen**, road to [Dior](/places/dior) |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-08-31-DiorArrival.pdf)

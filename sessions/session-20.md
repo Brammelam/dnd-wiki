@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Date** | 2026-02-01 |
-| **Players** | Varis ([Voris](/characters/voris)), [Peren](/characters/peren), [Fenris](/characters/fenris) |
+| **Players** | Varis ([Varis](/characters/varis)), [Peren](/characters/peren), [Fenris](/characters/fenris) |
 | **Location** | [Dior](/places/dior), [Tyr Moir](/places/tyr-moir) graveyard |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-02-01-DiorInviteHelga.pdf)
@@ -22,7 +22,7 @@ They decided to **lure Helga** to a private meeting at the [Tyr Moir](/places/ty
 
 ### Distracting the Guards
 
-At the temple, [Peren](/characters/peren) pulled off a creative distraction: playing a flute to create **illusory rats** that swarmed toward the guard dog at the entrance. The dog panicked, people fell, glass shattered, and chaos erupted. [Voris](/characters/voris) slipped closer to the temple door during the confusion.
+At the temple, [Peren](/characters/peren) pulled off a creative distraction: playing a flute to create **illusory rats** that swarmed toward the guard dog at the entrance. The dog panicked, people fell, glass shattered, and chaos erupted. [Varis](/characters/varis) slipped closer to the temple door during the confusion.
 
 ### Planting the Tracker
 
@@ -30,14 +30,14 @@ At the temple, [Peren](/characters/peren) pulled off a creative distraction: pla
 
 ### The Message
 
-Using a magical ring, [Voris](/characters/voris) delivered a telepathic threat directly into Helga's mind: ***"Meet at Tyr Moir, at dusk or wedding destroyed. Come alone."***
+Using a magical ring, [Varis](/characters/varis) delivered a telepathic threat directly into Helga's mind: ***"Meet at Tyr Moir, at dusk or wedding destroyed. Come alone."***
 
 Helga's reaction was immediate — she retreated to the temple steps with extra guards, taking the threat seriously.
 
 ### Waiting at Tyr Moir
 
 The party positioned themselves at the graveyard:
-- **[Voris](/characters/voris)** — Hidden in a bush on the hillside with bow ready
+- **[Varis](/characters/varis)** — Hidden in a bush on the hillside with bow ready
 - **[Peren](/characters/peren)** — Running across rooftops, tracking Helga with the compass
 - **[Fenris](/characters/fenris)** — Posted near the temple entrance, patient and watchful
 
@@ -49,7 +49,7 @@ Hours passed. Then Helga appeared — flanked by polished, careful soldiers, mor
 
 [Helga](/characters/helga) walked into the graveyard alone, set her lantern on the central statue, and crossed her arms: *"I'm here."*
 
-[Voris](/characters/voris) shot the lantern — darkness fell. [Peren](/characters/peren) flickered in and out of shadow like a phantom. [Voris](/characters/voris) rappelled from a rooftop in a dramatic cape-flowing entrance. [Fenris](/characters/fenris) stepped forward at the gate, calmly smoking a pipe.
+[Varis](/characters/varis) shot the lantern — darkness fell. [Peren](/characters/peren) flickered in and out of shadow like a phantom. [Varis](/characters/varis) rappelled from a rooftop in a dramatic cape-flowing entrance. [Fenris](/characters/fenris) stepped forward at the gate, calmly smoking a pipe.
 
 Three figures surrounded Helga among the gravestones.
 

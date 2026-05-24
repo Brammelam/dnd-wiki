@@ -14,7 +14,7 @@
 
 </WikiInfobox>
 
-**Knut Pilsen** is a resident of [Sire](/places/sire) who was rescued during the [Burning of Sire](/events/burning-of-sire). [Voris](/characters/voris) and [Fenris](/characters/fenris) later escorted him and [Anne](/characters/anne-knutsen) toward the capital ([Return to Morgan's Keep](/events/return-to-morgans-keep)).
+**Knut Pilsen** is a resident of [Sire](/places/sire) who was rescued during the [Burning of Sire](/events/burning-of-sire). [Varis](/characters/varis) and [Fenris](/characters/fenris) later escorted him and [Anne](/characters/anne-knutsen) toward the capital ([Return to Morgan's Keep](/events/return-to-morgans-keep)).
 
 ## Role in the Story
 
@@ -24,10 +24,12 @@ During the devastating fire that consumed [Sire](/places/sire), Knut's daughter 
 
 Once revived, Knut called out for **Betty** — his horse, which had fled across the river. Anne had climbed onto the party's horse during the rescue.
 
+Ahead of selling farm cheese into [Morgan's Keep](/places/morgans-keep), the reunited party entrusted Knut's wagon freight with merchant coin **and a hidden tracking compass** so they could discreetly surveil shipments ([Session 25](/sessions/session-25)).
+
 ## Relationships
 
 - **[Anne Knutsen](/characters/anne-knutsen)** — His daughter
 - **[Fenris](/characters/fenris)** — Rescued and healed him; escorted the family toward Morgan's Keep
 - **[Gal'Rok](/characters/galrok)** — Smothered the flames to save him
-- **[Voris](/characters/voris)** — Helped fund their journey (e.g. horse sale)
+- **[Varis](/characters/varis)** — Helped fund their journey (e.g. horse sale)
 - **Betty** — His horse, who escaped across the river

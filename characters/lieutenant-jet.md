@@ -15,7 +15,7 @@
 
 **Lieutenant Jet** filed the **false report** that helped frame the party for the [Crown Prince murder](/events/crown-prince-murder). [Helga](/characters/helga) explained he was manipulated through his wife's **gambling debts** and pressure from the [Humanus Association](/factions/humanus-association); his wife was imprisoned in **the Hole**.
 
-[Voris](/characters/voris) pursued leads on Jet's wife during the [Return to Morgan's Keep](/events/return-to-morgans-keep) arc.
+[Varis](/characters/varis) pursued leads on Jet's wife during the [Return to Morgan's Keep](/events/return-to-morgans-keep) arc.
 
 ## See Also
 
