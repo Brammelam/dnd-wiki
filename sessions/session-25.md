@@ -34,14 +34,9 @@ Running battle widened chambers until bouquets marked **Gregory the Fourth's** t
 
 [**Gregory Alabaster the Fourth**](/characters/gregory-alabaster) lay among fresh blossoms, **thoracic cobalt glow matching hostile undead eye-shine**.
 
-The **spymaster's questioning ring** allowed Varis to ask multiple questions, while [Peren](/characters/peren) held the door of the small crypt to keep the clawing, slobbering and reaching undead out. Varis first asks if Gregory can stop the undeads, to which Gregory says "no". 
-Then Varis asks "Where do you have your Humans meetups?". "It varies" the dead man answers.
-As Peren desperatley tries to keep the Undead out, Varis tries to make his questions better: "What do you mean about it varies?" he asks and the answer is that they use a new place each time to keep it secret.
-Then he asks "Where was the meeting the last time?". "Torfinn Jet". 
-"Are the meetings always at a Jet?" No.
-"Where did you plan the next meeting?" At Countess Alabaster, in the Wine cellar.
-Peren screams "When?" and Gregory sighs "In two hours". 
-Then as the last question before the body goes back to its rest, Peren asks in a panic "How do we get out?" to which the dead man rattles "Run.".   
+The **spymaster's questioning ring** let [Varis](/characters/varis) steer a burst of ordered questions while [Peren](/characters/peren) **braced the cramped crypt door** against **lunging undead**. Varis learned Gregory **could still not quell them**. Asked where the **[Humanus Association](/factions/humanus-association)** convened—*"Where do you hold your Humanus meetups?"*—Gregory replied ***"It varies."*** Pressed further, he explained the circle **chose a new covert site each time**. The prior meeting, he claimed, assembled at **Torfinn Jet** ([Lieutenant Jet](/characters/lieutenant-jet)); conclaves **did not invariably** occupy Jet holdings.
+
+Further pressing uncovered the **next** plan: **Countess [Lady Alabaster](/characters/lady-alabaster)**'s **wine cellar**. [Peren](/characters/peren) screamed ***"When?"***—Gregory sighed ***"In two hours."*** With communion fraying, Peren rattled ***"How do we get out?"*** The corpse's last rasp was ***"Run."***
 
 Chaos breached nave floors overhead as Fenris sowed distraction above.
 
@@ -61,6 +56,7 @@ Varis and Peren scraped through the gale corridor while riots swelled back towar
 - Mutual **critical-fail Perception** memory beat (**DM withheld extra lore** afterward).
 - [Knut](/characters/knut-pilsen)'s routed cheese gambit (**covert compass**).
 - Wrong wake **Gregory I** sarcophagus; **Fourth Gregory** confrontation chamber.
+- Questioning-ring exchange: **[Humanus Association](/factions/humanus-association)** rotates meetups; last at **[Lieutenant Jet](/characters/lieutenant-jet)** ("Torfinn Jet"); **next** at **[Lady Alabaster](/characters/lady-alabaster)**'s **wine cellar** (~**two hours**); farewell ***Run.***
 - [Varis](/characters/varis) smashed **death-orbed tether** ineffective vs curse (**undead hostility unchanged**).
 - [Varis](/characters/varis) spends **[Amulet of the Living](/characters/varis)** (**1 charge used / 2 remain**) behaving like **_Turn Undead_**.
 - **Blade of the Ethereal** (**[Fenris](/characters/fenris)**' weapon from [Lake Hydra](/events/lake-hydra-hunt)): monk bump → shared **Blink**-like shift (**no HP**); ejection from nave; lawful re-entry / breadcrumbs / **_Wind Wall_** bailout.
