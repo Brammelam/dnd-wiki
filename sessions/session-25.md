@@ -34,7 +34,14 @@ Running battle widened chambers until bouquets marked **Gregory the Fourth's** t
 
 [**Gregory Alabaster the Fourth**](/characters/gregory-alabaster) lay among fresh blossoms, **thoracic cobalt glow matching hostile undead eye-shine**.
 
-The **spymaster's questioning ring** teased confession but resisted clean command. [Peren](/characters/peren) looted petty coin **then body-blocked collapsing portal**, weathering repeated **knife stabs punching through slit gaps**, ending the hold **barely conscious** (**few HP**).
+The **spymaster's questioning ring** allowed Varis to ask multiple questions, while [Peren](/characters/peren) held the door of the small crypt to keep the clawing, slobbering and reaching undead out. Varis first asks if Gregory can stop the undeads, to which Gregory says "no". 
+Then Varis asks "Where do you have your Humans meetups?". "It varies" the dead man answers.
+As Peren desperatley tries to keep the Undead out, Varis tries to make his questions better: "What do you mean about it varies?" he asks and the answer is that they use a new place each time to keep it secret.
+Then he asks "Where was the meeting the last time?". "Torfinn Jet". 
+"Are the meetings always at a Jet?" No.
+"Where did you plan the next meeting?" At Countess Alabaster, in the Wine cellar.
+Peren screams "When?" and Gregory sighs "Tonight when the moon is at its apex". 
+Then as the last question before the body goes back to its rest, Peren asks in a panic "How do we get out?" to which the dead man rattles "Run.".   
 
 Chaos breached nave floors overhead as Fenris sowed distraction above.
 
