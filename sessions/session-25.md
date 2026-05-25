@@ -40,7 +40,7 @@ As Peren desperatley tries to keep the Undead out, Varis tries to make his quest
 Then he asks "Where was the meeting the last time?". "Torfinn Jet". 
 "Are the meetings always at a Jet?" No.
 "Where did you plan the next meeting?" At Countess Alabaster, in the Wine cellar.
-Peren screams "When?" and Gregory sighs "Tonight when the moon is at its apex". 
+Peren screams "When?" and Gregory sighs "In two hours". 
 Then as the last question before the body goes back to its rest, Peren asks in a panic "How do we get out?" to which the dead man rattles "Run.".   
 
 Chaos breached nave floors overhead as Fenris sowed distraction above.
