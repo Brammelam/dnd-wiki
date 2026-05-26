@@ -57,7 +57,7 @@ During the [Road Inn Ambush](/events/road-inn-ambush), [Thorn](/characters/thorn
 Peren guarded **[Gregory IV](/characters/gregory-alabaster)'s antechamber** while undead battered the choke, absorbing **knife thrusts punching door slots** repeatedly—ending the ordeal **barely alive** (**few HP**) before retreating beneath Fenris's **_Wind Wall_** ([Session 25](/sessions/session-25)).
 
 ### Cathedral riot (Session 26)
-**Peren** collapsed under [Varis](/characters/varis)' shoulder until stabilized, screamed timelines at Gregory's fleeting answers, pleaded ***"Run"*** intel, endured nave bedlam beside **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)**—still trading blows when **rioters** yelled regicide—and limped toward **[Common District](/places/common-district)** cover ([Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)).
+still **barely lucid**, **Peren** rode **[Varis](/characters/varis)' shoulders** under **swinging Amulet-of-the-Living wards** on the crypt stair scramble; after **another draught**, he screamed **timeline fragments** at fading **Gregory** rumours, pleaded ***"Run"*** intel beside **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)** amid nave **regicide shouts**, and limped toward **[Common District](/places/common-district)** cover ([Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)).
 
 ## Relationships
 
