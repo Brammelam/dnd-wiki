@@ -40,6 +40,9 @@ Gal'Rok and [Fenris](/characters/fenris) rode to investigate fires near [Sire](/
 ### Session 25 — Riverside camp
 At the riverside approach to [Morgan's Keep](/places/morgans-keep), companions noted **burn scarring across her right foot**. The player **left before the party entered the cathedral**—[Gal'Rok](/characters/galrok) does **not** appear in the nave, undercrofts, or [Crypt of Alabaster](/places/crypt-of-alabaster) beats from that session ([Session 25](/sessions/session-25)).
 
+### Session 26 — Cathedral riot
+**Retcon / table merge:** Gal'Rok **fought** in the **capital nave undead surge** despite the earlier camp note—she **redirected guards**, **clanged helmets**, and **wrestled watchmen** while **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)** barked orders ([Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)).
+
 ## Notable Moments
 
 - Gave 2 gp to poor half-orcs in Turn

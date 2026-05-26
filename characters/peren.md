@@ -56,6 +56,9 @@ During the [Road Inn Ambush](/events/road-inn-ambush), [Thorn](/characters/thorn
 ### Crypt of Alabaster (Session 25)
 Peren guarded **[Gregory IV](/characters/gregory-alabaster)'s antechamber** while undead battered the choke, absorbing **knife thrusts punching door slots** repeatedly—ending the ordeal **barely alive** (**few HP**) before retreating beneath Fenris's **_Wind Wall_** ([Session 25](/sessions/session-25)).
 
+### Cathedral riot (Session 26)
+**Peren** collapsed under [Varis](/characters/varis)' shoulder until stabilized, screamed timelines at Gregory's fleeting answers, pleaded ***"Run"*** intel, endured nave bedlam beside **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)**—still trading blows when **rioters** yelled regicide—and limped toward **[Common District](/places/common-district)** cover ([Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)).
+
 ## Relationships
 
 - **[Varis](/characters/varis)** — Primary partner; they frequently travel and fight as a duo

@@ -58,8 +58,9 @@ With [Fenris](/characters/fenris), Varis escorted [Knut Pilsen](/characters/knut
 ### Crypt of Morgan (Session 25)
 Within the capital cathedral's undercrypts Varis stirred the wrong **Gregory Alabaster** tomb before pinning down **the Fourth**. He grappled **sapphire orb** tethering hostility—experimented verbally and physically—and **splintered it without ending the siege**. Spending **Amulet of the Living** charge expelled undead bottleneck while allies escaped gale corridor tactics ([Session 25](/sessions/session-25)).
 
-## Relationships
+### Cathedral riot & Humanus stakeout (Session 26)
+After the **orb break**, Varis **dragged** half-dead [Peren](/characters/peren) upstairs, **arrow-snuffed** glowing eyes, and surfed **mob panic** when worshippers **cried regicide**. He seeded alley strategy—**disguise philtre**, **[Humanus Association](/factions/humanus-association)** timing, eventual **[Lady Alabaster](/characters/lady-alabaster)** coach ride with **[Thor](/characters/thor-veteran)**—before press-ganging an **elite messenger** unconscious for intelligence ([Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)).
 
-- **[Peren](/characters/peren)** — Close traveling companion; they often operate as a pair
+## Relationships
 - **[Fenris](/characters/fenris)** — Fellow crypt explorer; Fenris often provides magical support for Varis's attacks
 - **[Helga](/characters/helga)** — Antagonistic; she arrested him and he confronted her at the graveyard

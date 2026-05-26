@@ -46,6 +46,7 @@ The party has pursued several leads:
 
 ## Related Events
 
+- [Capital Cathedral undead riot](/events/capital-cathedral-undead-riot) — risen remains of the prince appeared at the cathedral; see [Session 26](/sessions/session-26)
 - [Escape from Morgan's Keep](/events/escape-from-morgans-keep)
 - [Dior Wedding & Helga Confrontation](/events/dior-wedding)
 - [The Crabs Job](/events/the-crabs-job)
