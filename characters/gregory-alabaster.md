@@ -16,7 +16,7 @@
 
 **Bright corpse-glow pulsed cobalt**, matching hostile undead eye-shine—an embedded focus [Varis](/characters/varis) grappled verbally and physically, then **shattered on stone** scattering splinters **without breaking the overarching curse**.
 
-*(Older notes spelled "**Alabastor**"; great-house shields read **Alabaster**.)*
+Shattering the focus uncorked wider horrors the next time the nave convulsed—see [Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot) ([Session 26](/sessions/session-26)).
 
 ### Lineage distinctions
 

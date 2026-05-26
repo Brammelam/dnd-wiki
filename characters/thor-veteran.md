@@ -17,6 +17,8 @@
 
 In the capital outskirts ([Session 24](/sessions/session-24)), [Varis](/characters/varis) found him changed — **battle-worn**, with a **staff** and **bad leg**. Thor's vouch mattered to a **spymaster** offering help. He returned with his superior **[Magda](/characters/magda)** — intelligence for [General Kamp](/factions/third-army), not an artificer.
 
+During **[Session 26](/sessions/session-26)** he **opened a discreet coach**, sealed the fugitives inside, and wheeled them toward **[Lady Alabaster](/characters/lady-alabaster)**'s grounds while city panic still thrashed behind.
+
 ## See Also
 
 - [Return to Morgan's Keep](/events/return-to-morgans-keep)

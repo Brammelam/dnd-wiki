@@ -21,6 +21,7 @@ The locations our party has traveled through across the [Kingdom of Morgan](/pla
 
 - [Saltside](/places/saltside) — Wealthy district of [Rinden](/places/rinden)
 - [Frontier](/places/frontier-outskirts) — Outskirts of [Morgan's Keep](/places/morgans-keep)
+- [Common District](/places/common-district) — Dense working quarter of [Morgan's Keep](/places/morgans-keep)
 
 ## Taverns & Shops
 

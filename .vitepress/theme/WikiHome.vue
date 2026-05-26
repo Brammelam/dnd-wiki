@@ -8,13 +8,13 @@ const categories = [
     title: 'Characters',
     href: '/characters/',
     description: 'Player characters and the NPCs encountered across the campaign.',
-    count: 40,
+    count: 42,
   },
   {
     title: 'Places',
     href: '/places/',
     description: 'Cities, taverns, dungeons, and wilderness across the realm.',
-    count: 27,
+    count: 28,
   },
   {
     title: 'Factions',
@@ -26,20 +26,20 @@ const categories = [
     title: 'Events',
     href: '/events/',
     description: 'Major plot points from conspiracy to war.',
-    count: 19,
+    count: 20,
   },
   {
     title: 'Sessions',
     href: '/sessions/',
     description: 'Full recaps of every session played.',
-    count: 25,
+    count: 26,
   },
 ]
 
 const recentSessions = [
+  { title: 'Session 26 — Escaping the Cathedral', href: '/sessions/session-26' },
   { title: 'Session 25 — Crypt of Morgan (Alabaster)', href: '/sessions/session-25' },
   { title: 'Session 24 — Return to Morgan’s Keep', href: '/sessions/session-24' },
-  { title: 'Session 23 — Salt, Thorn & Cheese', href: '/sessions/session-23' },
 ]
 </script>
 

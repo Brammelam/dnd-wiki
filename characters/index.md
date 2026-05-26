@@ -65,3 +65,5 @@ The party of fugitives framed for the [Crown Prince's murder](/events/crown-prin
 - **[Lady Alabaster](/characters/lady-alabaster)** — Noble who hired Konstantin over her son Tom
 - **[Magda](/characters/magda)** — Half-orc intelligence lead for General Kamp; Thor’s superior
 - **[Gregory Alabaster](/characters/gregory-alabaster)** — Fourth of his name; Alabaster house corpse in crypt plot
+- **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)** — Zealous spear-bearer during the [capital cathedral riot](/events/capital-cathedral-undead-riot)
+- **[Maurus](/characters/maurus)** — Offstage contact slated for post-riot debrief (role TBD at table)

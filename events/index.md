@@ -117,4 +117,10 @@ The town of [Sire](/places/sire) burns in a devastating fire; [Fenris](/characte
 [Varis](/characters/varis), [Peren](/characters/peren), and [Fenris](/characters/fenris) infiltrate cathedral crypts under [Morgan's Keep](/places/morgans-keep) after **[Gal'Rok](/characters/galrok)** leaves at camp—**Gregory I** mis-step, confrontation with **[Gregory IV](/characters/gregory-alabaster)**—**binder orb smashed ineffectively**, **[Amulet of the Living](/characters/varis)** used like **_Turn Undead_** (**charges left: 2**); **Blade of the Ethereal** ([Fenris](/characters/fenris)' Lake Hydra prize) drives nave chaos and **_Wind Wall_** egress. *Session 25*
 
 </div>
+<div class="wiki-timeline-entry">
+
+### [Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)
+Cathedral nave becomes a **maelstrom**: undead flood including **the Crown Prince** ([Crown Prince murder](/events/crown-prince-murder)), **mistaken regicide** rumours, **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)**'s counterfeit command, retreat into the [Common District](/places/common-district), and a **[Thor](/characters/thor-veteran)** coach toward **[Lady Alabaster](/characters/lady-alabaster)** amid **Humanus** infiltration plotting. *Session 26*
+
+</div>
 </div>

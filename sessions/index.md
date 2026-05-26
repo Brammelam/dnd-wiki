@@ -1,6 +1,6 @@
 # Session Log
 
-Complete recaps of every session in **GitLab History order** (commit sequence). Session numbers match wiki URLs (`session-01` … `session-25`).
+Complete recaps of every session in **GitLab History order** (commit sequence). Session numbers match wiki URLs (`session-01` … `session-26`).
 
 | # | Date | Title | Players |
 |---|------|-------|---------|
@@ -29,3 +29,4 @@ Complete recaps of every session in **GitLab History order** (commit sequence). 
 | 23 | 2026-03-29 | [Salt, Thorn & Cheese](/sessions/session-23) | Varis, Peren |
 | 24 | 2026-04-12 | [Return to Morgan's Keep](/sessions/session-24) | Varis, Fenris |
 | 25 | 2026-05-10 | [Crypt of Morgan (Alabaster)](/sessions/session-25) | Varis, Peren, Fenris, Gal'Rok |
+| 26 | 2026-05-25 | [Escaping the Cathedral](/sessions/session-26) | Varis, Peren, Fenris, Gal'Rok, [Jamaris](/characters/jamaris-jamarisen-llamar) |

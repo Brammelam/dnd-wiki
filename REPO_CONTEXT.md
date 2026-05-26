@@ -60,7 +60,7 @@ The wiki uses a **"Dark Codex" aesthetic** — warm gold/amber accent on dark ba
 
 ## Adding a New Session (Step-by-Step Agent Playbook)
 
-When the user provides a new session summary (PDF, text, or markdown), follow these steps in order. The wiki currently has **25** numbered recaps (`session-01` … `session-25`); the next file is **`session-26.md`**.
+When the user provides a new session summary (PDF, text, or markdown), follow these steps in order. The wiki currently has **26** numbered recaps (`session-01` … `session-26`); the next file is **`session-27.md`**.
 
 ### 1. Create the session file
 
