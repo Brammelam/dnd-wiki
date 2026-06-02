@@ -101,6 +101,18 @@ Rules:
 - Use the existing slug conventions: lowercase, hyphens, no special characters (e.g., `galrok` not `gal-rok`, `morgans-keep` not `morgan's-keep`).
 - Match the narrative tone of prior sessions — third person, past tense, detailed but not overwrought.
 
+### Narrative voice (sessions & event summaries)
+
+Write recaps like a **short story of record**, not cinematic trailer copy. Use [Session 24](/sessions/session-24) and [Session 23](/sessions/session-23) as tone references.
+
+- **Structure:** Use `###` scene headings (e.g. *Crypt stairs*, *Nave*) for major beats; avoid bold inline chapter labels inside paragraphs.
+- **Order:** Chronological — who did what, where, in what order. Lead with actors and actions.
+- **Prose:** Short-to-medium sentences. One vivid detail per beat is enough; do not stack metaphors or superlatives.
+- **Bold:** Reserve for table metadata and italics for spells; do not bold every verb or proper noun in the recap body.
+- **Dialogue:** Quote load-bearing lines (*"Run."*, *"Stop!"*) instead of describing tone abstractly.
+- **Mechanics:** Name spells, items, and charges plainly once; put full stat blocks on character pages, not in recap flourishes.
+- **Key Events:** Bullet summary only — the recap should not repeat every bullet in denser prose.
+
 ### 2. Create pages for NEW entities
 
 If the session introduces new characters, places, factions, or events that don't have wiki pages yet:

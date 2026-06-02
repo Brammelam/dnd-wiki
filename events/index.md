@@ -114,13 +114,13 @@ The town of [Sire](/places/sire) burns in a devastating fire; [Fenris](/characte
 <div class="wiki-timeline-entry">
 
 ### [Alabaster Crypt Infiltration](/events/alabaster-crypt-infiltration)
-[Varis](/characters/varis), [Peren](/characters/peren), and [Fenris](/characters/fenris) infiltrate cathedral crypts under [Morgan's Keep](/places/morgans-keep) after **[Gal'Rok](/characters/galrok)** leaves at camp—**Gregory I** mis-step, confrontation with **[Gregory IV](/characters/gregory-alabaster)**—**binder orb smashed ineffectively**, **[Amulet of the Living](/characters/varis)** used like **_Turn Undead_** (**charges left: 2**); **Blade of the Ethereal** ([Fenris](/characters/fenris)' Lake Hydra prize) drives nave chaos and **_Wind Wall_** egress. *Session 25*
+[Varis](/characters/varis), [Peren](/characters/peren), and [Fenris](/characters/fenris) infiltrate the cathedral crypt under [Morgan's Keep](/places/morgans-keep) after [Gal'Rok](/characters/galrok) turns back at camp. A wrong sarcophagus wakes Gregory Alabaster the First; in the true tomb they question [Gregory Alabaster the Fourth](/characters/gregory-alabaster), learn the next [Humanus Association](/factions/humanus-association) meet is at [Lady Alabaster](/characters/lady-alabaster)'s wine cellar in two hours, smash the cobalt binding orb without calming the dead, and escape with the [Amulet of the Living](/characters/varis) (two charges left) and Fenris's *Wind Wall*. *Session 25*
 
 </div>
 <div class="wiki-timeline-entry">
 
 ### [Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)
-Cathedral nave becomes a **maelstrom**: undead flood including **the Crown Prince** ([Crown Prince murder](/events/crown-prince-murder)), **mistaken regicide** rumours, **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)**'s counterfeit command, retreat into the [Common District](/places/common-district), and a **[Thor](/characters/thor-veteran)** coach toward **[Lady Alabaster](/characters/lady-alabaster)** amid **Humanus** infiltration plotting. *Session 26*
+Undead surge through the cathedral after the orb breaks, including a risen corpse mistaken for the [Crown Prince](/events/crown-prince-murder). [Varis](/characters/varis), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok), and [Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar) fight through crypt stairs and the nave, slip into the [Common District](/places/common-district), and board [Thor](/characters/thor-veteran)'s coach toward [Lady Alabaster](/characters/lady-alabaster) while planning a disguise for the Humanus cellar meet. *Session 26*
 
 </div>
 </div>

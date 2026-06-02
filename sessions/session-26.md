@@ -4,47 +4,67 @@
 |---|---|
 | **Date** | 2026-05-25 |
 | **Players** | Varis ([Varis](/characters/varis)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok), [Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar) |
-| **Location** | [Morgan's Keep](/places/morgans-keep) cathedral & [Crypt of Alabaster](/places/crypt-of-alabaster) egress; **[Common District](/places/common-district)** alleys |
+| **Location** | [Morgan's Keep](/places/morgans-keep) cathedral & [Crypt of Alabaster](/places/crypt-of-alabaster) egress; [Common District](/places/common-district) alleys |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-05-25-EscapingTheCatedral.pdf)
 
-**Continuity:** The live table included **[Gal'Rok](/characters/galrok)** through the nave crisis—the earlier **camp-only** note in [Session 25](/sessions/session-25) is **ambiguous** versus this session; reconcile at table if needed.
+**Continuity:** The live table included [Gal'Rok](/characters/galrok) through the nave crisis—the earlier camp-only note in [Session 25](/sessions/session-25) is ambiguous versus this session; reconcile at table if needed.
 
 ## Recap
 
-Still reeling from the **shattered cobalt orb** wrenched from **[Gregory Alabaster the Fourth](/characters/gregory-alabaster)** ([Session 25](/sessions/session-25)), the party realised horror stacked on horror: the **[murdered Crown Prince](/events/crown-prince-murder)**—**whose death framed them**—**rose again** with other walking corpses, yet **no-one grasped** what the cobalt sphere had been nor **who shackled it**.
+The party left [Session 25](/sessions/session-25) with [Gregory Alabaster the Fourth](/characters/gregory-alabaster)'s cobalt orb in shards. Undead still poured from the crypt—including a risen corpse among them that might have been the [murdered Crown Prince](/events/crown-prince-murder), the same death that had framed the party. No one at the table knew what the orb had done or who had bound Gregory with it.
 
-[Fenris](/characters/fenris) rammed **upper crypt doors**, met a **clog of undead**, and slammed **_Wind Wall_** upward—every **wax taper** blew out, plunging corridors into **pitch** while gale pressure **boomed doors shut**. **[Varis](/characters/varis) carried [Peren](/characters/peren)**—**bleeding, half-conscious**—and **whirled the [Amulet of the Living](/characters/varis#notable-equipment)** overhead in arcs that **held shamblers at bay** (pressure akin to *Turn Undead*) while powder-blue corpse eyes stared from deeper corridors.
+### Crypt stairs
 
-**Before the crypt egress sealed**, Varis planted an **arrow in one shambler**—**that corpse's glare guttered**, **one eye quitting its glow**. They **wrestled the crypt door shut** and pushed **up the stairs**; corpses battered the panel from beneath until **one blow clipped Fenris** and **gangrenous sores** burst on another shambling torso, **drenching him in reeking bile**. Only then Fenris swung **Blade of the Ethereal**, blink-shunting **himself** and **one attacker** onto the ash-grey planar echo—and there **blocked a first clumsy lash** before **the next strike drove him prone** while the corpse **trampled** until the blade tugged **both back** onto the stairwell grit. Varis poured **another healing draught**, coaxing **shaky footing** from [Peren](/characters/peren).
+[Fenris](/characters/fenris) forced the upper crypt doors open and found the passage packed with shamblers. He cast *Wind Wall* upward. Every wax taper blew out; the corridor went dark, and the gust slammed the doors shut behind them.
 
-**Nave inferno.** Parishioners marshalled toward the noise until a **towering, syrup-sweet horror** tore the stair-door off and **hurled Fenris bench-high**, still splattered **from crypt filth**. [Gal'Rok](/characters/galrok)—**politely** sidling clear—**redirected** steel toward the **undead flood** with **calm authority**. Varis **shoulder-carried Peren** toward **rear sacristy egress**, coaxing **a frightened monk** to accept the rogue while **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)** crashed down the staircase, butt-spiked spear driving the **ooze-giant staggering** onto shamblers stacked behind—a heartbeat's purchase.
+[Varis](/characters/varis) carried [Peren](/characters/peren), who was bleeding and half-conscious, and swept the [Amulet of the Living](/characters/varis#notable-equipment) in wide arcs. The dead hung back as if turned by a cleric's prayer. Farther down the passage, pale blue eyes watched from the crowd.
 
-Higher in the chaos, Fenris summoned **tempest wrath**: bolts **ripped** undead formations, exploded **gangrenous armour**, gifted the party **precious beats** while Varis **pinpointed blazing eyes**. Then the worst rumour ripped the nave: as **Varis felled another risen knight**, spectators **mistook the body** for **the Crown Prince** ([Crown Prince murder](/events/crown-prince-murder)). Panic erupted; [Gal'Rok](/characters/galrok) **shoulder-checked three guards**, old clergy **lost his staff**, and Fenris **matched radiance stare-for-stare** with the **chief celebrant**.
+Before the party sealed the upper exit, Varis shot one shambler in the head. That corpse's glow dimmed; one eye went dark. They wrestled the door closed and climbed the stairs while something hammered the panel from below. A blow glanced Fenris. Another zombie's sores burst, splashing him with foul bile.
 
-Varis scrambled to silence the herald; a **soldier battered** him aside. Beneath choral panic the **senior priest** **knelt in prayer**, a **knife-bright pillar** punching through stained glass until **Holy power** battered the horde inward. Fenris—**riding adrenaline**—shouted **"Humanus!"** and **"Ilmater, strike down your enemies"** before **another bolt** **shredded** stairs; [Gal'Rok](/characters/galrok) **stood astride** a heap of **supine watchmen**. Jamaris—**self-styled zealot** of the congregation's **hotter nights**—became the hinge the chaos needed.
+Fenris drew the Blade of the Ethereal. He and one attacker blinked onto the Ethereal Plane long enough for Fenris to block a swing, take a hit that dropped him prone, and endure a stomp before the sword pulled both of them back to the stairwell. Varis gave Peren another healing potion until the rogue could stand, barely.
 
-**Jamaris** bellowed **"Stop!"** with **forged authority**; every **lamp snuffed** and the **consecration rain** that pinned the undead **stuttered**—corpses **locked** for a breath while his **command cracked** into something closer to **mockery**; only **one guard** obeyed. Varis **parsed side doors**, a **limping sentinel**, a **thief hugging** another guard in farcical calm, and **ordered scatter**. Gal'Rok **clanged helms** like cymbals, weathered a **missed swing**, allies **pommel-struck** an elder cleric **non-lethally**—buying heartbeats. When light **flickered** back the horde **twitched**; the party **bolted** into **plaza shadow** past **tent refugees**.
+### Nave
 
-**Chase & cover.** A **woman pointed**; watch **gave chase** until Fenris **sent roots surging** from cobbles, **lassoing** accuser and soldier alike while someone **hissed about snitch consequences**. They **slinked south** into the **[Common District](/places/common-district)**, dodging a **jogging patrol**, and **collapsed** into a **dim tavern** where a **boy** offered **wash water**; Fenris still **reeked of gore**. In whispers they cross-checked **[Humanus Association](/factions/humanus-association)** blame for the **[Crown Prince murder](/events/crown-prince-murder)**, the **Lady Alabaster** cellar meet **Gregory flagged** (**~ninety minutes** on the clock), a **borrowed cloak** gambit plus an **alchemy draught—roughly one hour of illusory humanity** keyed for Varis infiltration attempts. Someone introduced themselves as **"Jamar Jamarsen Lamar,"** insisting **faith dragged** him to their table—as if fate had **edited** initials.
+Noise from the nave drew parishioners toward the crypt stairs. A huge slime creature tore the stair-door away and threw Fenris into a pew, still covered in crypt filth. [Gal'Rok](/characters/galrok) stepped aside with a polite nod, then turned guards toward the undead pressing up from below.
 
-Soon a **limp coin-flip silhouette** beckoned—the party tailed **[Thor](/characters/thor-veteran)** to a waiting **coach**; doors **snicked** shut **behind**, hooves ticking toward **[Lady Alabaster](/characters/lady-alabaster)**'s **grounds** while dusk **tightened plans**.
+Varis carried Peren toward the rear sacristy and persuaded a frightened monk to help. [Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar) charged down the main stairs and drove his spear's butt into the slime giant, knocking it back onto the shamblers behind—a short reprieve.
 
-Away from carriage noise they still owed **[Maurus](/characters/maurus)** straight answers amid **pamphlet gossip** pinning them kingslayers. Scouts tried **cornering an overdressed envoy** supposedly tied to **Gravina la Basta/Lady Alabaster** messaging; drunken cover **splintered** into melee—[Gal'Rok](/characters/galrok) **belted skulls with her glass axe's flat**, Varis **skip-stoned fine-house glass** to divert an **irate dowager**, the mark **slept twitching**, pockets yielding **single gold** and **torn purse stitching** implying **intercepted payloads**. Mimicking **counts** wholesale **paused** overnight; they'd **rather heal**—or gamble the **Lady's salon** infiltration outright—than half-dress aristocracy with **blood still drying**.
+[Fenris](/characters/fenris) called lightning down through the nave. Bolts tore through undead ranks while Varis picked off glowing eyes. Then the crowd screamed: when Varis dropped another armored corpse, witnesses thought it was the [Crown Prince](/events/crown-prince-murder). Panic spread. Gal'Rok shouldered past three guards. Fenris traded stares with the head celebrant while an older priest dropped his staff in the crush.
+
+Varis tried to quiet the herald; a soldier knocked him aside. The senior priest knelt and prayed. Light punched up through the stained glass and hammered the undead back. Fenris, still fighting, shouted *"Humanus!"* and *"Ilmater, strike down your enemies!"* as another lightning bolt shattered stone on the stairs. Gal'Rok stood over a pile of fallen watchmen.
+
+Jamaris—a lay worshipper who treated vigils like sport—shouted *"Stop!"* with mock authority. Lamps died. The holy light that had pinned the dead faltered; corpses froze for a breath, then stirred again. Only one guard obeyed him.
+
+Varis mapped exits: side doors, a limping sentinel, a thief clinging to another guard as if nothing were wrong. He told everyone to scatter. Gal'Rok banged helmets together, took a missed swing, and allies pommeled an elder cleric unconscious without killing him. When light returned, the horde lurched forward. The party ran through the plaza past tent refugees.
+
+### Common District
+
+In the street, a woman pointed at them and watchmen gave chase. Fenris raised roots from the cobbles with *Entangle*, catching accuser and soldier alike while someone hissed threats about snitches. The party slipped south into the [Common District](/places/common-district), dodged a patrol, and collapsed into a dim tavern. A boy brought wash water; Fenris still stank of crypt gore.
+
+Over quiet drinks they compared notes: [Humanus Association](/factions/humanus-association) propaganda still blamed them for the [Crown Prince murder](/events/crown-prince-murder). Gregory had named [Lady Alabaster](/characters/lady-alabaster)'s wine cellar for the next Humanus meet, roughly ninety minutes away. They planned a borrowed cloak and an alchemy draught that might pass Varis for human for about an hour. A newcomer introduced himself as *"Jamar Jamarsen Lamar"* and swore faith had brought him to their table—though the name did not quite match Jamaris's.
+
+[Thor](/characters/thor-veteran), leaning on a bad leg, beckoned from the alley. They followed him to a coach; doors shut, hooves clopped toward Lady Alabaster's grounds as dusk fell.
+
+### After the coach
+
+They still owed [Maurus](/characters/maurus) answers while pamphlets called them kingslayers. The party tried to corner an overdressed envoy tied to Lady Alabaster's messaging. A drunken ruse fell apart into a brawl: Gal'Rok knocked heads with the flat of her glass axe, Varis shattered fine glass to distract a furious noblewoman, and their target slumped unconscious with one gold and torn stitching in his purse—signs someone had already rifled his delivery.
+
+Dressing as counts wholesale could wait. They would rather heal, or push straight into the Lady's salon, than stumble into noble company with blood still on their cloaks.
 
 ## Key Events
 
-- [Varis](/characters/varis) **Wind Wall** blackout, **crypt-stair** bile soak + **Blade-of-the-Ethereal** stairwell phasing, slime behemoth nave fight, **call lightning** choreography
-- Rising **Crown Prince** corpse among crypt surge (ties to [Crown Prince murder](/events/crown-prince-murder)); cobalt orb **lost / unexplained**
-- Crypt stair **retreat:** [Varis](/characters/varis) **carried** [Peren](/characters/peren) while **waving the Amulet of the Living**; **pre-seal** arrow **snuffed one zombie eye**; door ram **struck** [Fenris](/characters/fenris); **pus** burst **drenched** him before **Blade of the Ethereal** **stairwell** phasing (**block → prone → stomp** → return)
-- Witness **mistakes** fallen body for **the Crown Prince** → **crowd frenzy**
-- **Clergy daylight miracle** versus Fenris shouting **Humanus** + **Ilmater** petitions + storm strikes
-- [Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar) counterfeit command **momentarily** pins undead tide
-- [Common District](/places/common-district) **entangle-snared** witch-hunt impulse; disguise draught plotted for **[Humanus Association](/factions/humanus-association)** cellar meet
-- **[Thor](/characters/thor-veteran)** **coach** toward **[Lady Alabaster](/characters/lady-alabaster)** estate timetable
-- Street **ambuscade** rehearsals & **[Maurus](/characters/maurus)** debrief looming
+- Crypt retreat: Fenris *Wind Wall* blackout; Varis carried Peren and used [Amulet of the Living](/characters/varis#notable-equipment); arrow doused one zombie eye; door ram hit Fenris; pus soak; [Blade of the Ethereal](/characters/fenris) on stairs (block, prone, stomp, return)
+- Cobalt orb from [Session 25](/sessions/session-25) still unexplained; possible [Crown Prince](/events/crown-prince-murder) among crypt dead
+- Nave: slime giant fight; Fenris *call lightning*; crowd mistook fallen knight for the Crown Prince
+- Cleric's holy light vs Fenris's Humanus / Ilmater shouts
+- [Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar) *"Stop!"* briefly stalled undead; escape through plaza
+- [Common District](/places/common-district): *Entangle* on pursuers; disguise draught planned for [Humanus Association](/factions/humanus-association) cellar meet
+- [Thor](/characters/thor-veteran) coach toward [Lady Alabaster](/characters/lady-alabaster)
+- Street scuffle with envoy; [Maurus](/characters/maurus) debrief still owed
 
 ## See Also
 
 - [Alabaster Crypt Infiltration](/events/alabaster-crypt-infiltration), [Crypt of Alabaster](/places/crypt-of-alabaster)
+- [Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)
 - [Lady Alabaster](/characters/lady-alabaster)
