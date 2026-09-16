@@ -52,7 +52,7 @@ export default defineConfig({
             },
             {
               text: 'NPCs',
-              collapsed: false,
+              collapsed: true,
               items: [
                 { text: 'Helga', link: '/characters/helga' },
                 { text: 'Carlos', link: '/characters/carlos' },

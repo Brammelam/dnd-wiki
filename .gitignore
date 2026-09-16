@@ -19,3 +19,6 @@ yarn-error.log*
 # VitePress
 .vitepress/cache
 .vitepress/dist
+
+# Impeccable
+.impeccable

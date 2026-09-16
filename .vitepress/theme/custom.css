@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap');
-
 :root {
   /* Wider sidebar so "Chronicles of Morgan" + logo fit; tune layout max for desktops */
   --vp-sidebar-width: 304px;
@@ -96,8 +94,13 @@
 /* ── Tables ────────────────────────────────────── */
 
 .vp-doc table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
   border-collapse: collapse;
   width: 100%;
+  scrollbar-width: thin;
+  scrollbar-color: var(--vp-c-brand-1) var(--vp-c-bg-soft);
 }
 
 .vp-doc tr:nth-child(even) {

@@ -12,6 +12,7 @@ defineProps<{
 
 <style scoped>
 .wiki-infobox {
+  --wiki-infobox-accent: var(--vp-c-brand-1);
   float: right;
   width: 280px;
   margin: 0 0 1rem 1.5rem;
@@ -31,32 +32,32 @@ defineProps<{
   font-weight: 600;
   text-align: center;
   background: var(--vp-c-brand-soft);
-  color: var(--vp-c-brand-1);
+  color: var(--wiki-infobox-accent);
   border-bottom: 1px solid var(--wiki-color-warm-border, var(--vp-c-divider));
 }
 
 .wiki-infobox--character {
-  border-left: 3px solid var(--vp-c-brand-1);
+  --wiki-infobox-accent: var(--vp-c-brand-1);
 }
 
 .wiki-infobox--place {
-  border-left: 3px solid #5a8a5a;
+  --wiki-infobox-accent: #5a8a5a;
 }
 
 .dark .wiki-infobox--place {
-  border-left-color: #7ab87a;
+  --wiki-infobox-accent: #7ab87a;
 }
 
 .wiki-infobox--faction {
-  border-left: 3px solid #8a7a3a;
+  --wiki-infobox-accent: #8a7a3a;
 }
 
 .dark .wiki-infobox--faction {
-  border-left-color: #c4b060;
+  --wiki-infobox-accent: #c4b060;
 }
 
 .wiki-infobox--event {
-  border-left: 3px solid var(--wiki-color-crimson, #8b2a2a);
+  --wiki-infobox-accent: var(--wiki-color-crimson, #8b2a2a);
 }
 
 .wiki-infobox :deep(table) {

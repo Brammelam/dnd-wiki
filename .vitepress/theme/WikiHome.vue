@@ -1,8 +1,4 @@
 <script setup lang="ts">
-import { useData } from 'vitepress'
-
-const { isDark } = useData()
-
 const categories = [
   {
     title: 'Characters',
@@ -118,6 +114,7 @@ const recentSessions = [
 
 <style scoped>
 .wiki-home {
+  box-sizing: border-box;
   max-width: 1152px;
   margin: 0 auto;
   padding: 2rem 1.5rem 4rem;
