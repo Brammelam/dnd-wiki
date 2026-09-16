@@ -48,7 +48,7 @@ const recentSessions = [
     <header class="wiki-home__header">
       <h1 class="wiki-home__title">Chronicles of Morgan</h1>
       <p class="wiki-home__tagline">
-        A living record of our adventures through the Kingdom of Morgan and beyond!
+        A living record of our adventures through the Kingdom of Morgan and beyond
       </p>
     </header>
 
