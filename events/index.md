@@ -123,4 +123,10 @@ The town of [Sire](/places/sire) burns in a devastating fire; [Fenris](/characte
 Undead surge through the cathedral after the orb breaks, including a risen corpse mistaken for the [Crown Prince](/events/crown-prince-murder). [Varis](/characters/varis), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok), and [Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar) fight through crypt stairs and the nave, slip into the [Common District](/places/common-district), and board [Thor](/characters/thor-veteran)'s coach toward [Lady Alabaster](/characters/lady-alabaster) while planning a disguise for the Humanus cellar meet. *Session 26*
 
 </div>
+<div class="wiki-timeline-entry">
+
+### [Fall of Lady Alabaster](/events/fall-of-lady-alabaster)
+The party infiltrates a Humanus meeting, captures [Lady Alabaster](/characters/lady-alabaster) aboard a burning slave ship, and brings her before the King's Council. Under a truth ritual she admits framing the party and names [Old Garreth](/factions/toll-guild), prompting [Viktor Carnelian](/characters/viktor-carnelian) to attack. *Sessions 27–29*
+
+</div>
 </div>

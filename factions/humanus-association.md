@@ -27,6 +27,8 @@
 
 The cardinal in the king's council was mentioned in connection with the Association's influence, suggesting their reach extends to the highest levels of government.
 
+In [Session 27](/sessions/session-27), the party infiltrated a masked meeting beneath [Lady Alabaster](/characters/lady-alabaster)'s estate. Members discussed shipping prisoners to western pirates, exploiting the cathedral undead crisis, and using the arrest of the elven council to weaken elves politically. Varis identified Lady Alabaster among them. Her later truth-compelled testimony connected the party's framing to [Old Garreth](/factions/toll-guild), though the full relationship between Humanus and the council remained unresolved.
+
 ## Threat Level
 
 The Humanus Association represents one of the campaign's primary antagonist factions. Their human supremacist ideology, combined with political connections and willingness to use violence and corruption, makes them extremely dangerous. The party will likely need to confront them directly as they work to clear their names.
@@ -35,3 +37,4 @@ The Humanus Association represents one of the campaign's primary antagonist fact
 
 - [Crown Prince Murder](/events/crown-prince-murder)
 - [Helga](/characters/helga) — Provided information about their involvement
+- [Fall of Lady Alabaster](/events/fall-of-lady-alabaster)

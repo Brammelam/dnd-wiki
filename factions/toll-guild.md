@@ -20,6 +20,8 @@ The party first encountered the Toll Guild in [Session 5](/sessions/session-05) 
 
 The Guild maintains an **observatory** — a white tower controlling both sides of the quay in Rinden — from which they monitor all trade entering the city. Their influence over trade and taxation makes them a significant political force in the port city.
 
+At [Lady Alabaster](/characters/lady-alabaster)'s council hearing, a truth ritual forced her to name **Old Garreth** as the person who ordered the party framed for the [Crown Prince murder](/events/crown-prince-murder). [Viktor Carnelian](/characters/viktor-carnelian) attacked before the council could examine the accusation further ([Session 29](/sessions/session-29)).
+
 Toll Guild collectors in the [Saltside](/places/saltside) district were among those the party tried (unsuccessfully) to sell the Azure Oak seed to.
 
 ## Influence

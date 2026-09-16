@@ -59,6 +59,9 @@ Peren guarded **[Gregory IV](/characters/gregory-alabaster)'s antechamber** whil
 ### Cathedral riot (Session 26)
 still **barely lucid**, **Peren** rode **[Varis](/characters/varis)' shoulders** under **swinging Amulet-of-the-Living wards** on the crypt stair scramble; after **another draught**, he screamed **timeline fragments** at fading **Gregory** rumours, pleaded ***"Run"*** intel beside **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)** amid nave **regicide shouts**, and limped toward **[Common District](/places/common-district)** cover ([Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)).
 
+### Fall of Lady Alabaster (Sessions 27–29)
+Peren slipped into the Humanus cellar, survived discovery and a traumatic memory, and escaped during Fenris's diversion. During the harbor battle he killed the ship's captain, freed prisoners, and nearly drowned in a submerged window. At the council hearing he stabbed [Viktor Carnelian](/characters/viktor-carnelian) beneath the shield before being thrown into a wall ([Fall of Lady Alabaster](/events/fall-of-lady-alabaster)).
+
 ## Relationships
 
 - **[Varis](/characters/varis)** — Primary partner; they frequently travel and fight as a duo

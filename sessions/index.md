@@ -1,6 +1,6 @@
 # Session Log
 
-Complete recaps of every session in **GitLab History order** (commit sequence). Session numbers match wiki URLs (`session-01` … `session-26`).
+Complete recaps of every session in **GitLab History order** (commit sequence). Session numbers match wiki URLs (`session-01` … `session-29`).
 
 | # | Date | Title | Players |
 |---|------|-------|---------|
@@ -30,3 +30,6 @@ Complete recaps of every session in **GitLab History order** (commit sequence). 
 | 24 | 2026-04-12 | [Return to Morgan's Keep](/sessions/session-24) | Varis, Fenris |
 | 25 | 2026-05-10 | [Crypt of Morgan (Alabaster)](/sessions/session-25) | Varis, Peren, Fenris, Gal'Rok |
 | 26 | 2026-05-25 | [Escaping the Cathedral](/sessions/session-26) | Varis, Peren, Fenris, Gal'Rok, [Jamaris](/characters/jamaris-jamarisen-llamar) |
+| 27 | 2026-08-02 | [Infiltrating Humanus](/sessions/session-27) | Varis, Peren, Fenris |
+| 28 | 2026-08-23 | [The Burning Barge](/sessions/session-28) | Varis, Peren, Fenris, Gal'Rok |
+| 29 | 2026-09-13 | [The Trial of Lady Alabaster](/sessions/session-29) | Varis, Peren, Fenris, Gal'Rok |

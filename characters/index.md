@@ -67,3 +67,4 @@ The party of fugitives framed for the [Crown Prince's murder](/events/crown-prin
 - **[Gregory Alabaster](/characters/gregory-alabaster)** — Fourth of his name; Alabaster house corpse in crypt plot
 - **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)** — Zealous spear-bearer during the [capital cathedral riot](/events/capital-cathedral-undead-riot)
 - **[Maurus](/characters/maurus)** — Offstage contact slated for post-riot debrief (role TBD at table)
+- **[Viktor Carnelian](/characters/viktor-carnelian)** — Attacked Lady Alabaster and the cardinal during the King's Council hearing

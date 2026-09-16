@@ -61,6 +61,9 @@ Within the capital cathedral's undercrypts Varis stirred the wrong **Gregory Ala
 ### Cathedral riot & Humanus stakeout (Session 26)
 After the **orb break**, **[Varis](/characters/varis) carried [Peren](/characters/peren)** beneath **cyclical passes of the Amulet of the Living** (warding shamblers **like** *Turn Undead*), nailed an arrow **into one corpse pre-seal** so **single eye glare died**, wedged egress, healed with **another draught**, and surfed **mob panic** when cathedral crowds **misread regicide** onto a **fallen knight** ([Crown Prince murder](/events/crown-prince-murder)). He seeded alley strategy—**disguise philtre**, **[Humanus Association](/factions/humanus-association)** timing, eventual **[Lady Alabaster](/characters/lady-alabaster)** coach ride with **[Thor](/characters/thor-veteran)**—before press-ganging an **elite messenger** unconscious for intelligence ([Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)).
 
+### Fall of Lady Alabaster (Sessions 27–29)
+Varis infiltrated the Humanus cellar in disguise and identified [Lady Alabaster](/characters/lady-alabaster). He later boarded her departing ship, shattered her smoke crystal with an arrow, helped evacuate its prisoners, and brought her before the King's Council. When [Viktor Carnelian](/characters/viktor-carnelian) attacked the hearing, Varis struck him with an ice arrow ([Fall of Lady Alabaster](/events/fall-of-lady-alabaster)).
+
 ## Relationships
 - **[Fenris](/characters/fenris)** — Fellow crypt explorer; Fenris often provides magical support for Varis's attacks
 - **[Helga](/characters/helga)** — Antagonistic; she arrested him and he confronted her at the graveyard

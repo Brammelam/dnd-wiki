@@ -57,6 +57,9 @@ With **[Varis](/characters/varis)** and **[Peren](/characters/peren)** (after **
 ### Cathedral undead riot (Session 26)
 Fenris **snuffed** tapers with **_Wind Wall_**, took a **door ram** on crypt stairs, suffered **exploding undead sores** that **doused him in bile**, then **Blade of the Ethereal** yanked him onto the plane for a **brutal exchange** (**one block**, **next knockdown**, **stamping** until spat back into the stairwell) before **slime-giant** havoc, **call lightning**, **Humanus** / **Ilmater** shouts, and **root-snares** in the [Common District](/places/common-district) while reeking ([Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)).
 
+### Fall of Lady Alabaster (Sessions 27–29)
+Fenris entered the Humanus cellar as a rat and covered the escape with his bone flute and *Wind Wall*. As a giant octopus he stopped Lady Alabaster's ship, restrained her, freed prisoners, and rescued Gal'Rok and Peren from drowning. At the council he protected Alabaster with summoned elementals and healed the wounded cardinal ([Fall of Lady Alabaster](/events/fall-of-lady-alabaster)).
+
 ### Communing with Trees (Session 21)
 Fenris used Speak with Plants to consult an ancient pine tree by the river outside [Dior](/places/dior). The tree communicated in simple concepts: "rush. dry. safe." — confirming the river still flowed but the land was drier than usual, and smoke was present.
 

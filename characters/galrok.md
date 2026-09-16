@@ -43,6 +43,9 @@ At the riverside approach to [Morgan's Keep](/places/morgans-keep), companions n
 ### Session 26 — Cathedral riot
 **Retcon / table merge:** Gal'Rok **fought** in the **capital nave undead surge** despite the earlier camp note—she **redirected guards**, **clanged helmets**, and **wrestled watchmen** while **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)** barked orders ([Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)).
 
+### Sessions 28–29 — Alabaster capture and hearing
+Gal'Rok boarded [Lady Alabaster](/characters/lady-alabaster)'s ship, broke her glass axe against its captain, forced open the prisoners' cells, and nearly drowned when a rope caught on an anchor. At the King's Council she tried to cut [Viktor Carnelian](/characters/viktor-carnelian)'s spear before his counterattack threw her across the chamber ([Fall of Lady Alabaster](/events/fall-of-lady-alabaster)).
+
 ## Notable Moments
 
 - Gave 2 gp to poor half-orcs in Turn

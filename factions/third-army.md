@@ -19,3 +19,4 @@ Military religious practice in the field often invokes the same patrons as the [
 ## See Also
 
 - [Kingdom of Morgan § Politics](/places/kingdom-of-morgan#politics)
+- [Session 29](/sessions/session-29) — General Kamp attended Lady Alabaster's council hearing

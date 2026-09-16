@@ -8,7 +8,7 @@ const categories = [
     title: 'Characters',
     href: '/characters/',
     description: 'Player characters and the NPCs encountered across the campaign.',
-    count: 42,
+    count: 43,
   },
   {
     title: 'Places',
@@ -26,20 +26,20 @@ const categories = [
     title: 'Events',
     href: '/events/',
     description: 'Major plot points from conspiracy to war.',
-    count: 20,
+    count: 21,
   },
   {
     title: 'Sessions',
     href: '/sessions/',
     description: 'Full recaps of every session played.',
-    count: 26,
+    count: 29,
   },
 ]
 
 const recentSessions = [
-  { title: 'Session 26 — Escaping the Cathedral', href: '/sessions/session-26' },
-  { title: 'Session 25 — Crypt of Morgan (Alabaster)', href: '/sessions/session-25' },
-  { title: 'Session 24 — Return to Morgan’s Keep', href: '/sessions/session-24' },
+  { title: 'Session 29 — The Trial of Lady Alabaster', href: '/sessions/session-29' },
+  { title: 'Session 28 — The Burning Barge', href: '/sessions/session-28' },
+  { title: 'Session 27 — Infiltrating Humanus', href: '/sessions/session-27' },
 ]
 </script>
 
@@ -188,7 +188,6 @@ const recentSessions = [
   gap: 0 1rem;
   padding: 0.75rem 1rem;
   border: 1px solid var(--wiki-color-warm-border, var(--vp-c-divider));
-  border-left: 3px solid var(--vp-c-brand-1);
   border-radius: 4px;
   background: var(--vp-c-bg-soft);
   text-decoration: none;

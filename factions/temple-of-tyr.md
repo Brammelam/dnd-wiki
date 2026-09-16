@@ -34,3 +34,4 @@ The **cardinal** sits on the **King's Council** alongside the heads of the [Thir
 - Refugees invoked Tyr during the [Burning of Sire](/events/burning-of-sire)
 - Soldiers name Tyr, Torm, and Ilmater alongside their duties
 - [Helga](/characters/helga) left a lantern at the Tyr statue in Tyr Moir during the [Dior wedding](/events/dior-wedding) arc
+- The cardinal compelled [Lady Alabaster](/characters/lady-alabaster)'s confession before the King's Council, then was critically wounded by [Viktor Carnelian](/characters/viktor-carnelian) ([Session 29](/sessions/session-29))

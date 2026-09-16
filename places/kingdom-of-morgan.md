@@ -37,6 +37,7 @@ The kingdom is experiencing internal strife:
 - **King's Council** — The crown's senior council is composed of the heads of the three national pillars: the **[Third Army](/factions/third-army)** (under General **Kamp**; formations such as the **Fourth Brigade** belong to it), the **[Church of the Triad](/factions/temple-of-tyr)** (led by the **cardinal**), and the **[Toll Guild](/factions/toll-guild)** (led by **Garreth Carnelian**, often called **Old Garreth**)
 - **Great houses** — Noble power clusters especially in five families: **Amber**, **Peridot**, **Alabaster**, **Jet**, and **Carnelian**
 - A **cardinal** on the council has been mentioned as having power to compel truth
+- At [Lady Alabaster](/characters/lady-alabaster)'s hearing, that truth magic exposed [Old Garreth](/factions/toll-guild) as the alleged author of the party's framing before [Viktor Carnelian](/characters/viktor-carnelian) attacked
 - **Military mobilization** has been observed outside [Dior](/places/dior), with soldiers preparing for a march toward Morgan's Keep
 - The cardinal has reportedly **fled to Dior** and is sending forces against "Orrids Keep"
 

@@ -45,3 +45,7 @@ The party lured Helga to the [Tyr Moir](/places/tyr-moir) graveyard with an anon
 - **[Fenris](/characters/fenris)** — He calmed tensions during the confrontation
 - **The Party** — A complicated relationship: she arrested them, but provided crucial information
 - **The King's Guard** — Her loyalty is to the institution, not necessarily to justice
+
+## King's Council Hearing
+
+After the party rescued prisoners from [Lady Alabaster](/characters/lady-alabaster)'s ship, Helga escorted them through the palace and summoned the King's Council. She remained present when Alabaster confessed to the framing conspiracy and [Viktor Carnelian](/characters/viktor-carnelian) attacked ([Session 29](/sessions/session-29)).

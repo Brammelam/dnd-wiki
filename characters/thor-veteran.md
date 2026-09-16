@@ -19,6 +19,8 @@ In the capital outskirts ([Session 24](/sessions/session-24)), [Varis](/characte
 
 During **[Session 26](/sessions/session-26)** he **opened a discreet coach**, sealed the fugitives inside, and wheeled them toward **[Lady Alabaster](/characters/lady-alabaster)**'s grounds while city panic still thrashed behind.
 
+In [Sessions 27–28](/events/fall-of-lady-alabaster), Thor supplied the disguise, plans, transport, and surveillance used to infiltrate Humanus and locate Lady Alabaster. His allies could secure a hearing before the King's Council, but the party had to make the arrest themselves.
+
 ## See Also
 
 - [Return to Morgan's Keep](/events/return-to-morgans-keep)
