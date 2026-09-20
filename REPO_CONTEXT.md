@@ -199,3 +199,5 @@ Fix any build errors. The build must exit cleanly before committing.
 - [ ] No emojis anywhere
 - [ ] `npm run build` passes with no errors
 - [ ] All internal links use correct slugs (lowercase, hyphenated)
+
+Thats all
