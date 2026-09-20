@@ -53,6 +53,6 @@ watch(isDark, (dark) => {
 .giscus-wrapper {
   margin-top: 2rem;
   padding-top: 1.5rem;
-  border-top: 1px solid var(--wiki-color-warm-border, var(--vp-c-divider));
+  border-top: 1px solid var(--wiki-color-warm-border);
 }
 </style>

@@ -9,7 +9,7 @@ The original campaign source material (session notes as markdown and PDF) lives 
 ## Stack
 
 - **VitePress** (static site generator, Markdown to HTML)
-- **Vue 3** (custom components: `WikiInfobox`, `WikiBadge`, `WikiHome`)
+- **Vue 3** (custom components: `WikiInfobox`, `WikiHome`)
 - **Plain CSS** in `.vitepress/theme/custom.css` (no Tailwind)
 - **Render.com** Static Site (auto-deploys on push to `main`)
 
@@ -24,8 +24,7 @@ dnd-wiki/
 │       ├── index.ts        # Theme setup — registers custom Vue components
 │       ├── custom.css      # Global styles (gold/amber "Dark Codex" palette)
 │       ├── WikiHome.vue    # Home page portal layout
-│       ├── WikiInfobox.vue # Fandom-style infobox (float-right sidebar)
-│       └── WikiBadge.vue   # Inline tag badges
+│       └── WikiInfobox.vue # Fandom-style infobox (float-right sidebar)
 ├── index.md                # Home page (uses WikiHome component)
 ├── characters/             # One .md per character + index.md
 ├── places/                 # One .md per location + index.md

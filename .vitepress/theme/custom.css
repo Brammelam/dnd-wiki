@@ -14,11 +14,7 @@
   --vp-font-family-mono: 'Source Code Pro', ui-monospace, 'Menlo', 'Monaco',
     'Consolas', monospace;
 
-  --wiki-color-gold: #96722d;
-  --wiki-color-gold-bright: #b8922e;
   --wiki-color-crimson: #8b2a2a;
-  --wiki-color-warm-bg: #faf8f5;
-  --wiki-color-warm-bg-soft: #f5f0ea;
   --wiki-color-warm-border: #e8e0d4;
 }
 
@@ -33,11 +29,7 @@
   --vp-c-bg-elv: #24211a;
   --vp-c-bg-soft: #24211a;
 
-  --wiki-color-gold: #d4a545;
-  --wiki-color-gold-bright: #e4b84e;
   --wiki-color-crimson: #c45555;
-  --wiki-color-warm-bg: #1a1814;
-  --wiki-color-warm-bg-soft: #24211a;
   --wiki-color-warm-border: #3a3428;
 }
 
@@ -119,43 +111,6 @@
 
 .vp-doc td {
   border-bottom: 1px solid var(--wiki-color-warm-border);
-}
-
-/* ── Category grid ─────────────────────────────── */
-
-.wiki-category-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 0.75rem;
-  margin: 1.25rem 0;
-}
-
-.wiki-category-card {
-  display: block;
-  padding: 1rem;
-  border: 1px solid var(--wiki-color-warm-border);
-  border-radius: 4px;
-  background: var(--vp-c-bg-soft);
-  text-decoration: none;
-  transition: border-color 0.15s;
-}
-
-.wiki-category-card:hover {
-  border-color: var(--vp-c-brand-1);
-}
-
-.wiki-category-card h3 {
-  margin: 0 0 0.375rem 0;
-  font-family: 'Cinzel', serif;
-  font-size: 1rem;
-  font-weight: 500;
-  color: var(--vp-c-brand-1);
-}
-
-.wiki-category-card p {
-  margin: 0;
-  font-size: 0.85rem;
-  color: var(--vp-c-text-2);
 }
 
 /* ── Timeline ──────────────────────────────────── */

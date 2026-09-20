@@ -16,7 +16,7 @@ defineProps<{
   float: right;
   width: 280px;
   margin: 0 0 1rem 1.5rem;
-  border: 1px solid var(--wiki-color-warm-border, var(--vp-c-divider));
+  border: 1px solid var(--wiki-color-warm-border);
   border-radius: 4px;
   background: var(--vp-c-bg-soft);
   font-size: 0.875rem;
@@ -33,11 +33,7 @@ defineProps<{
   text-align: center;
   background: var(--vp-c-brand-soft);
   color: var(--wiki-infobox-accent);
-  border-bottom: 1px solid var(--wiki-color-warm-border, var(--vp-c-divider));
-}
-
-.wiki-infobox--character {
-  --wiki-infobox-accent: var(--vp-c-brand-1);
+  border-bottom: 1px solid var(--wiki-color-warm-border);
 }
 
 .wiki-infobox--place {
@@ -57,7 +53,7 @@ defineProps<{
 }
 
 .wiki-infobox--event {
-  --wiki-infobox-accent: var(--wiki-color-crimson, #8b2a2a);
+  --wiki-infobox-accent: var(--wiki-color-crimson);
 }
 
 .wiki-infobox :deep(table) {
@@ -69,7 +65,7 @@ defineProps<{
 .wiki-infobox :deep(th),
 .wiki-infobox :deep(td) {
   padding: 0.35rem 1rem;
-  border-bottom: 1px solid var(--wiki-color-warm-border, var(--vp-c-divider));
+  border-bottom: 1px solid var(--wiki-color-warm-border);
   text-align: left;
 }
 

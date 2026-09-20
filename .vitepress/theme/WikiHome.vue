@@ -42,30 +42,21 @@ const recentSessions = [
 <template>
   <div class="wiki-home">
     <header class="wiki-home__header">
-      <h1 class="wiki-home__title">Chronicles of Morgan</h1>
-      <p class="wiki-home__tagline">
-        A living record of our adventures through the Kingdom of Morgan and beyond
-      </p>
+      <div class="wiki-home__masthead">
+        <h1 class="wiki-home__title">Chronicles <span>of Morgan</span></h1>
+        <p class="wiki-home__tagline">
+          A living record of our adventures through the Kingdom of Morgan and beyond
+        </p>
+      </div>
+      <a class="wiki-home__latest" :href="recentSessions[0].href">
+        <span class="wiki-home__latest-label">Latest session</span>
+        <span class="wiki-home__latest-title">{{ recentSessions[0].title.split(' — ')[1] }}</span>
+        <span class="wiki-home__latest-action">Read latest session <span aria-hidden="true">→</span></span>
+      </a>
     </header>
 
     <div class="wiki-home__body">
-      <section class="wiki-home__portal">
-        <h2 class="wiki-home__section-title">Browse the Wiki</h2>
-        <div class="wiki-home__grid">
-          <a
-            v-for="cat in categories"
-            :key="cat.title"
-            :href="cat.href"
-            class="wiki-home__card"
-          >
-            <span class="wiki-home__card-title">{{ cat.title }}</span>
-            <span class="wiki-home__card-count">{{ cat.count }} articles</span>
-            <span class="wiki-home__card-desc">{{ cat.description }}</span>
-          </a>
-        </div>
-      </section>
-
-      <aside class="wiki-home__sidebar">
+      <section class="wiki-home__story">
         <h2 class="wiki-home__section-title">The Story So Far</h2>
         <div class="wiki-home__prose">
           <p>
@@ -104,10 +95,26 @@ const recentSessions = [
         <h3 class="wiki-home__sub-title">Recent Sessions</h3>
         <ul class="wiki-home__recent">
           <li v-for="s in recentSessions" :key="s.href">
-            <a :href="s.href">{{ s.title }}</a>
+            <a :href="s.href">{{ s.title }} <span aria-hidden="true">↗</span></a>
           </li>
         </ul>
-      </aside>
+      </section>
+
+      <nav class="wiki-home__portal" aria-label="Browse the wiki">
+        <h2 class="wiki-home__section-title">Browse the Wiki</h2>
+        <div class="wiki-home__grid">
+          <a
+            v-for="cat in categories"
+            :key="cat.title"
+            :href="cat.href"
+            class="wiki-home__card"
+          >
+            <span class="wiki-home__card-title">{{ cat.title }}</span>
+            <span class="wiki-home__card-desc">{{ cat.description }}</span>
+            <span class="wiki-home__card-count">{{ cat.count }} articles <span aria-hidden="true">↗</span></span>
+          </a>
+        </div>
+      </nav>
     </div>
   </div>
 </template>
@@ -115,132 +122,189 @@ const recentSessions = [
 <style scoped>
 .wiki-home {
   box-sizing: border-box;
-  max-width: 1152px;
+  width: min(100%, 1152px);
   margin: 0 auto;
-  padding: 2rem 1.5rem 4rem;
+  padding: 2rem clamp(1.25rem, 4vw, 3.5rem) 5rem;
 }
 
 .wiki-home__header {
-  text-align: center;
-  padding: 3rem 0 2rem;
-  border-bottom: 2px solid var(--vp-c-brand-1);
-  margin-bottom: 2rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(230px, 0.7fr);
+  align-items: end;
+  gap: clamp(2rem, 6vw, 6rem);
+  padding: clamp(2.5rem, 6vw, 6rem) 0 clamp(2.5rem, 5vw, 4.5rem);
+  border-top: 1px solid var(--vp-c-brand-1);
+  border-bottom: 1px solid var(--wiki-color-warm-border);
+  margin-bottom: clamp(2.5rem, 5vw, 4.5rem);
 }
 
 .wiki-home__title {
-  font-family: 'Cinzel', serif;
-  font-size: 2.5rem;
-  font-weight: 700;
+  max-width: 12ch;
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: clamp(3rem, 6vw, 5.75rem);
+  font-weight: 600;
   color: var(--vp-c-brand-1);
-  margin: 0 0 0.5rem;
-  letter-spacing: 0.02em;
-  line-height: 1.2;
+  margin: 0 0 1.5rem;
+  padding: 0;
+  border: 0;
+  letter-spacing: -0.035em;
+  line-height: 1.05;
+  text-wrap: balance;
+}
+
+.wiki-home__title span {
+  display: block;
+  color: var(--vp-c-text-1);
 }
 
 .wiki-home__tagline {
-  font-size: 1.05rem;
+  font-size: 1.12rem;
   color: var(--vp-c-text-2);
   margin: 0;
-  max-width: 540px;
-  margin-left: auto;
-  margin-right: auto;
+  max-width: 36ch;
+  line-height: 1.5;
+}
+
+.wiki-home__latest {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1.5rem 0 0;
+  border-top: 1px solid var(--vp-c-brand-1);
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+}
+
+.wiki-home__latest-label,
+.wiki-home__latest-action {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--vp-c-brand-1);
+}
+
+.wiki-home__latest-title {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: clamp(1.25rem, 2vw, 1.65rem);
+  line-height: 1.3;
+  transition: color 0.2s ease;
+}
+
+.wiki-home__latest:hover .wiki-home__latest-title {
+  color: var(--vp-c-brand-1);
+}
+
+.wiki-home__latest-action {
+  margin-top: 0.25rem;
+  letter-spacing: 0.02em;
+  text-transform: none;
+}
+
+.wiki-home__latest-action span {
+  margin-left: 0.35rem;
 }
 
 .wiki-home__body {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2.5rem;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.75fr);
+  gap: clamp(2.5rem, 7vw, 7rem);
   align-items: start;
 }
 
 .wiki-home__section-title {
-  font-family: 'Cinzel', serif;
-  font-size: 1.2rem;
-  font-weight: 600;
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 1.35rem;
+  font-weight: 500;
   color: var(--vp-c-text-1);
-  margin: 0 0 1rem;
-  padding-bottom: 0.4rem;
-  border-bottom: 1px solid var(--wiki-color-warm-border, var(--vp-c-divider));
-  letter-spacing: 0.01em;
+  margin: 0 0 1.5rem;
+  padding: 0 0 0.7rem;
+  border-bottom: 1px solid var(--wiki-color-warm-border);
+  letter-spacing: -0.02em;
 }
 
 .wiki-home__sub-title {
-  font-family: 'Cinzel', serif;
-  font-size: 1rem;
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 1.1rem;
   font-weight: 500;
   color: var(--vp-c-text-1);
-  margin: 1.5rem 0 0.75rem;
+  margin: 3rem 0 0.75rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--wiki-color-warm-border);
 }
 
 .wiki-home__grid {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
+  display: grid;
 }
 
 .wiki-home__card {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  grid-template-rows: auto auto;
-  gap: 0 1rem;
-  padding: 0.75rem 1rem;
-  border: 1px solid var(--wiki-color-warm-border, var(--vp-c-divider));
-  border-radius: 4px;
-  background: var(--vp-c-bg-soft);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.25rem;
+  padding: 1.15rem 0;
+  border-bottom: 1px solid var(--wiki-color-warm-border);
   text-decoration: none;
-  transition: border-color 0.15s, background 0.15s;
+  transition: border-color 0.2s ease;
 }
 
 .wiki-home__card:hover {
   border-color: var(--vp-c-brand-1);
-  background: var(--vp-c-brand-soft);
 }
 
 .wiki-home__card-title {
-  font-family: 'Cinzel', serif;
-  font-size: 1rem;
-  font-weight: 600;
-  color: var(--vp-c-brand-1);
-  grid-column: 1;
-  grid-row: 1;
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 1.17rem;
+  font-weight: 500;
+  color: var(--vp-c-text-1);
 }
 
 .wiki-home__card-count {
+  margin-top: 0.35rem;
   font-size: 0.8rem;
-  color: var(--vp-c-text-3);
-  grid-column: 2;
-  grid-row: 1;
-  align-self: center;
-  white-space: nowrap;
+  color: var(--vp-c-brand-1);
+  font-variant-numeric: tabular-nums;
+}
+
+.wiki-home__card-count span {
+  margin-left: 0.25rem;
 }
 
 .wiki-home__card-desc {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   color: var(--vp-c-text-2);
-  grid-column: 1 / -1;
-  grid-row: 2;
-  margin-top: 0.2rem;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 .wiki-home__prose {
-  font-size: 0.95rem;
-  line-height: 1.7;
+  max-width: 68ch;
+  font-size: 1.05rem;
+  line-height: 1.75;
   color: var(--vp-c-text-1);
 }
 
 .wiki-home__prose p {
-  margin: 0 0 0.75rem;
+  margin: 0 0 1.25rem;
+}
+
+.wiki-home__prose p:first-child::first-letter {
+  float: left;
+  padding: 0.09em 0.12em 0 0;
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 3.6em;
+  line-height: 0.8;
+  color: var(--vp-c-brand-1);
 }
 
 .wiki-home__prose a {
   color: var(--vp-c-brand-1);
-  text-decoration-color: var(--vp-c-brand-soft);
-  transition: color 0.15s;
+  text-decoration-color: var(--wiki-color-warm-border);
+  text-underline-offset: 0.18em;
 }
 
 .wiki-home__prose a:hover {
   color: var(--vp-c-brand-2);
+  text-decoration-color: currentColor;
 }
 
 .wiki-home__recent {
@@ -250,36 +314,62 @@ const recentSessions = [
 }
 
 .wiki-home__recent li {
-  padding: 0.35rem 0;
-  border-bottom: 1px solid var(--wiki-color-warm-border, var(--vp-c-divider));
-  font-size: 0.9rem;
-}
-
-.wiki-home__recent li:last-child {
-  border-bottom: none;
+  border-bottom: 1px solid var(--wiki-color-warm-border);
 }
 
 .wiki-home__recent a {
-  color: var(--vp-c-brand-1);
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.65rem 0;
+  color: var(--vp-c-text-1);
   text-decoration: none;
-  transition: color 0.15s;
+  font-size: 0.92rem;
+  transition: color 0.2s ease;
 }
 
-.wiki-home__recent a:hover {
-  color: var(--vp-c-brand-2);
+.wiki-home__recent a:hover,
+.wiki-home__recent a span {
+  color: var(--vp-c-brand-1);
+}
+
+.wiki-home a:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 4px;
+}
+
+.wiki-home ::selection {
+  background: var(--vp-c-brand-1);
+  color: var(--vp-c-bg);
 }
 
 @media (max-width: 768px) {
+  .wiki-home__header,
   .wiki-home__body {
     grid-template-columns: 1fr;
   }
 
-  .wiki-home__title {
-    font-size: 1.8rem;
+  .wiki-home__header {
+    gap: 2.5rem;
   }
 
-  .wiki-home__header {
-    padding: 2rem 0 1.5rem;
+  .wiki-home__title {
+    font-size: clamp(2.5rem, 10vw, 4.5rem);
+  }
+
+  .wiki-home__body {
+    gap: 3rem;
+  }
+
+  .wiki-home__portal {
+    order: -1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wiki-home a,
+  .wiki-home__latest-title {
+    transition: none;
   }
 }
 </style>
