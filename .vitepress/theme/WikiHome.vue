@@ -41,6 +41,17 @@ const recentSessions = [
 
 <template>
   <div class="wiki-home">
+    <div class="wiki-home__banner">
+      <img
+        src="/party-banner-1280.jpg"
+        srcset="/party-banner-640.jpg 640w, /party-banner-1280.jpg 1280w, /party-banner-1916.jpg 1916w"
+        sizes="(max-width: 1152px) 100vw, 1152px"
+        width="1916"
+        height="821"
+        alt="Adventurers facing spectral foes and goblins at sunset"
+        fetchpriority="high"
+      />
+    </div>
     <header class="wiki-home__header">
       <div class="wiki-home__masthead">
         <h1 class="wiki-home__title">Chronicles <span>of Morgan</span></h1>
@@ -127,13 +138,34 @@ const recentSessions = [
   padding: 2rem clamp(1.25rem, 4vw, 3.5rem) 5rem;
 }
 
+.wiki-home__banner {
+  position: relative;
+  height: clamp(190px, 30vw, 340px);
+  overflow: hidden;
+  background: var(--vp-c-bg-soft);
+}
+
+.wiki-home__banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 46%;
+}
+
+.wiki-home__banner::after {
+  position: absolute;
+  inset: 0;
+  content: '';
+  pointer-events: none;
+  background: linear-gradient(to bottom, transparent 68%, var(--vp-c-bg));
+}
+
 .wiki-home__header {
   display: grid;
   grid-template-columns: minmax(0, 1.5fr) minmax(230px, 0.7fr);
   align-items: end;
   gap: clamp(2rem, 6vw, 6rem);
-  padding: clamp(2.5rem, 6vw, 6rem) 0 clamp(2.5rem, 5vw, 4.5rem);
-  border-top: 1px solid var(--vp-c-brand-1);
+  padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4.5rem);
   border-bottom: 1px solid var(--wiki-color-warm-border);
   margin-bottom: clamp(2.5rem, 5vw, 4.5rem);
 }
