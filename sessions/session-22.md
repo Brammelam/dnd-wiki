@@ -8,6 +8,12 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-03-01-Burning-Sire.pdf)
 
+## Key Events
+
+- [Burning of Sire](/events/burning-of-sire)
+- [Knut Pilsen](/characters/knut-pilsen) rescue
+- Pyromancer battle and death
+
 ## Recap
 
 [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) rode toward the smoke while [Varis](/characters/varis) and [Peren](/characters/peren) headed to [Morgan's Keep](/places/morgans-keep).
@@ -49,12 +55,6 @@ Emerging from the smithy, Gal'Rok was hit by a **fireball from the town square**
 Fenris crawled to consciousness, found a **glowing medallion** among the remains (too hot to hold, wrapped in cloth), and collected burned book pages. Gal'Rok woke in a **PTSD panic**, running from the flames before Fenris healed her. They found a dead body with a purse marked **"Sigurd"**.
 
 With the medallion and evidence secured, they headed back toward the horses.
-
-## Key Events
-
-- [Burning of Sire](/events/burning-of-sire)
-- [Knut Pilsen](/characters/knut-pilsen) rescue
-- Pyromancer battle and death
 
 ## Loot
 

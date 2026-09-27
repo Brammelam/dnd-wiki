@@ -17,6 +17,12 @@
 
 His exact relationship to [Konstantin Carnelian](/characters/konstantin-carnelian) and Old Garreth has not yet been established.
 
+## Connections
+
+- **[Lady Alabaster](/characters/lady-alabaster)** — he tried to silence her after her confession in [Session 29](/sessions/session-29).
+- **[Old Garreth](/factions/toll-guild)** — Alabaster accused him immediately before Viktor attacked; a direct connection is not established.
+- **[Konstantin Carnelian](/characters/konstantin-carnelian)** — shares the Carnelian name; their exact relationship remains unknown.
+
 ## See Also
 
 - [Fall of Lady Alabaster](/events/fall-of-lady-alabaster)

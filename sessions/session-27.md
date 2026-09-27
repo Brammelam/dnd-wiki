@@ -8,6 +8,14 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-08-02-InfiltrateHumanus.pdf)
 
+## Key Events
+
+- [Thor](/characters/thor-veteran) supplied a Humanus cloak, mask, cellar plans, and the password *"Crystal goblet"*
+- The party overheard plans involving prisoners, western pirates, arrested elves, and political use of the cathedral undead
+- Peren's hiding place was exposed; Fenris's bone flute and *Wind Wall* broke the search
+- Varis identified [Lady Alabaster](/characters/lady-alabaster) behind a Humanus mask
+- The party committed to capturing her and bringing evidence before the King's Council
+
 ## Recap
 
 The party held [Lieutenant Preben Jet](/characters/lieutenant-jet) in a plain apartment while [Thor](/characters/thor-veteran) prepared their next move. A Humanus meeting would begin beneath [Lady Alabaster](/characters/lady-alabaster)'s house in half an hour. Varis received a dark-blue cloak, a narrow-eyed metal mask, the cellar plans, and the password: *"Crystal goblet."* Peren would enter separately, while Fenris changed into a rat and rode in Varis's pocket.
@@ -31,14 +39,6 @@ Fenris attacked from behind, then played his bone flute. Visions of snakes fille
 The party regrouped in a trophy room upstairs. A young woman's mask slipped in the confusion, giving Varis a clear look at her face. He recognized [Lady Alabaster](/characters/lady-alabaster). Varis opened a window and jumped; the others followed and returned to Thor.
 
 They now had direct evidence that Lady Alabaster commanded authority inside Humanus, supported raids against elves from [Alverike](/places/alverike), and stood close to the conspiracy that had framed them. They resolved to find her quickly and obtain a confession before she could disappear.
-
-## Key Events
-
-- [Thor](/characters/thor-veteran) supplied a Humanus cloak, mask, cellar plans, and the password *"Crystal goblet"*
-- The party overheard plans involving prisoners, western pirates, arrested elves, and political use of the cathedral undead
-- Peren's hiding place was exposed; Fenris's bone flute and *Wind Wall* broke the search
-- Varis identified [Lady Alabaster](/characters/lady-alabaster) behind a Humanus mask
-- The party committed to capturing her and bringing evidence before the King's Council
 
 ## See Also
 

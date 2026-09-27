@@ -8,6 +8,12 @@
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-10-07-Session3.md)
 
+## Key Events
+
+- [Azure Oak Quest](/events/azure-oak-quest) begins
+- [Elowen](/characters/elowen)'s patron Calling
+- The Hagenfeld hoax
+
 ## Recap
 
 The full party arrived at **[Turn](/places/turn)**, a timber-trading town suffering from drought and food shortage. They settled at **[The Large Log](/places/the-large-log)** inn. Inside were soldiers, a nobleman, and a female orc with a distinctive metal wound.
@@ -25,12 +31,6 @@ The party ventured into the forest to find the [Azure Oak](/places/azure-oak-gro
 - Disturbing the fairies caused them to merge into **one large fairy** that attacked, using roots to threaten the party
 
 The session ended on a cliffhanger with the fairy attacking and roots closing in.
-
-## Key Events
-
-- [Azure Oak Quest](/events/azure-oak-quest) begins
-- [Elowen](/characters/elowen)'s patron Calling
-- The Hagenfeld hoax
 
 ## New Characters
 

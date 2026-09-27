@@ -8,6 +8,14 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-02-15-Dior-Helga-Confrontation.pdf)
 
+## Key Events
+
+- [Dior Wedding & Helga Confrontation](/events/dior-wedding) — Interrogation and aftermath
+- [Humanus Association](/factions/humanus-association) identified as conspirators
+- Military buildup outside Dior discovered
+- Morgan's Keep city map created
+- Party splits: Varis/Peren to Morgan's Keep, Fenris/Gal'Rok toward smoke
+
 ## Recap
 
 ### The Interrogation
@@ -50,11 +58,3 @@ In a remarkable scene, the party sat down and **built a map of Morgan's Keep** u
 - Named a settlement called "Springtown" at a creek
 
 [Fenris](/characters/fenris) used **Speak with Plants** on an old pine tree by the river. The tree communicated: *"rush. dry. safe."* — confirming the river flowed, the land was drier, and smoke was present but no immediate danger.
-
-## Key Events
-
-- [Dior Wedding & Helga Confrontation](/events/dior-wedding) — Interrogation and aftermath
-- [Humanus Association](/factions/humanus-association) identified as conspirators
-- Military buildup outside Dior discovered
-- Morgan's Keep city map created
-- Party splits: Varis/Peren to Morgan's Keep, Fenris/Gal'Rok toward smoke

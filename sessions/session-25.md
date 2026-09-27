@@ -10,6 +10,18 @@
 
 **Continuity:** [Gal'Rok](/characters/galrok)'s player left **before the party entered the cathedral**—from the nave onward the active table is **Varis, Peren, and Fenris** (Gal'Rok appears only in the riverside camp beats).
 
+## Key Events
+
+- [Alabaster Crypt Infiltration](/events/alabaster-crypt-infiltration).
+- Mutual **critical-fail Perception** memory beat (**DM withheld extra lore** afterward).
+- [Knut](/characters/knut-pilsen)'s routed cheese gambit (**covert compass**).
+- Wrong wake **Gregory I** sarcophagus; **Fourth Gregory** confrontation chamber.
+- Questioning-ring exchange: **[Humanus Association](/factions/humanus-association)** rotates meetups; last at **[Lieutenant Jet](/characters/lieutenant-jet)** ("Torfinn Jet"); **next** at **[Lady Alabaster](/characters/lady-alabaster)**'s **wine cellar** (~**two hours**); farewell ***Run.***
+- [Varis](/characters/varis) smashed Gregory's cobalt binding orb; undead hostility unchanged.
+- [Varis](/characters/varis) spends **[Amulet of the Living](/characters/varis)** (**1 charge used / 2 remain**) behaving like **_Turn Undead_**.
+- **Blade of the Ethereal** (**[Fenris](/characters/fenris)**' weapon from [Lake Hydra](/events/lake-hydra-hunt)): monk bump → shared **Blink**-like shift (**no HP**); ejection from nave; lawful re-entry / breadcrumbs / **_Wind Wall_** bailout.
+- [Peren](/characters/peren) multi-strike door ordeal (**fractional survival HP**).
+
 ## Recap
 
 Varis, Peren, Fenris, and [Gal'Rok](/characters/galrok) met at the riverside camp outside [Morgan's Keep](/places/morgans-keep). The whole party tried to recall something important at once; every Perception check failed badly, and the Dungeon Master offered no follow-up—only uneasy silence. Whatever that beat foreshadows remains unstated in play (players had no firm theory confirmed at the table).
@@ -49,18 +61,6 @@ New waves still rallied farther down corridors.
 From a reunited hallway Fenris cast *Wind Wall*. The gale cut through skeletal ranks; bone splinters flew, but the party took no loot.
 
 Varis and Peren scraped through the gale corridor while riots swelled back toward nave stairs—threads feeding unresolved pressure in the [Crown Prince murder](/events/crown-prince-murder) investigation.
-
-## Key Events
-
-- [Alabaster Crypt Infiltration](/events/alabaster-crypt-infiltration).
-- Mutual **critical-fail Perception** memory beat (**DM withheld extra lore** afterward).
-- [Knut](/characters/knut-pilsen)'s routed cheese gambit (**covert compass**).
-- Wrong wake **Gregory I** sarcophagus; **Fourth Gregory** confrontation chamber.
-- Questioning-ring exchange: **[Humanus Association](/factions/humanus-association)** rotates meetups; last at **[Lieutenant Jet](/characters/lieutenant-jet)** ("Torfinn Jet"); **next** at **[Lady Alabaster](/characters/lady-alabaster)**'s **wine cellar** (~**two hours**); farewell ***Run.***
-- [Varis](/characters/varis) smashed Gregory's cobalt binding orb; undead hostility unchanged.
-- [Varis](/characters/varis) spends **[Amulet of the Living](/characters/varis)** (**1 charge used / 2 remain**) behaving like **_Turn Undead_**.
-- **Blade of the Ethereal** (**[Fenris](/characters/fenris)**' weapon from [Lake Hydra](/events/lake-hydra-hunt)): monk bump → shared **Blink**-like shift (**no HP**); ejection from nave; lawful re-entry / breadcrumbs / **_Wind Wall_** bailout.
-- [Peren](/characters/peren) multi-strike door ordeal (**fractional survival HP**).
 
 ## Related
 

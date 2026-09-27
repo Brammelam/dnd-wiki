@@ -8,6 +8,15 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-03-29-FightingThorn.pdf)
 
+## Key Events
+
+- [Road Inn Ambush](/events/road-inn-ambush)
+- Journey toward [Morgan's Keep](/places/morgans-keep)
+- Meeting [Lynn Salt](/characters/lynn-salt) and [Thor](/characters/thor-veteran)
+- [Thorn](/characters/thorn-alchemist)'s revenge ambush (stable; Varis stabilizes him after)
+- Peren's potion-making talent discovered
+- Fairy healing potion commissioned
+
 ## Recap
 
 [Varis](/characters/varis) and [Peren](/characters/peren) traveled from [Dior](/places/dior) toward [Morgan's Keep](/places/morgans-keep) while [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) dealt with the [Burning of Sire](/events/burning-of-sire).
@@ -53,15 +62,6 @@ There was **only one attacker** — Thorn. Peren woke groggy and took a **knife 
 A worried woman (the innkeeper's wife) arrived. The party showed their credentials and were asked to leave. They joined **[Lynn Salt](/characters/lynn-salt)**'s wagon for the remaining journey to Morgan's Keep, acquiring two horses from the stable in the process.
 
 The session ended with the party traveling the final stretch toward the capital.
-
-## Key Events
-
-- [Road Inn Ambush](/events/road-inn-ambush)
-- Journey toward [Morgan's Keep](/places/morgans-keep)
-- Meeting [Lynn Salt](/characters/lynn-salt) and [Thor](/characters/thor-veteran)
-- [Thorn](/characters/thorn-alchemist)'s revenge ambush (stable; Varis stabilizes him after)
-- Peren's potion-making talent discovered
-- Fairy healing potion commissioned
 
 ## Related
 

@@ -68,7 +68,32 @@ const recentSessions = [
 
     <div class="wiki-home__body">
       <section class="wiki-home__story">
-        <h2 class="wiki-home__section-title">The Story So Far</h2>
+        <h2 class="wiki-home__section-title">Where We Left Off</h2>
+        <div class="wiki-home__prose">
+          <p>
+            <a href="/places/morgans-keep">Morgan's Keep</a>, the King's Council
+            &mdash; after <a href="/sessions/session-29">Session 29</a>.
+            <a href="/characters/lady-alabaster">Lady Alabaster</a> admitted framing
+            the party and named <a href="/factions/toll-guild">Old Garreth</a> as
+            the person who ordered it.
+          </p>
+          <p>
+            <a href="/characters/viktor-carnelian">Viktor Carnelian</a> attacked.
+            The cardinal is wounded, guards are approaching, and the fight in
+            the council chamber is still underway.
+          </p>
+          <p>
+            <strong>Still unresolved:</strong> Can the party protect the cardinal
+            and keep Alabaster alive to testify?
+          </p>
+        </div>
+        <h3 class="wiki-home__sub-title">Recent Sessions</h3>
+        <ul class="wiki-home__recent">
+          <li v-for="s in recentSessions" :key="s.href">
+            <a :href="s.href">{{ s.title }} <span aria-hidden="true">↗</span></a>
+          </li>
+        </ul>
+        <h2 class="wiki-home__sub-title">The Story So Far</h2>
         <div class="wiki-home__prose">
           <p>
             Our party &mdash;
@@ -103,12 +128,6 @@ const recentSessions = [
           </p>
         </div>
 
-        <h3 class="wiki-home__sub-title">Recent Sessions</h3>
-        <ul class="wiki-home__recent">
-          <li v-for="s in recentSessions" :key="s.href">
-            <a :href="s.href">{{ s.title }} <span aria-hidden="true">↗</span></a>
-          </li>
-        </ul>
       </section>
 
       <nav class="wiki-home__portal" aria-label="Browse the wiki">
@@ -394,7 +413,7 @@ const recentSessions = [
   }
 
   .wiki-home__portal {
-    order: -1;
+    order: 0;
   }
 }
 

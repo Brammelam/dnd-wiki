@@ -1,6 +1,62 @@
 # Session Log
 
-Complete recaps of every session in **GitLab History order** (commit sequence). Session numbers match wiki URLs (`session-01` … `session-29`).
+Revisit the campaign by story arc, with the newest arc first. Sessions within each arc follow the order we played them.
+
+[Read the latest session — The Trial of Lady Alabaster](/sessions/session-29) · [Start from the beginning](/sessions/session-01)
+
+## Return to Morgan’s Keep
+
+Sessions 24–29
+
+| # | Date | Title | Players |
+|---|------|-------|---------|
+| 24 | 2026-04-12 | [Return to Morgan's Keep](/sessions/session-24) | Varis, Fenris |
+| 25 | 2026-05-10 | [Crypt of Morgan (Alabaster)](/sessions/session-25) | Varis, Peren, Fenris, Gal'Rok |
+| 26 | 2026-05-25 | [Escaping the Cathedral](/sessions/session-26) | Varis, Peren, Fenris, Gal'Rok, [Jamaris](/characters/jamaris-jamarisen-llamar) |
+| 27 | 2026-08-02 | [Infiltrating Humanus](/sessions/session-27) | Varis, Peren, Fenris |
+| 28 | 2026-08-23 | [The Burning Barge](/sessions/session-28) | Varis, Peren, Fenris, Gal'Rok |
+| 29 | 2026-09-13 | [The Trial of Lady Alabaster](/sessions/session-29) | Varis, Peren, Fenris, Gal'Rok |
+
+## Wedding plans and the road home
+
+Sessions 19–23
+
+| # | Date | Title | Players |
+|---|------|-------|---------|
+| 19 | 2025-12-07 | [Wedding Plans in Dior](/sessions/session-19) | Varis, Peren, Fenris, Gal'Rok |
+| 20 | 2026-02-01 | [Helga, Come Alone](/sessions/session-20) | Varis, Peren, Fenris |
+| 21 | 2026-02-15 | [Graveyard Confrontation](/sessions/session-21) | Varis, Peren, Fenris, Gal'Rok |
+| 22 | 2026-03-01 | [Burning of Sire](/sessions/session-22) | Fenris, Gal'Rok |
+| 23 | 2026-03-29 | [Salt, Thorn & Cheese](/sessions/session-23) | Varis, Peren |
+
+## Dior and the crypt
+
+Sessions 15–18
+
+| # | Date | Title | Players |
+|---|------|-------|---------|
+| 15 | 2025-08-31 | [Arrival in Dior](/sessions/session-15) | Varis, Fenris |
+| 16 | 2025-09-28 | [Dior, Academy & the Crypt Deal](/sessions/session-16) | Varis, Peren, Fenris, Gal'Rok |
+| 17 | 2025-10-12 | [Into the Crypt](/sessions/session-17) | Varis, Peren, Fenris |
+| 18 | 2025-10-26 | [Escaping the Crypt](/sessions/session-18) | Varis, Fenris, Gal'Rok |
+
+## The road to Fort John
+
+Sessions 8–14
+
+| # | Date | Title | Players |
+|---|------|-------|---------|
+| 8 | 2025-02-27 | [Road to Dior: The Poor Fisherman](/sessions/session-08) | Varis, Elowen |
+| 9 | 2025-03-22 | [Snakes & the Fey](/sessions/session-09) | Varis, Peren, Elowen |
+| 10 | 2025-05-04 | [Hooves Bay & the Outpost](/sessions/session-10) | Elowen, Peren, Varis |
+| 11 | 2025-05-22 | [The Lake Hydra](/sessions/session-11) | Varis, Fenris, Gal'Rok, Elowen |
+| 12 | 2025-06-06 | [Fort John, Part One](/sessions/session-12) | Varis, Elowen, Fenris, Gal'Rok, Peren |
+| 13 | 2025-07-19 | [Fort John, Part Two](/sessions/session-13) | Varis, Fenris, Gal'Rok |
+| 14 | 2025-08-03 | [Fort John, Part Three](/sessions/session-14) | Varis, Fenris, Gal'Rok |
+
+## Fugitives and the Azure Oak
+
+Sessions 1–7
 
 | # | Date | Title | Players |
 |---|------|-------|---------|
@@ -11,25 +67,3 @@ Complete recaps of every session in **GitLab History order** (commit sequence). 
 | 5 | 2024-12-01 | [The Crabs of Rinden](/sessions/session-05) | Peren, Varis |
 | 6 | 2025-01-18 | [Scully Stronghold](/sessions/session-06) | Varis, Flint, Fenris, Elowen |
 | 7 | 2025-02-15 | [Two Fights in Rinden](/sessions/session-07) | Varis, Flint, Peren |
-| 8 | 2025-02-27 | [Road to Dior: The Poor Fisherman](/sessions/session-08) | Varis, Elowen |
-| 9 | 2025-03-22 | [Snakes & the Fey](/sessions/session-09) | Varis, Peren, Elowen |
-| 10 | 2025-05-04 | [Hooves Bay & the Outpost](/sessions/session-10) | Elowen, Peren, Varis |
-| 11 | 2025-05-22 | [The Lake Hydra](/sessions/session-11) | Varis, Fenris, Gal'Rok, Elowen |
-| 12 | 2025-06-06 | [Fort John, Part One](/sessions/session-12) | Varis, Elowen, Fenris, Gal'Rok, Peren |
-| 13 | 2025-07-19 | [Fort John, Part Two](/sessions/session-13) | Varis, Fenris, Gal'Rok |
-| 14 | 2025-08-03 | [Fort John, Part Three](/sessions/session-14) | Varis, Fenris, Gal'Rok |
-| 15 | 2025-08-31 | [Arrival in Dior](/sessions/session-15) | Varis, Fenris |
-| 16 | 2025-09-28 | [Dior, Academy & the Crypt Deal](/sessions/session-16) | Varis, Peren, Fenris, Gal'Rok |
-| 17 | 2025-10-12 | [Into the Crypt](/sessions/session-17) | Varis, Peren, Fenris |
-| 18 | 2025-10-26 | [Escaping the Crypt](/sessions/session-18) | Varis, Fenris, Gal'Rok |
-| 19 | 2025-12-07 | [Wedding Plans in Dior](/sessions/session-19) | Varis, Peren, Fenris, Gal'Rok |
-| 20 | 2026-02-01 | [Helga, Come Alone](/sessions/session-20) | Varis, Peren, Fenris |
-| 21 | 2026-02-15 | [Graveyard Confrontation](/sessions/session-21) | Varis, Peren, Fenris, Gal'Rok |
-| 22 | 2026-03-01 | [Burning of Sire](/sessions/session-22) | Fenris, Gal'Rok |
-| 23 | 2026-03-29 | [Salt, Thorn & Cheese](/sessions/session-23) | Varis, Peren |
-| 24 | 2026-04-12 | [Return to Morgan's Keep](/sessions/session-24) | Varis, Fenris |
-| 25 | 2026-05-10 | [Crypt of Morgan (Alabaster)](/sessions/session-25) | Varis, Peren, Fenris, Gal'Rok |
-| 26 | 2026-05-25 | [Escaping the Cathedral](/sessions/session-26) | Varis, Peren, Fenris, Gal'Rok, [Jamaris](/characters/jamaris-jamarisen-llamar) |
-| 27 | 2026-08-02 | [Infiltrating Humanus](/sessions/session-27) | Varis, Peren, Fenris |
-| 28 | 2026-08-23 | [The Burning Barge](/sessions/session-28) | Varis, Peren, Fenris, Gal'Rok |
-| 29 | 2026-09-13 | [The Trial of Lady Alabaster](/sessions/session-29) | Varis, Peren, Fenris, Gal'Rok |

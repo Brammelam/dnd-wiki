@@ -8,6 +8,11 @@
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-12-01-Session5.md)
 
+## Key Events
+
+- [The Crabs Job](/events/the-crabs-job) — Infiltration of Rinden's underworld
+- Peren learns poison-making
+
 ## Recap
 
 With only [Peren](/characters/peren) and [Varis](/characters/varis) present, this session focused on investigating **who framed them** for the [Crown Prince's murder](/events/crown-prince-murder).
@@ -26,11 +31,6 @@ These actions earned them a meeting with **[Salander](/characters/salander)**, t
 - In return, the party had to **expose the shady business** of **[Father Terry](/characters/father-terry)**
 
 The session ended with the deal struck and the party preparing to fulfill their end of the bargain.
-
-## Key Events
-
-- [The Crabs Job](/events/the-crabs-job) — Infiltration of Rinden's underworld
-- Peren learns poison-making
 
 ## New Characters
 

@@ -8,6 +8,15 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-08-23-BurningBarge.pdf)
 
+## Key Events
+
+- Thor's allies offered access to the King's Council if the party captured Lady Alabaster themselves
+- The party pursued Alabaster to the harbor and boarded her departing vessel
+- A shattered purple crystal spread mind-locking smoke; the ship's sail caught fire
+- The party discovered and freed imprisoned elves below deck
+- Fenris rescued Gal'Rok and Peren from drowning after an anchor fouled their rope
+- Lady Alabaster was captured alive for questioning
+
 ## Recap
 
 In a decaying apartment overlooking a quiet noble courtyard, [Thor](/characters/thor-veteran) asked how the party meant to catch [Lady Alabaster](/characters/lady-alabaster). His allies could arrange a hearing before the King's Council, but political risk kept them from making the arrest themselves. The party chose to watch the district and take Alabaster while she was moving.
@@ -37,15 +46,6 @@ Gal'Rok broke gates and doors while Peren recovered and opened the remaining cel
 The swim ashore nearly killed them. A rope tangled around an anchor and dragged Gal'Rok under. Fenris hauled the anchor and the linked swimmers toward land, then returned when Peren became stuck in a submerged window. He pulled Peren free, forced water from his lungs, and healed him on the bank.
 
 At dawn, the rescued elves lay coughing beside the river. The ship smoldered behind them, and Lady Alabaster remained alive and bound. The party finally had their prisoner and witnesses for the council.
-
-## Key Events
-
-- Thor's allies offered access to the King's Council if the party captured Lady Alabaster themselves
-- The party pursued Alabaster to the harbor and boarded her departing vessel
-- A shattered purple crystal spread mind-locking smoke; the ship's sail caught fire
-- The party discovered and freed imprisoned elves below deck
-- Fenris rescued Gal'Rok and Peren from drowning after an anchor fouled their rope
-- Lady Alabaster was captured alive for questioning
 
 ## See Also
 

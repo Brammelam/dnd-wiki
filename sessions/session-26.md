@@ -10,6 +10,17 @@
 
 **Continuity:** The live table included [Gal'Rok](/characters/galrok) through the nave crisis—the earlier camp-only note in [Session 25](/sessions/session-25) is ambiguous versus this session; reconcile at table if needed.
 
+## Key Events
+
+- Crypt retreat: Fenris *Wind Wall* blackout; Varis carried Peren and used [Amulet of the Living](/characters/varis#notable-equipment); arrow doused one zombie eye; door ram hit Fenris; pus soak; [Blade of the Ethereal](/characters/fenris) on stairs (block, prone, stomp, return)
+- Cobalt orb from [Session 25](/sessions/session-25) still unexplained; possible [Crown Prince](/events/crown-prince-murder) among crypt dead
+- Nave: slime giant fight; Fenris *call lightning*; crowd mistook fallen knight for the Crown Prince
+- Cleric's holy light vs Fenris's Humanus / Ilmater shouts
+- [Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar) *"Stop!"* briefly stalled undead; escape through plaza
+- [Common District](/places/common-district): *Entangle* on pursuers; disguise draught planned for [Humanus Association](/factions/humanus-association) cellar meet
+- [Thor](/characters/thor-veteran) coach toward [Lady Alabaster](/characters/lady-alabaster)
+- Street scuffle with envoy; [Maurus](/characters/maurus) debrief still owed
+
 ## Recap
 
 The party left [Session 25](/sessions/session-25) with [Gregory Alabaster the Fourth](/characters/gregory-alabaster)'s cobalt orb in shards. Undead still poured from the crypt—including a risen corpse among them that might have been the [murdered Crown Prince](/events/crown-prince-murder), the same death that had framed the party. No one at the table knew what the orb had done or who had bound Gregory with it.
@@ -51,17 +62,6 @@ Over quiet drinks they compared notes: [Humanus Association](/factions/humanus-a
 They still owed [Maurus](/characters/maurus) answers while pamphlets called them kingslayers. The party tried to corner an overdressed envoy tied to Lady Alabaster's messaging. A drunken ruse fell apart into a brawl: Gal'Rok knocked heads with the flat of her glass axe, Varis shattered fine glass to distract a furious noblewoman, and their target slumped unconscious with one gold and torn stitching in his purse—signs someone had already rifled his delivery.
 
 Dressing as counts wholesale could wait. They would rather heal, or push straight into the Lady's salon, than stumble into noble company with blood still on their cloaks.
-
-## Key Events
-
-- Crypt retreat: Fenris *Wind Wall* blackout; Varis carried Peren and used [Amulet of the Living](/characters/varis#notable-equipment); arrow doused one zombie eye; door ram hit Fenris; pus soak; [Blade of the Ethereal](/characters/fenris) on stairs (block, prone, stomp, return)
-- Cobalt orb from [Session 25](/sessions/session-25) still unexplained; possible [Crown Prince](/events/crown-prince-murder) among crypt dead
-- Nave: slime giant fight; Fenris *call lightning*; crowd mistook fallen knight for the Crown Prince
-- Cleric's holy light vs Fenris's Humanus / Ilmater shouts
-- [Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar) *"Stop!"* briefly stalled undead; escape through plaza
-- [Common District](/places/common-district): *Entangle* on pursuers; disguise draught planned for [Humanus Association](/factions/humanus-association) cellar meet
-- [Thor](/characters/thor-veteran) coach toward [Lady Alabaster](/characters/lady-alabaster)
-- Street scuffle with envoy; [Maurus](/characters/maurus) debrief still owed
 
 ## See Also
 

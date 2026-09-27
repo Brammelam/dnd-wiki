@@ -8,6 +8,11 @@
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-09-08-Session2.md)
 
+## Key Events
+
+- [Mercenary Ambush](/events/mercenary-ambush) — The countess's revenge
+- Discovery that the killed guards had noble connections
+
 ## Recap
 
 After a **cart crash** on the road, the party was hunted by mercenaries led by ex-guard **[Fat Hans](/characters/fat-hans)**.
@@ -20,11 +25,6 @@ The party:
 - Took a **compass** and other gear
 - Tied [Fat Hans](/characters/fat-hans) and surviving mercenaries **to a tree**
 - Moved on
-
-## Key Events
-
-- [Mercenary Ambush](/events/mercenary-ambush) — The countess's revenge
-- Discovery that the killed guards had noble connections
 
 ## New Characters
 

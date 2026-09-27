@@ -8,6 +8,14 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-10-26-DiorCryptEscape.pdf)
 
+## Key Events
+
+- [Dior Crypt Expedition](/events/dior-crypt) concludes
+- Dragon's oath and quest
+- Goblin battle with goblin-intestine rope engineering
+- Toltec delivery — 200 gold
+- Wedding attack planning begins
+
 ## Recap
 
 ### Gal'Rok Alone
@@ -49,14 +57,6 @@ The next morning, they delivered the **mysterious box** to [Toltec](/characters/
 That evening, the party began planning an attack on the upcoming wedding. Initial plans were dramatic: fire the temple from the gallery while playing sad music, lock doors, use entangle to trap victims, and employ fire arrows and elemental arrows. They debated buying expensive magical arrows (100 gold each) and discussed the cursed knives' stacking bleed effect.
 
 The session ended with the party's dark plans taking shape.
-
-## Key Events
-
-- [Dior Crypt Expedition](/events/dior-crypt) concludes
-- Dragon's oath and quest
-- Goblin battle with goblin-intestine rope engineering
-- Toltec delivery — 200 gold
-- Wedding attack planning begins
 
 ## Loot Summary
 

@@ -8,6 +8,11 @@
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2024-11-16-Session4.md)
 
+## Key Events
+
+- [Azure Oak Quest](/events/azure-oak-quest) concludes — Seed sold for 120 gold
+- First visit to [Rinden](/places/rinden) and [Saltside](/places/saltside)
+
 ## Recap
 
 The party defeated the **hostile fairies** from the previous session's cliffhanger. The thorns around the Azure Oak wilted, and a **small blue fairy** appeared from the tree, granting permission to take a **seed**.
@@ -23,11 +28,6 @@ In [Rinden](/places/rinden), they entered the wealthy **[Saltside](/places/salts
 - **[The Academy](/factions/the-academy) representative** — Offered services instead of gold; declined
 
 The session ended with the party 120 gold richer and free to plan their next move.
-
-## Key Events
-
-- [Azure Oak Quest](/events/azure-oak-quest) concludes — Seed sold for 120 gold
-- First visit to [Rinden](/places/rinden) and [Saltside](/places/saltside)
 
 ## New Locations
 

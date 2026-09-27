@@ -8,6 +8,14 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-10-12-DiorTheCrypt.pdf)
 
+## Key Events
+
+- [Dior Crypt Expedition](/events/dior-crypt) continues
+- River crossing with acrobatic rescue
+- Goblin encounters in underground city
+- Fire elemental battle
+- Dragon emergence
+
 ## Recap
 
 The session opened with the magical trap's vine-like tendrils seizing [Fenris](/characters/fenris)'s hands as the door slammed shut, separating [Gal'Rok](/characters/galrok) on the other side. [Varis](/characters/varis) and [Peren](/characters/peren) frantically pulled Fenris free and rolled clear.
@@ -46,14 +54,6 @@ The battle was devastating:
 After the elemental fled, a **mushroom patch** grew around the sarcophagus. Then the **ceiling exploded** — a massive reddish dragon claw emerged. A dragon head appeared, flames licking. Fenris approached in awe: *"Magnificent."* The dragon responded with a **fireball** directly at him, knocking him unconscious.
 
 The session ended with Varis and Peren standing in dust and smoke, needing to decide their next move with the dragon looming and Fenris down.
-
-## Key Events
-
-- [Dior Crypt Expedition](/events/dior-crypt) continues
-- River crossing with acrobatic rescue
-- Goblin encounters in underground city
-- Fire elemental battle
-- Dragon emergence
 
 ## Combat Highlights
 

@@ -8,16 +8,16 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-07-19-FortJohnTwo.pdf)
 
+## Key Events
+
+- Infiltration and social mapping of Fort John's factions
+- Fenris discovered; tension between baron's pay and rebel sympathies
+
 ## Recap
 
 **Fenris** (squirrel) **infiltrated** the tower — storage rooms, card-players, beer barrels. A drunken slip exposed him; **Karl**'s people caged the "squirrel." **Gal'Rok** talked her way into the **hidden beer cellar**, meeting **Berg**, **Frank**, and **Sofia** — reluctant soldiers and rebels charting **Frida**'s leadership.
 
 Combat and chaos followed: Fenris bit a guard, dropped Wild Shape, cast **Entangle**. The party navigated loyalties inside the fort — who was pressed into service, who wanted negotiation. They learned **Karl** was captive but central to any settlement between baron and rebels.
-
-## Key Events
-
-- Infiltration and social mapping of Fort John's factions
-- Fenris discovered; tension between baron's pay and rebel sympathies
 
 ## Related
 

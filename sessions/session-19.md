@@ -8,6 +8,13 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-12-07-DiorPlanWedding.pdf)
 
+## Key Events
+
+- Temple infiltration via cat chaos
+- [Helga](/characters/helga) surveillance begins
+- Shopping for elemental arrows and potions
+- Cursed knife mechanics explored
+
 ## Recap
 
 With two days until the wedding, the party shifted from brute-force plans to reconnaissance and infiltration of the temple on [Dior](/places/dior)'s lake.
@@ -47,13 +54,6 @@ The cat (Fenris) continued causing havoc — climbing curtains, scratching a ser
 Peren examined the **cursed rust knives** from the crypt. Each cut opens a wound that bleeds worse with each activation — stacking damage that becomes severe with multiple cuts. Peren admitted his blood aversion makes these weapons especially problematic for him personally.
 
 The session ended with one day remaining before the wedding, plans still forming.
-
-## Key Events
-
-- Temple infiltration via cat chaos
-- [Helga](/characters/helga) surveillance begins
-- Shopping for elemental arrows and potions
-- Cursed knife mechanics explored
 
 ## New Locations
 

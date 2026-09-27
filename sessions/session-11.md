@@ -8,6 +8,13 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-05-22-LakeHydraCombat.pdf)
 
+## Key Events
+
+- Hydra boss fight; reunion of split party via fey guidance
+- Gal'Rok's glass weapon trade
+- Triple-crystal pact with undeath-aligned portal; oracle-orc caveat ignored; **[Fenris](/characters/fenris)**: **Blade of the Ethereal**; **[Elowen](/characters/elowen)**: **Sprout**, **Nathair's Mask**; planar consequence **unresolved**
+- Amulet of the Living (**[Varis](/characters/varis)**) as additional session loot from the delve
+
 ## Recap
 
 **Varis** and **Fenris** fought a **multi-headed hydra** in a flooded cavern — Fenris tried crocodile and **giant octopus** forms while Varis dove in with rapier and poisoned arrows. **Gal'Rok**, separated in the **Fey-touched forest**, met the **Glassmaker** and traded iron gear for a **glass axe** and glasses; a blue fey (**[Sommerhimmel](/characters/sommerhimmel)**) guided her back toward the party.
@@ -25,13 +32,6 @@ The hydra **regrew heads**; the battle dragged from water to shore. Gal'Rok's gl
 Removing every crystal **risked weakening the barrier** feeding that undead-aligned gate—stakes left as an open threat for later play ([Lake Hydra Hunt](/events/lake-hydra-hunt)).
 
 Separate **random/session loot:** **[Varis](/characters/varis)** recovered **Amulet of the Living** while working the hydra-stronghold delve.
-
-## Key Events
-
-- Hydra boss fight; reunion of split party via fey guidance
-- Gal'Rok's glass weapon trade
-- Triple-crystal pact with undeath-aligned portal; oracle-orc caveat ignored; **[Fenris](/characters/fenris)**: **Blade of the Ethereal**; **[Elowen](/characters/elowen)**: **Sprout**, **Nathair's Mask**; planar consequence **unresolved**
-- Amulet of the Living (**[Varis](/characters/varis)**) as additional session loot from the delve
 
 ## Related
 

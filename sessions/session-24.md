@@ -8,6 +8,14 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-04-12-ReturnToMorgansKeep.pdf)
 
+## Key Events
+
+- [Return to Morgan's Keep](/events/return-to-morgans-keep)
+- Escort Knut and [Anne](/characters/anne-knutsen); Betty sale; courier hire brewing
+- [Frontier](/places/frontier-outskirts) / Morgan's Keep atmosphere — watchful guards
+- Reunion with [Thor](/characters/thor-veteran); intelligence on [Humanus Association](/factions/humanus-association) and **the Hole**
+- Spymaster path toward [Crypt of Alabaster](/places/crypt-of-alabaster) and exoneration
+
 ## Recap
 
 Smoke still hung over the land when **Varis** and **Fenris** returned to **[Knut Pilsen](/characters/knut-pilsen)** and his daughter **[Anne Knutsen](/characters/anne-knutsen)**, soot-stained after the fires. Villagers knew little of fire-throwers in town; fear lingered where the forest had jumped the river. Knut and Anne meant to try their luck toward **Morgan's Keep** and thanked the pair.
@@ -35,14 +43,6 @@ Varis pursued leads on **[Lieutenant Jet](/characters/lieutenant-jet)**'s wife i
 Evening closed in: Varis at a **closing tavern**, **Thor** returning with his superior **[Magda](/characters/magda)** — a one-armed **half-orc** in **General Kamp**’s intelligence network, not an artificer — threads to tighten next session.
 
 Later, Varis and Fenris sat with a **spymaster** who would help if **Thor vouched** for them. **[Lieutenant Jet](/characters/lieutenant-jet)** and his wife's **Humanus debt** framed the frame-up against the party. The service offered **false papers**, cover, and a **limited-use ring** to question the recent dead — they need to reach **[Gregory Alabaster](/characters/gregory-alabaster)**’s remains in the **[Crypt of Alabaster](/places/crypt-of-alabaster)** (*the man who has passed*). Fenris lacked necromancy; Varis countered with **[Brad](/characters/brad-academy-student)**'s papers and **medallion** evidence. Next step agreed: **Crypt of Alabaster** — infiltration, disguises, and the long work of **clearing their names**.
-
-## Key Events
-
-- [Return to Morgan's Keep](/events/return-to-morgans-keep)
-- Escort Knut and [Anne](/characters/anne-knutsen); Betty sale; courier hire brewing
-- [Frontier](/places/frontier-outskirts) / Morgan's Keep atmosphere — watchful guards
-- Reunion with [Thor](/characters/thor-veteran); intelligence on [Humanus Association](/factions/humanus-association) and **the Hole**
-- Spymaster path toward [Crypt of Alabaster](/places/crypt-of-alabaster) and exoneration
 
 ## Related
 

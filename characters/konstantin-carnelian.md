@@ -15,6 +15,13 @@
 
 **Konstantin Carnelian** hunted the party on a **Tom** murder accusation on behalf of [Lady Alabaster](/characters/lady-alabaster). The party **saw him in [Rinden](/places/rinden) before [Session 14](/sessions/session-14)**. [Markus](/characters/markus-lieutenant) helped the party avoid him during the endgame of the [Fort John Rebellion](/events/fort-john-rebellion). He later confronted [Varis](/characters/varis) and [Fenris](/characters/fenris) under a **blood-red moon** ([Session 15](/sessions/session-15)): defeated, he admitted the hire, surrendered a **magic compass** that tracked Varis, and accepted **limited healing** in exchange for gold and oaths. He **promised to leave the party in peace** afterward.
 
+## Connections
+
+- **[Lady Alabaster](/characters/lady-alabaster)** — hired him to pursue the party over Tom's death.
+- **[Varis](/characters/varis)** — tracked with a magic compass, surrendered after their fight in [Session 15](/sessions/session-15).
+- **[Markus](/characters/markus-lieutenant)** — helped the party avoid him during the [Fort John Rebellion](/events/fort-john-rebellion).
+- **[Viktor Carnelian](/characters/viktor-carnelian)** — their exact relationship has not been established.
+
 ## See Also
 
 - [Fort John Rebellion](/events/fort-john-rebellion)

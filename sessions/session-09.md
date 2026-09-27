@@ -8,6 +8,11 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-03-22-S8-Snakes%26Fey.pdf)
 
+## Key Events
+
+- Poison training with Thorn; sea serpent harvest
+- Elowen's fey visions (Grimm, Bobble) and looming ritual cost
+
 ## Recap
 
 Varis, Peren, and Elowen sought **[Thorn](/characters/thorn-alchemist)**, a reclusive poison expert recommended by **[Griselda](/characters/griselda-mud-street)**. Thorn lived by the sea with a small stone tower. Wary but curious, he taught [Elowen](/characters/elowen) recipes (including **"Dobbelsvin"**) and sent them to an **island sea serpent** for venom.
@@ -17,11 +22,6 @@ Thorn had **rubbed sleeping potion on the oars** of the rowboat so several of th
 The **serpent fight** was desperate: poison clouds, bites, and narrow survival. Back at Thorn's, Elowen deepened her craft — and suffered **visions**: caged beings **Grimm** and **Bobble** in flame, a calling tied to the **[Fey Realm](/places/fey-realm)**. A ritual would need a **friend's stick**, **three gold coins**, and **a life** (interpreted with grim care).
 
 Omens of fire and fey obligation set up the party's next steps into stranger magic.
-
-## Key Events
-
-- Poison training with Thorn; sea serpent harvest
-- Elowen's fey visions (Grimm, Bobble) and looming ritual cost
 
 ## Related
 

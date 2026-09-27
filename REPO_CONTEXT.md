@@ -76,6 +76,15 @@ Create `sessions/session-XX.md` following the established format:
 
 > [Read the original session notes](https://gitlab.com/hellesvik/dnd/-/blob/main/History/FILENAME)
 
+## Key Events
+
+- Short bullet list summarizing the major beats
+- Each referencing relevant wiki pages
+
+## Still Unresolved
+
+- One or two questions left open at the end of this session, when applicable
+
 ## Recap
 
 [Narrative paragraphs with internal links to characters, places, events, and factions.]
@@ -83,11 +92,6 @@ Create `sessions/session-XX.md` following the established format:
 ### [Subsection for each scene/beat]
 
 [Details...]
-
-## Key Events
-
-- Bullet list summarizing the major beats
-- Each referencing relevant wiki pages
 
 ## New Characters
 
@@ -162,7 +166,7 @@ Open `.vitepress/config.ts` and add entries to the relevant sidebar sections:
 
 Add rows/entries to the relevant index files:
 
-- **`sessions/index.md`** — Add a new row to the session log table at the bottom.
+- **`sessions/index.md`** — Add the session to the current story arc in the session log and update the latest-session link. Arcs are newest first; sessions inside each arc stay chronological.
 - **`characters/index.md`** — If new characters, add them to the appropriate section (Allies, Antagonists, Scholars, Other).
 - **`places/index.md`** — If new places, add them to the appropriate category.
 - **`events/index.md`** — If new major events, add a new `wiki-timeline-entry` div.
@@ -174,6 +178,8 @@ Open `.vitepress/theme/WikiHome.vue`:
 
 - Update the `count` numbers in the `categories` array if you added new entity pages.
 - Update the `recentSessions` array: add the new session at the top, remove the oldest (keep 3 entries).
+- Update “Where We Left Off” with the current location, latest developments, one unresolved question, and the new session link. Keep this grounded in the recap.
+- “Mentioned in sessions” lists on entity pages are generated automatically from session Markdown links by `.vitepress/theme/sessions.data.mjs`; no manual list updates are needed. Use “Connections” or the existing “Relationships” section for named relationships, and explicitly label anything not established.
 
 ### 6. Update cross-links in existing pages
 
@@ -182,6 +188,7 @@ If an existing character, place, or event is significantly involved in the new s
 ### 7. Build and verify
 
 ```bash
+node scripts/check-session-mentions.mjs
 npm run build
 ```
 

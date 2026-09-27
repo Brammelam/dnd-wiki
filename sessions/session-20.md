@@ -8,6 +8,14 @@
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-02-01-DiorInviteHelga.pdf)
 
+## Key Events
+
+- [Dior Wedding & Helga Confrontation](/events/dior-wedding) — Setup and opening
+- Compass tracker planted on Helga
+- Illusory rat distraction
+- Guard subdued at chapel
+- Dramatic graveyard confrontation begins
+
 ## Recap
 
 One day before the wedding. The party abandoned the violent wedding attack plan in favor of a direct confrontation with [Helga](/characters/helga).
@@ -52,11 +60,3 @@ Hours passed. Then Helga appeared — flanked by polished, careful soldiers, mor
 [Varis](/characters/varis) shot the lantern — darkness fell. [Peren](/characters/peren) flickered in and out of shadow like a phantom. [Varis](/characters/varis) rappelled from a rooftop in a dramatic cape-flowing entrance. [Fenris](/characters/fenris) stepped forward at the gate, calmly smoking a pipe.
 
 Three figures surrounded Helga among the gravestones.
-
-## Key Events
-
-- [Dior Wedding & Helga Confrontation](/events/dior-wedding) — Setup and opening
-- Compass tracker planted on Helga
-- Illusory rat distraction
-- Guard subdued at chapel
-- Dramatic graveyard confrontation begins
