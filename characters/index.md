@@ -47,7 +47,7 @@ The party of fugitives framed for the [Crown Prince's murder](/events/crown-prin
 - **[Toltec](/characters/toltec)** — Dragonborn academic at [The Academy](/places/the-academy) in Dior
 - **[Tore Idle](/characters/tore-idle)** — Dragonborn smith in Dior
 - **[Thorn](/characters/thorn-alchemist)** — Coastal poison expert near [Havfika](/places/havfika)
-- **[Rudolf the Great](/characters/rudolf-the-great)** — Appraiser on the road to Dior
+- **[Rudolf the Great](/characters/rudolf-the-great)** — Wizard and appraiser in [Calen](/places/calen)
 
 ### Fort John & Fey
 

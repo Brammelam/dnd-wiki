@@ -25,7 +25,7 @@ Sessions 19–23
 |---|------|-------|---------|
 | 19 | 2025-12-07 | [Wedding Plans in Dior](/sessions/session-19) | Varis, Peren, Fenris, Gal'Rok |
 | 20 | 2026-02-01 | [Helga, Come Alone](/sessions/session-20) | Varis, Peren, Fenris |
-| 21 | 2026-02-15 | [Graveyard Confrontation](/sessions/session-21) | Varis, Peren, Fenris, Gal'Rok |
+| 21 | 2026-02-15 | [Graveyard Confrontation](/sessions/session-21) | Varis, Fenris, Gal'Rok |
 | 22 | 2026-03-01 | [Burning of Sire](/sessions/session-22) | Fenris, Gal'Rok |
 | 23 | 2026-03-29 | [Salt, Thorn & Cheese](/sessions/session-23) | Varis, Peren |
 

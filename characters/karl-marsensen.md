@@ -9,11 +9,14 @@
 | **Role** | Rebel figurehead / prisoner |
 | **Base** | [Fort John](/places/fort-john) |
 | **Status** | Captive (during crisis) |
-| **First Seen** | [Session 12](/sessions/session-12) |
+| **First Mentioned** | [Session 12](/sessions/session-12) |
+| **First Seen** | [Session 13](/sessions/session-13) |
 
 </WikiInfobox>
 
 **Karl Marsensen**'s arrest triggered the [Fort John Rebellion](/events/fort-john-rebellion). Rebels led in part by his wife **[Frida Marsensen](/characters/frida-marsensen)** held the fort while **[Baron Peridott](/characters/baron-peridott)** besieged it.
+
+While still a prisoner, Karl told [Gal'Rok](/characters/galrok) and [Varis](/characters/varis) that surrender without a food agreement would leave the town facing winter famine. He offered gold and goods for his freedom and an opportunity to negotiate with [Baron Peridott](/characters/baron-peridott). The pair considered disguises, a staged execution, and smuggling him out in a rug, but no rescue had occurred by the end of [Session 13](/sessions/session-13).
 
 ## See Also
 

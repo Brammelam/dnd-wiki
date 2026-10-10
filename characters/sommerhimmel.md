@@ -10,7 +10,7 @@
 | **Role** | Fey entity |
 | **Base** | [Fey Realm](/places/fey-realm) |
 | **Status** | Active |
-| **First Seen** | [Session 10](/sessions/session-10) |
+| **First Seen** | [Session 8](/sessions/session-08) (Elowen's dream) |
 
 </WikiInfobox>
 
@@ -18,9 +18,11 @@
 
 ## Role in the Story
 
-Sommerhimmel was angry at Elowen for **lying to the fey**. Rather than punishing her outright, Sommerhimmel sent Elowen on a task: to find a **hidden treasure** in a grove. This led the party to discover a secret phrase that opened an **ancient elven military outpost** near [Hooves Bay](/places/hooves-bay).
+Sommerhimmel first appeared to [Elowen](/characters/elowen) in a dream on the road from [Rinden](/places/rinden). She introduced herself as Queen Titania's messenger and said Elowen's new powers came from Titania, in return for a future task whose details she did not reveal ([Session 8](/sessions/session-08)).
 
-The encounter demonstrated that the fey take honesty seriously and that deception in the [Fey Realm](/places/fey-realm) has consequences — though sometimes those consequences lead to unexpected rewards.
+Sommerhimmel later confronted [Elowen](/characters/elowen) for lying to the fey and directed her to find hidden treasure in a grove. This led the party to discover a secret phrase that opened an ancient elven military outpost near [Hooves Bay](/places/hooves-bay) ([Session 10](/sessions/session-10)).
+
+During the infiltration of [Fort John](/places/fort-john), Sommerhimmel appeared through a portal and confronted [Elowen](/characters/elowen) over the removal of all three relics from the [hydra lair](/events/lake-hydra-hunt). The messenger took her away, leaving her companions unable to contact her ([Session 12](/sessions/session-12)).
 
 ## Relationships
 

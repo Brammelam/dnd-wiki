@@ -16,13 +16,17 @@
 
 ## Recap
 
-All four characters lived in [Morgan's Keep](/places/morgans-keep), capital of the [Kingdom of Morgan](/places/kingdom-of-morgan). They were **arrested for the murder of the Crown Prince** — a crime they denied committing. The interrogator [Lynch](/characters/lynch) oversaw their questioning.
+### Arrest and escape
 
-The party managed to **escape**, fighting their way to a gate and fleeing the capital. They rested in a barn outside the city, where they encountered a farmer the next morning.
+[Flint](/characters/flint), [Peren](/characters/peren), [Thia](/characters/thia), and [Varis](/characters/varis) lived separately in [Morgan's Keep](/places/morgans-keep), capital of the [Kingdom of Morgan](/places/kingdom-of-morgan). City guards woke and arrested them during the night for the [Crown Prince's murder](/events/crown-prince-murder). They were placed together in a cell to await the interrogator [Lynch](/characters/lynch).
 
-Taking the road toward [Rinden](/places/rinden), they stopped at [Greenfield](/places/greenfield), a small town. There they heard a disturbing rumor: the Crown Prince was dead, and the "guilty" had been caught and were to be hanged. This was **inconsistent** with the party's own experience — they had escaped, so who was being executed in their place?
+Refusing to hang for a crime they had not committed, the prisoners [escaped](/events/escape-from-morgans-keep), fought their way through a city gate, and fled into the night. They rested in a barn outside the city and moved on after encountering its owner the next morning.
 
-The session ended with the party heading toward [Rinden](/places/rinden) to learn more about the conspiracy.
+### News in Greenfield
+
+Taking the road toward [Rinden](/places/rinden), the party stopped at [Greenfield](/places/greenfield) and rented rooms. [Peren](/characters/peren) heard that the Crown Prince was indeed dead, but that the supposed murderers had already been caught and would hang the following day.
+
+The report did not fit the party's escape. Someone else appeared to be facing execution for the same crime. They decided to continue to [Rinden](/places/rinden) to learn more.
 
 ## New Characters
 

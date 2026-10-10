@@ -15,19 +15,17 @@
 
 ## Recap
 
-The party defeated the **hostile fairies** from the previous session's cliffhanger. The thorns around the Azure Oak wilted, and a **small blue fairy** appeared from the tree, granting permission to take a **seed**.
+### Leaving Turn
 
-Returning toward [Turn](/places/turn), they encountered a **tent camp of soldiers**. The trader Hagenfeld offered **100 gold (Rinden currency)** for the seed, but they declined.
+The party defeated the hostile fairies. The thorns around the [Azure Oak](/places/azure-oak-grove) wilted, and a small blue fairy emerged from the tree. It granted permission to take the seed and thanked both the party and those who had sent them.
 
-Skipping the **Harvest Festival**, the party headed to [Rinden](/places/rinden) — a two-day journey. [Practical Joe](/characters/practical-joe) warned them that **house guards** were asking questions in Turn, suggesting the authorities were still searching for fugitives.
+On the way back to [Turn](/places/turn), they passed a camp of soldiers. Hagenfeld offered 100 gold for the seed, to be paid when they reached [Rinden](/places/rinden), but they declined. After a night's rest, they decided to skip the Harvest Festival. Before they left, [Practical Joe](/characters/practical-joe) warned them that a noble household's guards were asking questions in town. He did not identify the household.
 
-In [Rinden](/places/rinden), they entered the wealthy **[Saltside](/places/saltside)** district and bluffed their way into a **fancy club**. They tried several buyers:
+### A buyer in Saltside
 
-- **[Toll Guild](/factions/toll-guild) collectors** — No deal
-- **Wealthy ladies** — [Elowen](/characters/elowen) sold the seed for **120 gold**
-- **[The Academy](/factions/the-academy) representative** — Offered services instead of gold; declined
+Two uneventful days later, [Varis](/characters/varis), [Elowen](/characters/elowen), and [Flint](/characters/flint) arrived in [Rinden](/places/rinden). They went to [Saltside](/places/saltside), bluffed their way into an exclusive club, and approached [toll collectors](/factions/toll-guild) and wealthy women about buying the seed.
 
-The session ended with the party 120 gold richer and free to plan their next move.
+[Elowen](/characters/elowen) persuaded one of the women to pay 120 gold. Before the sale was completed, a representative of [the Academy](/factions/the-academy) offered the institution's services in exchange for the seed. The party wanted a price in gold and declined that offer, completing the sale to the woman instead.
 
 ## New Locations
 

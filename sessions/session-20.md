@@ -3,60 +3,55 @@
 | | |
 |---|---|
 | **Date** | 2026-02-01 |
-| **Players** | Varis ([Varis](/characters/varis)), [Peren](/characters/peren), [Fenris](/characters/fenris) |
+| **Players** | [Varis](/characters/varis), [Peren](/characters/peren), [Fenris](/characters/fenris) |
 | **Location** | [Dior](/places/dior), [Tyr Moir](/places/tyr-moir) graveyard |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-02-01-DiorInviteHelga.pdf)
 
 ## Key Events
 
-- [Dior Wedding & Helga Confrontation](/events/dior-wedding) — Setup and opening
-- Compass tracker planted on Helga
-- Illusory rat distraction
-- Guard subdued at chapel
-- Dramatic graveyard confrontation begins
+- A threat delivered by ring drew [Helga](/characters/helga) toward a private meeting
+- [Fenris](/characters/fenris) planted a compass in her belt pouch
+- The party subdued and concealed a guard watching the graveyard
+- The [graveyard confrontation](/events/dior-wedding) began with the lantern extinguished
 
 ## Recap
 
-One day before the wedding. The party abandoned the violent wedding attack plan in favor of a direct confrontation with [Helga](/characters/helga).
+### Preparing a Private Meeting
 
-### The Plan
+One day before the wedding, the party focused on getting an explanation from [Helga](/characters/helga). An abduction during the ceremony would draw too much attention. They first discussed sending an anonymous letter to arrange a meeting in the catacombs, then settled on the hillside graveyard at [Tyr Moir](/places/tyr-moir), where they could watch the approaches and prepare an escape.
 
-They decided to **lure Helga** to a private meeting at the [Tyr Moir](/places/tyr-moir) graveyard, a place they could control:
-- Rented formal clothes from Griselda's "The Blue Cloak"
-- Bought cosmetics for disguise at a potion shop
-- [Bob Swords](/characters/bob-swords) obtained **wedding invitations** for them
-- They scouted the graveyard — a hillside site outside the city with monoliths, a chapel, and rooftop access
+They kept access to the wedding as a fallback. [Bob Swords](/characters/bob-swords) obtained invitations, the Blue Cloak rented them formal clothes, and a potion shop supplied cosmetics for disguises.
 
-### Distracting the Guards
+### The Temple and the Message
 
-At the temple, [Peren](/characters/peren) pulled off a creative distraction: playing a flute to create **illusory rats** that swarmed toward the guard dog at the entrance. The dog panicked, people fell, glass shattered, and chaos erupted. [Varis](/characters/varis) slipped closer to the temple door during the confusion.
+Two guards stood at the temple door, one with a large dog. [Peren](/characters/peren) played the flute to send illusory rats toward the animal. It panicked and ran through the workers, knocking people and glassware aside. [Varis](/characters/varis) moved closer in the confusion while [Fenris](/characters/fenris) posed as a flower seller and dropped a tray of flowers.
 
-### Planting the Tracker
+[Helga](/characters/helga) emerged with soldiers and ordered the workers to improve their preparations. [Varis](/characters/varis) approached through the crowd and used the whisper ring to deliver a threat: meet at [Tyr Moir](/places/tyr-moir) at dusk, come alone, or the wedding would be ruined. Her guards searched immediately, and she withdrew toward the temple with increased security.
 
-[Fenris](/characters/fenris) (as a cat) spotted [Helga](/characters/helga) emerging from the temple. He chased a mouse past her feet and in the moment of contact, **planted the compass** from the [Fat Hans](/characters/fat-hans) mercenary ambush into her belt pouch. She didn't notice.
+### Planting the Compass
 
-### The Message
+The party watched the temple and graveyard while [Helga](/characters/helga) continued her movements through the city. [Varis](/characters/varis) found an elevated hiding place, and [Peren](/characters/peren) used the rooftops to keep watch.
 
-Using a magical ring, [Varis](/characters/varis) delivered a telepathic threat directly into Helga's mind: ***"Meet at Tyr Moir, at dusk or wedding destroyed. Come alone."***
+[Fenris](/characters/fenris), now in cat form, chased a mouse past [Helga](/characters/helga)'s feet and slipped one of the paired compasses into her belt pouch. She did not notice. He returned to his usual form, and the party could follow her with the other compass.
 
-Helga's reaction was immediate — she retreated to the temple steps with extra guards, taking the threat seriously.
+### The Chapel Guard
 
-### Waiting at Tyr Moir
+A lone soldier watched the entrance to the graveyard's chapel. [Peren](/characters/peren) approached from behind, but the guard caught and pinned him. He rolled free, put a knife to the man's throat, and disarmed him. [Varis](/characters/varis) arrived carrying a bouquet, dropped the flowers, and aimed his bow. “Stop!”
 
-The party positioned themselves at the graveyard:
-- **[Varis](/characters/varis)** — Hidden in a bush on the hillside with bow ready
-- **[Peren](/characters/peren)** — Running across rooftops, tracking Helga with the compass
-- **[Fenris](/characters/fenris)** — Posted near the temple entrance, patient and watchful
+The soldier admitted that [Helga](/characters/helga) had sent him to observe arrivals. The party chose to keep him alive. [Peren](/characters/peren) knocked him unconscious, and they bound, gagged, and hid him away from the main path. [Fenris](/characters/fenris) secured the restraints, searched him, and covered the hiding place with grass and leaves.
 
-Hours passed. Then Helga appeared — flanked by polished, careful soldiers, more formal than usual. She walked up the hill toward the graveyard. [Fenris](/characters/fenris) (as a cat) chased a mouse near her again to confirm position.
+To explain his own presence, [Varis](/characters/varis) told the groundskeeper that he had come to visit his grandmother's grave. After hesitating over her name, he followed the woman to a stone marked Bertrude Sandstein and laid a tulip there. Meanwhile, [Peren](/characters/peren) tracked [Helga](/characters/helga) past the lakeside and to a restaurant. She later emerged with four guards, giving the party time to return to their positions.
 
-[Peren](/characters/peren) subdued a guard Helga had posted at the chapel — pinning him, disarming him, knocking him unconscious, binding and gagging him, and hiding the body in a bush.
+### At Dusk
 
-### The Confrontation Begins
+[Helga](/characters/helga) entered the graveyard alone, armored and carrying a heavy hammer. [Fenris](/characters/fenris) watched the gate, [Peren](/characters/peren) hid behind a monument, and [Varis](/characters/varis) waited on a roof.
 
-[Helga](/characters/helga) walked into the graveyard alone, set her lantern on the central statue, and crossed her arms: *"I'm here."*
+[Helga](/characters/helga) placed her lantern on the central statue and crossed her arms. [Varis](/characters/varis) shot out the light. [Peren](/characters/peren) briefly appeared among the gravestones, and [Varis](/characters/varis) lowered himself from the roof. [Fenris](/characters/fenris) stepped forward at the entrance with his pipe.
 
-[Varis](/characters/varis) shot the lantern — darkness fell. [Peren](/characters/peren) flickered in and out of shadow like a phantom. [Varis](/characters/varis) rappelled from a rooftop in a dramatic cape-flowing entrance. [Fenris](/characters/fenris) stepped forward at the gate, calmly smoking a pipe.
+The three surrounded [Helga](/characters/helga), ready to question her.
 
-Three figures surrounded Helga among the gravestones.
+## Still Unresolved
+
+- Would [Helga](/characters/helga) explain who had caused their arrest?
+- Could they finish the meeting without the hidden guard or her other soldiers raising an alarm?

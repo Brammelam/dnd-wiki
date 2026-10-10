@@ -9,38 +9,31 @@
 | **Type** | Exploration / Discovery |
 | **Location** | [Hooves Bay](/places/hooves-bay) |
 | **Session** | [Session 10](/sessions/session-10) |
-| **Participants** | [Elowen](/characters/elowen), [Peren](/characters/peren), Varis |
+| **Participants** | [Elowen](/characters/elowen), [Peren](/characters/peren), [Varis](/characters/varis) |
 
 </WikiInfobox>
 
-At **Hooves Bay**, the party discovered a hidden ancient elven military outpost, guided by a fey entity's punishment-turned-reward.
+After passing [Hooves Bay](/places/hooves-bay), the party found a hidden ancient elven military outpost by following [Sommerhimmel](/characters/sommerhimmel)'s instructions.
 
 ## Arriving at Hooves Bay
 
-After leaving the [Fey Realm](/places/fey-realm) (and the devastating [portal incident](/events/fey-portal)), the party arrived at [Hooves Bay](/places/hooves-bay). A boy asked them for help against **pirates**, but the city guards were inactive. The party chose to leave rather than intervene.
+After leaving the [Fey Realm](/places/fey-realm) and the [portal incident](/events/fey-portal), the party approached [Hooves Bay](/places/hooves-bay). A boy asked them for help against pirates. They investigated, but left after learning that the town guards had made no preparations to defend the settlement.
 
 ## Sommerhimmel's Task
 
-That night, [Sommerhimmel](/characters/sommerhimmel), a fey entity, confronted [Elowen](/characters/elowen) for **lying to the fey**. As a consequence (or perhaps a gift disguised as punishment), Sommerhimmel directed her to find a **hidden treasure** in a nearby grove.
+That night, [Sommerhimmel](/characters/sommerhimmel) confronted [Elowen](/characters/elowen) for lying to the fey and directed her to hidden treasure in a grove beside the road.
 
 ## The Ancient Outpost
 
-Following Sommerhimmel's guidance, the party discovered:
-- A **secret phrase** that opened a concealed entrance
-- An **ancient elven military outpost** hidden underground
-- **Loot** from the ancient armory
-- A **ghost** haunting the corridors
-- A **sealed portal to [Dead Isle](/places/dead-isle)**
-- **Crystals** lining an underground lake
+The next morning, the party found the grove and spoke a secret phrase to open the concealed entrance. Inside the outpost they found loot, met a ghost, and discovered a sealed portal to [Dead Isle](/places/dead-isle). Crystals beside an underground lake appeared to protect the site.
 
-When the party took the **largest crystal**, [Elowen](/characters/elowen) experienced a vision of a **masked woman** who had once been the outpost's protector. Movement was detected in the lake after the crystal was disturbed, but they chose not to investigate.
+The party decided to take the largest crystal. When [Elowen](/characters/elowen) touched it, she saw a masked woman who had saved the place before. Something moved in the lake at the same moment, ending [Session 10](/sessions/session-10) at the start of the danger that became the [lake hydra fight](/events/lake-hydra-hunt).
 
 ## Mysteries Left Behind
 
 - Who was the masked woman?
 - What lies beyond the sealed portal to [Dead Isle](/places/dead-isle)?
-- What was moving in the underground lake?
-- Why did [Sommerhimmel](/characters/sommerhimmel) want Elowen to find this place?
+- Why did [Sommerhimmel](/characters/sommerhimmel) want [Elowen](/characters/elowen) to find this place?
 
 ## Related Events
 

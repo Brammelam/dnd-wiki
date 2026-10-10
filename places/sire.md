@@ -23,7 +23,7 @@ The forest across the river was burning, and the fire had jumped to buildings ne
 
 ## The Pyromancer
 
-In the town square, they encountered a **burned, scarred man** holding a book, surrounded by swirling smoke. He had been deliberately setting fires with magic. [Gal'Rok](/characters/galrok) engaged him in brutal melee, severing his hand with her glass axe, while [Fenris](/characters/fenris) transformed into a giant snake to grapple him. The pyromancer fought back with point-blank fire explosions, knocking both unconscious before finally dying.
+In the town square, they encountered a burned, scarred man holding a book, surrounded by swirling smoke. He had been deliberately setting fires with magic. [Gal'Rok](/characters/galrok) severed his hand with her glass axe, while [Fenris](/characters/fenris) transformed into a giant snake to grapple him. The pyromancer's final explosion killed him and left [Gal'Rok](/characters/galrok) unconscious. [Fenris](/characters/fenris) was burned and nearly exhausted, but remained able to heal her.
 
 [Fenris](/characters/fenris) collected a **glowing medallion** and the pyromancer's book pages as evidence. A dead body in the rubble carried a purse with the name **Sigurd**.
 

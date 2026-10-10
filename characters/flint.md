@@ -30,8 +30,17 @@ Flint was among the first arrested for the [Crown Prince's murder](/events/crown
 ### Selling the Seed (Session 4)
 Flint traveled with [Varis](/characters/varis) and [Elowen](/characters/elowen) to [Rinden](/places/rinden), helping negotiate the sale of the Azure Oak seed.
 
+### Scully Stronghold (Session 6)
+
+Flint's drunken diversion helped mouse-shaped [Fenris](/characters/fenris) reach the barge to [Scully Stronghold](/places/scully-stronghold), but led to his own detention. [Father Terry](/characters/father-terry) accused him of an earlier assault. The supposed victim's confused account did not support the accusation, and the guards released him with a warning ([Session 6](/sessions/session-06)).
+
+### Two Fights in Rinden (Session 7)
+
+During [Griselda](/characters/griselda-mud-street)'s [debt-collection job](/events/rinden-mud-street-brawl), Flint killed one of the hobbits defending the tenants with his warhammer. He argued that the defenders had attacked with weapons first. Later, [Konstantin Carnelian](/characters/konstantin-carnelian) cut him down in a street fight. Enforcers intervened before the party could be finished, and Flint and [Peren](/characters/peren) were carried to the fight pits and stabilized ([Session 7](/sessions/session-07)).
+
 ### The Fey Portal (Session 10)
-In the most traumatic moment of the campaign, Flint's leg had been badly injured during their time in the Fey Realm and was slowing the party down. When they reached a portal to escape, Flint went through but reached back to grab his hammer. The **portal severed his arm at the elbow** — a devastating injury that has permanently changed him. See: [Fey Portal & Flint's Arm](/events/fey-portal).
+
+After the party left the [Fey Realm](/places/fey-realm), [Fenris](/characters/fenris) warned the others that Flint's injured leg was worsening. Flint returned to the portal while they talked. [Fenris](/characters/fenris) ran after him in cat form, but arrived too late: Flint reached through for his hammer, and the closing portal severed his arm at the elbow. See: [Fey Portal & Flint's Arm](/events/fey-portal).
 
 ## Injuries
 

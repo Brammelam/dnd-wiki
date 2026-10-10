@@ -13,11 +13,15 @@
 
 </WikiInfobox>
 
-The **lake hydra fight** reunited a split party after fey travel. [Varis](/characters/varis) and [Fenris](/characters/fenris) battled a **multi-headed hydra** in a flooded cavern — Fenris used crocodile and **giant octopus** forms while Varis fought with rapier and poisoned arrows. The hydra **regrew heads** until killing blows landed; Fenris was dragged underwater before the creature fell.
+The **lake hydra fight** reunited a split party after fey travel. [Varis](/characters/varis) and [Fenris](/characters/fenris) battled a many-headed hydra in a flooded cavern. [Fenris](/characters/fenris) used crocodile and giant octopus forms, while [Varis](/characters/varis) fought with his rapier and poisoned arrows. The hydra regrew a head as the fight continued.
 
-[Gal'Rok](/characters/galrok), separated in the forest, met the **[Glassmaker](/characters/glassmaker-fey)** and traded iron gear for a **glass axe** and glasses; [Sommerhimmel](/characters/sommerhimmel) guided her back toward the others. The glass axe **shattered** taking a hydra head.
+[Gal'Rok](/characters/galrok), separated in the forest, met the [Glassmaker](/characters/glassmaker-fey) and traded her iron gear for a glass axe and glasses. [Sommerhimmel](/characters/sommerhimmel) guided her back toward the others. The axe shattered as she severed a hydra head.
 
-**Crystals guarding an undead-touched gateway:** Encounter site included **three stabilizing crystals** binding **a planar breach** leaned toward undeath—the party sensed relic power locked behind that ward. Voices from inside the crystals manifested as **an orc-ish presence** urging moderation: claiming **fewer** relics would **hurt the seal less**. The table **cleared every node nonetheless:** **[Fenris](/characters/fenris)** took **Blade of the Ethereal**; **[Elowen](/characters/elowen)** took **Sprout** and **Nathair's Mask**.
+When the hydra dragged [Fenris](/characters/fenris) underwater, [Gal'Rok](/characters/galrok) jumped after him and fought with the remaining axe handle. [Fenris](/characters/fenris) broke free, used *Shape Water* to clear their view, and saw the creature's apparently lifeless body sinking. He brought [Gal'Rok](/characters/galrok) back to the surface, where [Varis](/characters/varis) waited with the crystal that had absorbed [Elowen](/characters/elowen).
+
+## The Crystal Ward
+
+Three crystals helped keep a portal to a realm of the dead closed. The campaign's account records an orc presence within them warning that taking one relic would probably leave the ward stable, while taking several could do greater harm. The party took all three: [Fenris](/characters/fenris) claimed Blade of the Ethereal, and [Elowen](/characters/elowen) claimed Sprout and Nathair's Mask.
 
 | Relic | Owner | Summary |
 |---|---|---|
@@ -25,9 +29,13 @@ The **lake hydra fight** reunited a split party after fey travel. [Varis](/chara
 | **Sprout** | [Elowen](/characters/elowen) | **+1** buckler. **Attack of opportunity:** may **cast a spell** instead of attacking; **after successfully blocking** an attack, may **cast a spell** as **a Reaction**. |
 | **Nathair's Mask** | [Elowen](/characters/elowen) | **+2** to illusion magic (attack rolls & save DCs **per ruling**). **Once each dawn**, may cast **_Nathair's Mischief_** **without expending** a spell slot. |
 
-Collateral stress on whatever **warded** those crystals against the undead-adjacent plane remains **campaign suspense**.
+The effect of removing the relics on the portal's seal remained unresolved. The source PDF and the wiki's later inventory corrections differ in detail; [Session 11](/sessions/session-11) records that distinction while preserving the table's allocation.
 
-**Separate loot:** session drops also yielded **[Amulet of the Living](/characters/varis)** (**[Varis](/characters/varis)**).
+[Varis](/characters/varis) also recovered Amulet of the Living during the delve, separately from the three relics.
+
+## Leaving the Cave
+
+Two zombies interrupted the party's attempt to rest. After shooting them down and resting briefly, the survivors left the cave. At sunset, the blade grew back on [Gal'Rok](/characters/galrok)'s glass axe. They saw a fortified hill, tents, and smoke ahead, leading into the [Fort John rebellion](/events/fort-john-rebellion).
 
 ## See Also
 

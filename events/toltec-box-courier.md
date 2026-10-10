@@ -13,11 +13,13 @@
 
 </WikiInfobox>
 
-The **Toltec box contract** began when [Brad](/characters/brad-academy-student), an Academy student, paid [Varis](/characters/varis) and [Elowen](/characters/elowen) **40 gold** to deliver a **locked metal box** to [Professor Toltec](/characters/toltec) in [Dior](/places/dior). The same pair had traveled north after unrest at the gates and a reunion with **[Markus](/characters/markus-lieutenant)**, a guard who knew Varis from military service and who mentioned trouble at [Fort John](/places/fort-john).
+The **Toltec box contract** began when [Brad](/characters/brad-academy-student), an Academy student, paid [Varis](/characters/varis) and [Elowen](/characters/elowen) forty gold in advance and promised another forty for delivering a locked metal box to [Professor Toltec](/characters/toltec) in [Dior](/places/dior). Brad said divination had shown the box arriving safely and assured them it was not dangerous. The pair had just met [Markus](/characters/markus-lieutenant), a guard who knew Varis from military service and was being sent to [Fort John](/places/fort-john).
 
 ## Journey
 
 They haggled for gear, used **detect magic** on market goods, donated to refugees at the walls, and carried the sealed box toward the capital arc in Dior.
+
+The box remained unopened. On delivery, Toltec paid two hundred gold, a larger sum than the balance originally promised ([Session 18](/sessions/session-18)); the notes do not explain the difference.
 
 ## See Also
 

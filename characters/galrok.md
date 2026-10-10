@@ -29,10 +29,13 @@
 In [Turn](/places/turn), when the party encountered angry crowds dealing with drought and food shortages, Gal'Rok quietly gave **2 gold pieces** to poor half-orcs in the crowd — a small but telling act of kindness.
 
 ### Escaping the Crypt (Session 18)
-Gal'Rok was separated from the party by a sealed door in [the Crypt](/places/the-crypt). She solved the button puzzle on her own, crossed the treacherous rope bridge (nearly catching fire from her torch), and reunited with the others just as a massive dragon emerged. She helped carry the heavy treasure chest out and fought through waves of goblins, cleaving through them with her axe while in a rage.
+After being separated from the party by a sealed door in [the Crypt](/places/the-crypt), Gal'Rok tried the buttons without success. The door opened after she waited, though the notes do not explain why. She crossed the rope bridge, nearly catching fire from her torch, and escaped a collapsing bridge as she reached the others. She stabilized the unconscious [Fenris](/characters/fenris), swore the dragon's oath of silence alongside him and [Varis](/characters/varis), and helped carry the treasure out through waves of goblins.
 
 ### Wedding Reconnaissance (Session 19)
-In [Dior](/places/dior), Gal'Rok helped case the temple for the upcoming wedding. He transformed into a cat (via party magic) to follow [Helga](/characters/helga) and later visited a relic shop seeking a device that could capture images.
+In [Dior](/places/dior), Gal'Rok climbed up to survey the temple while [Fenris](/characters/fenris)'s cat diversion allowed [Peren](/characters/peren) inside. The party later sought an image-capturing device at a relic shop and was referred to [the Academy](/places/the-academy). The notes assign later cat surveillance inconsistently among the companions; they do not establish that Gal'Rok could transform.
+
+### Helga's Account (Session 21)
+Gal'Rok joined [Varis](/characters/varis) and [Fenris](/characters/fenris) at the [Tyr Moir](/places/tyr-moir) confrontation with [Helga](/characters/helga). After learning about [Lieutenant Jet](/characters/lieutenant-jet)'s imprisoned wife, she suggested using [Fenris](/characters/fenris)'s ethereal blade to move the woman through a cell wall. It remained an untested escape plan.
 
 ### Burning of Sire (Session 22)
 Gal'Rok and [Fenris](/characters/fenris) rode to investigate fires near [Sire](/places/sire). They rescued [Knut Pilsen](/characters/knut-pilsen) and his daughter from a burning building, with Gal'Rok smothering flames with her cloak despite her own **trauma around fire**. She then fought a pyromancer on the town square, taking a direct fireball to the chest and continuing to fight. She severed the pyromancer's hand with her glass axe in a devastating strike but was eventually knocked unconscious by a point-blank fire explosion before being revived by Fenris.
@@ -49,7 +52,7 @@ Gal'Rok boarded [Lady Alabaster](/characters/lady-alabaster)'s ship, broke her g
 ## Notable Moments
 
 - Gave 2 gp to poor half-orcs in Turn
-- Solved the crypt door puzzle alone while separated from the party
+- Rejoined the crypt expedition after the sealed door reopened and stabilized [Fenris](/characters/fenris)
 - Smothered flames to rescue a child despite fire trauma
 - Severed a pyromancer's hand mid-combat with her glass axe
 

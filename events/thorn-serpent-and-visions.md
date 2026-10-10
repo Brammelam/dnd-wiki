@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **Type** | Alchemy training / combat / visions |
-| **Location** | Coast near [Havfika](/places/havfika), [Thorn](/characters/thorn-alchemist)'s tower, serpent island |
+| **Location** | Coast near [Havfika](/places/havfika), [Thorn](/characters/thorn-alchemist)'s tower, serpent island, [Fey Realm](/places/fey-realm) |
 | **Session** | [Session 9](/sessions/session-09) |
 | **Participants** | [Varis](/characters/varis), [Peren](/characters/peren), [Elowen](/characters/elowen) |
 
@@ -19,7 +19,13 @@ To isolate **[Peren](/characters/peren)** against the beast, Thorn **treated the
 
 ## Visions
 
-[Elowen](/characters/elowen) suffered visions: caged beings **Grimm** and **Bobble** in flame, tied to the [Fey Realm](/places/fey-realm). A future ritual might need a friend's stick, three gold coins, and a life — interpreted with grim care.
+[Elowen](/characters/elowen) saw visions of two captives, Grimm and Bobble, amid flames. Her instructions called for a ritual using a friend's stick, three gold coins, and a life. The party began gathering the ingredients and caught an animal in a snare, keeping it alive while they prepared.
+
+## The Fey Forest
+
+In the [Fey Realm](/places/fey-realm), the party passed a camp of satyrs and gnomes and followed a trail to a guarded wagon. [Peren](/characters/peren) was spotted while approaching, and a fight followed. Afterward, the surviving traders reported that two gnomes had been taken prisoner and moved to a camp deeper in the forest. The party suspected they were Grimm and Bobble.
+
+The source does not explain the crossing into the [Fey Realm](/places/fey-realm) or record the ritual's completion or a rescue. Those gaps remain noted in [Session 9](/sessions/session-09).
 
 ## See Also
 

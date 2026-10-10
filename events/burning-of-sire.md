@@ -47,8 +47,8 @@ The battle was intense:
 4. Fenris **transformed into a giant constricting snake** to grapple the pyromancer and prevent verbal casting
 5. [Gal'Rok](/characters/galrok) landed a devastating axe strike, shattering magical shards
 6. The pyromancer gathered himself for a final **point-blank explosion**
-7. Both [Fenris](/characters/fenris) and [Gal'Rok](/characters/galrok) were **knocked unconscious**
-8. The pyromancer died in his own explosion
+7. [Gal'Rok](/characters/galrok) was knocked unconscious; [Fenris](/characters/fenris) was badly burned and exhausted, but remained able to help her
+8. The pyromancer died in the explosion, and Fenris healed Gal'Rok before they searched the ruins
 
 ## Evidence Collected
 

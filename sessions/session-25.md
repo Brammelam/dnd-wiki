@@ -3,66 +3,63 @@
 | | |
 |---|---|
 | **Date** | 2026-05-10 |
-| **Players** | Varis ([Varis](/characters/varis)), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
-| **Location** | River approach to [Morgan's Keep](/places/morgans-keep); capital **cathedral**; [Crypt of Alabaster](/places/crypt-of-alabaster) |
+| **Players** | [Varis](/characters/varis), [Peren](/characters/peren), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok) |
+| **Location** | Riverside camp outside [Morgan's Keep](/places/morgans-keep), capital cathedral, [Crypt of Alabaster](/places/crypt-of-alabaster) |
 
-> [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/e26997fc4acf908c2698e89446aebeea854db655/History/2026-05-10-MorgansKeep-Crypt.pdf)
+> [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2026-05-10-MorgansKeep-Crypt.pdf)
 
-**Continuity:** [Gal'Rok](/characters/galrok)'s player left **before the party entered the cathedral**—from the nave onward the active table is **Varis, Peren, and Fenris** (Gal'Rok appears only in the riverside camp beats).
+**Continuity:** [Gal'Rok](/characters/galrok)'s player left before the party entered the cathedral. Her appearances inside it in the source notes are transcription errors; the active party there was [Varis](/characters/varis), [Peren](/characters/peren), and [Fenris](/characters/fenris).
 
 ## Key Events
 
-- [Alabaster Crypt Infiltration](/events/alabaster-crypt-infiltration).
-- Mutual **critical-fail Perception** memory beat (**DM withheld extra lore** afterward).
-- [Knut](/characters/knut-pilsen)'s routed cheese gambit (**covert compass**).
-- Wrong wake **Gregory I** sarcophagus; **Fourth Gregory** confrontation chamber.
-- Questioning-ring exchange: **[Humanus Association](/factions/humanus-association)** rotates meetups; last at **[Lieutenant Jet](/characters/lieutenant-jet)** ("Torfinn Jet"); **next** at **[Lady Alabaster](/characters/lady-alabaster)**'s **wine cellar** (~**two hours**); farewell ***Run.***
-- [Varis](/characters/varis) smashed Gregory's cobalt binding orb; undead hostility unchanged.
-- [Varis](/characters/varis) spends **[Amulet of the Living](/characters/varis)** (**1 charge used / 2 remain**) behaving like **_Turn Undead_**.
-- **Blade of the Ethereal** (**[Fenris](/characters/fenris)**' weapon from [Lake Hydra](/events/lake-hydra-hunt)): monk bump → shared **Blink**-like shift (**no HP**); ejection from nave; lawful re-entry / breadcrumbs / **_Wind Wall_** bailout.
-- [Peren](/characters/peren) multi-strike door ordeal (**fractional survival HP**).
+- The party prepared [Knut](/characters/knut-pilsen)'s cheese deliveries and hid a tracking compass in his freight.
+- [Fenris](/characters/fenris)'s Blade of the Ethereal caused an incident with a monk before he rejoined the others in the [Crypt of Alabaster](/places/crypt-of-alabaster).
+- After disturbing the wrong tomb, [Varis](/characters/varis) questioned [Gregory Alabaster the Fourth](/characters/gregory-alabaster) and learned the next [Humanus Association](/factions/humanus-association) meeting was in [Lady Alabaster](/characters/lady-alabaster)'s wine cellar in two hours.
+- Breaking Gregory's blue orb did not stop the undead; the [Amulet of the Living](/characters/varis#notable-equipment) and *Wind Wall* opened a retreat.
+- [Peren](/characters/peren) was gravely wounded while holding the tomb door.
 
 ## Recap
 
-Varis, Peren, Fenris, and [Gal'Rok](/characters/galrok) met at the riverside camp outside [Morgan's Keep](/places/morgans-keep). The whole party tried to recall something important at once; every Perception check failed badly, and the Dungeon Master offered no follow-up—only uneasy silence. Whatever that beat foreshadows remains unstated in play (players had no firm theory confirmed at the table).
+### Riverside camp
 
-[Gal'Rok](/characters/galrok)'s companions noted harsh **burn scarring across her right foot**, still debating professional healing.
+[Varis](/characters/varis), [Peren](/characters/peren), [Fenris](/characters/fenris), and [Gal'Rok](/characters/galrok) met at the riverside camp outside [Morgan's Keep](/places/morgans-keep). Their attempt to recall something important came to nothing. No explanation for that lapse was established. Their attention turned to the old burn across [Gal'Rok](/characters/galrok)'s right foot and whether she needed further healing.
 
-Meanwhile [Peren](/characters/peren) nearly finished upfitting their **wagon**: flip-down beds, ration racks, workable kitchenette for long watches. Cheese sales into the city leaned on **[Knut](/characters/knut-pilsen)** piloting carts; pooled coin supplemented the plan and the party slipped a **hidden tracking compass** into Knut's freight so deliveries could be trailed covertly.
+[Peren](/characters/peren) had nearly finished fitting out the wagon with benches that folded into beds, shelves, and space for provisions and cooking. The party planned to sell cheese to restaurants in the city. They gave [Knut](/characters/knut-pilsen) money for the venture and arranged for him to tidy his appearance before taking samples to prospective buyers. They also hid a tracking compass in his freight so they could follow the deliveries if necessary.
 
-**Gal'Rok parted ways before the trio advanced into the city toward the cathedral.**
+[Gal'Rok](/characters/galrok) left before the other three set out for the cathedral. On the way, [Fenris](/characters/fenris) offered cheese to a street cat and tried unsuccessfully to make more of the encounter with his magic.
 
-[Fenris](/characters/fenris) shared **cheese** with a **street cat**, amusing himself en route to consecrated precincts with [Varis](/characters/varis) and [Peren](/characters/peren).
+### Cathedral and crypt stairs
 
-The cathedral nave ran broad and loud with pilgrims and clergy. Spiral stairs led into chill vaulting that forked six ways; royal heraldry marked one branch while shields of noble lines adorned others—among them [Lady Amber](/characters/lady-amber)'s fish badge.
+The nave was busy with pilgrims and clergy. [Fenris](/characters/fenris) carried his Blade of the Ethereal, the sword he had taken from the relic crystals during the [Lake Hydra Hunt](/events/lake-hydra-hunt). Its magic shifted the wielder and a struck creature between planes before returning them to nearby positions.
 
-[Fenris](/characters/fenris) wields his **Blade of the Ethereal**, won from **relic crystals** guarding an undeath-leaning portal at the [Lake Hydra Hunt](/events/lake-hydra-hunt) ([Session 11](/sessions/session-11); [PDF](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-05-22-LakeHydraCombat.pdf)). **[Elowen](/characters/elowen)** took the **other two** tethered relics (**Sprout**, **Nathair's Mask**). The sword is a **longsword** (1d8 slashing; **versatile** 1d10). **On a hit:** subject wielder **and target** undergo **Blink**-like ethereal phasing for **two turns**, plus **one additional turn** wholly on the Ethereal Plane, after which **both reappear at random nearby locations**.
+While testing it, [Fenris](/characters/fenris) bumped a monk without injuring him. Both vanished and reappeared elsewhere in the cathedral. The shaken monk called for help, and the clergy put the druid outside. [Varis](/characters/varis) and [Peren](/characters/peren) continued farther into the building as though they did not know him. Attempts to pass through the walls with the sword failed to get [Fenris](/characters/fenris) back inside; he eventually returned through the doors.
 
-Testing the weapon, Fenris **bumped** a monk—**no damage dealt**—yet both **blinked out and back seconds later elsewhere in the cathedral**. The unnerved monk rallied brothers; **they ejected the druid**. [Varis](/characters/varis) and [Peren](/characters/peren), already deeper inside and avoiding scandal, **kept walking as if unrelated**. Repeated attempts to "**skip**" walls stranded Fenris outside until **proper doors** admitted him. Stairwell grit led to **[Varis](/characters/varis)' scratched bearings and lodged arrows** marking the sanctioned crypt doorway, where Fenris caught partners already scouting ahead.
+Below the nave, the stairs opened into passages branching in six directions. One bore royal heraldry; others carried the shields of noble houses, including [Lady Amber](/characters/lady-amber)'s fish emblem. [Varis](/characters/varis) left scratched directions and arrows to mark the route into the [Crypt of Alabaster](/places/crypt-of-alabaster), which [Fenris](/characters/fenris) later followed.
 
-Mis-adventurous exploration woke an ornate sarcophagus when Varis donned confiscated coronet—a **pulse of sapphire light**, clawed skeletal grip shouting "**Gregory!**", **tower-shield-bearing bones** scrambling forth. Corridor collapse exposed epitaph declaring **Gregory Alabaster the First**—Peren's call: "**Wrong grave.**"
+### The wrong Gregory
 
-Running battle widened chambers until bouquets marked **Gregory the Fourth's** true resting niche.
+[Varis](/characters/varis) moved a stone panel and found a hidden burial chamber, a diadem, and a purse. He left the purse while he investigated. When he put on the diadem, blue light flashed and a dried hand gripped him. An armed skeleton emerged, followed by more dead from the passages.
 
-[**Gregory Alabaster the Fourth**](/characters/gregory-alabaster) lay among fresh blossoms, a cobalt light in his chest matching the glow in the undead eyes around them.
+Attempts to speak with the skeleton failed. [Peren](/characters/peren) was struck while helping [Varis](/characters/varis), and falling stone revealed the epitaph: Gregory Alabaster the First. "Wrong grave," [Peren](/characters/peren) said. They fought their way onward, using fire to hold the pursuers back, until fresh flowers marked a more recent burial.
 
-The **spymaster's questioning ring** let [Varis](/characters/varis) steer a burst of ordered questions while [Peren](/characters/peren) **braced the cramped crypt door** against **lunging undead**. Varis learned Gregory **could still not quell them**. Asked where the **[Humanus Association](/factions/humanus-association)** convened—*"Where do you hold your Humanus meetups?"*—Gregory replied ***"It varies."*** Pressed further, he explained the circle **chose a new covert site each time**. The prior meeting, he claimed, assembled at **Torfinn Jet** ([Lieutenant Jet](/characters/lieutenant-jet)); conclaves **did not invariably** occupy Jet holdings.
+### Questioning Gregory the Fourth
 
-Further pressing uncovered the next plan: Countess [Lady Alabaster](/characters/lady-alabaster)'s wine cellar. [Peren](/characters/peren) screamed ***"When?"***—Gregory sighed ***"In two hours."*** The questioning grew frantic; Peren rattled ***"How do we get out?"*** The corpse's last rasp was ***"Run."***
+[Gregory Alabaster the Fourth](/characters/gregory-alabaster) lay in thin burial clothes, with blue light shining through his torso. [Varis](/characters/varis) used the intelligence service's questioning ring while [Peren](/characters/peren) took a purse and braced the stone doorway against the undead. He jammed it shut and broke grasping fingers in the gap, but repeated blade thrusts left him badly wounded.
 
-Chaos breached nave floors overhead as Fenris sowed distraction above.
+[Gregory](/characters/gregory-alabaster) could not stop the attackers. Asked where the [Humanus Association](/factions/humanus-association) met, he answered, "It varies." The group chose a different secret location each time; the previous meeting had been at [Lieutenant Jet](/characters/lieutenant-jet)'s premises. The next would take place in [Lady Alabaster](/characters/lady-alabaster)'s wine cellar.
 
-[Varis](/characters/varis) pulled free the floating cobalt sphere that had held Gregory together—shaking it, shouting orders, even pleading with Gregory—then smashed it to glass shards. The undead kept coming.
+"When?" [Peren](/characters/peren) shouted. "In two hours," the corpse replied. As the door threatened to give way, they asked how to escape. His final answer was "Run."
 
-Against the next slam Varis slammed boot and brandished **[Amulet of the Living](/characters/varis)** (**three charges that emulate clerical Turn Undead**), expending **one charge** while **forcing the choke** (**two charges remain**)—nearby dead fled in panic.
+[Fenris](/characters/fenris) caused a disturbance in the nave while trying to reach his companions. Below, [Varis](/characters/varis) pulled the blue orb from [Gregory](/characters/gregory-alabaster)'s body and tried to command it. When shaking it and pleading produced no answer, he smashed it. The undead continued to press against the door.
 
-New waves still rallied farther down corridors.
+### The retreat
 
-From a reunited hallway Fenris cast *Wind Wall*. The gale cut through skeletal ranks; bone splinters flew, but the party took no loot.
+[Varis](/characters/varis) raised the [Amulet of the Living](/characters/varis#notable-equipment) and used one of its three charges. Nearby undead fled as though turned by a cleric, giving the pair room to force their way out. Two charges remained, but more dead were gathering farther down the passages.
 
-Varis and Peren scraped through the gale corridor while riots swelled back toward nave stairs—threads feeding unresolved pressure in the [Crown Prince murder](/events/crown-prince-murder) investigation.
+Reunited with the others, [Fenris](/characters/fenris) opened a door onto another crowd of skeletons and zombies and cast *Wind Wall*. The gale scattered them through the corridor. Bone fragments flew, but the party recovered no further treasure. [Varis](/characters/varis) and the wounded [Peren](/characters/peren) slipped through the opening toward the cathedral stairs, with the dead still behind them.
 
 ## Related
 
+- [Alabaster Crypt Infiltration](/events/alabaster-crypt-infiltration)
 - [Return to Morgan's Keep](/events/return-to-morgans-keep)
-- [Lady Amber](/characters/lady-amber)
+- [Crown Prince Murder](/events/crown-prince-murder)

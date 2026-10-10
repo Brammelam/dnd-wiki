@@ -21,14 +21,14 @@ The **Azure Oak Quest** spanned two sessions, covering the party's search for a 
 
 ## The Hoax
 
-Before venturing into the forest, [Lilith](/characters/lilith) and [Fenris](/characters/fenris) rode into town claiming that an **old town in Rinden had burned**, attempting to manipulate Hagenfeld's pricing. They spread this disinformation to Joe and others.
+Before venturing into the forest, [Lilith](/characters/lilith) and [Fenris](/characters/fenris) devised a hoax. Lilith rode in claiming that [Rinden](/places/rinden)'s Old Town had burned, hoping Hagenfeld would accept the town's timber in exchange for food. The party then explained their plan to [Practical Joe](/characters/practical-joe), who thanked them; the notes do not confirm a trade was completed.
 
 ## Into the Forest
 
 The party entered the forest near Turn and encountered fey magic:
 
-1. **[Gal'Rok](/characters/galrok) was charmed** — A fairy lured him toward a ravine
-2. **[Elowen](/characters/elowen) received a patron Calling** — The first manifestation of her warlock pact
+1. **[Gal'Rok](/characters/galrok) was charmed** — A fairy lured her toward a ravine
+2. **[Elowen](/characters/elowen) received a patron Calling** — It guided the party to the tree
 3. **The Azure Oak** — Found surrounded by protective thorns
 4. **[Fenris](/characters/fenris) in squirrel form** — Climbed to the top of the tree to confront the fey
 5. **Fairy battle** — The disturbed fairies merged into one large fairy that attacked, using roots to threaten the party
@@ -38,7 +38,7 @@ The party entered the forest near Turn and encountered fey magic:
 
 In [Session 4](/sessions/session-04), [Varis](/characters/varis), [Elowen](/characters/elowen), and [Flint](/characters/flint) traveled to [Rinden](/places/rinden):
 
-- Hagenfeld offered **100 gold** (Rinden currency) for the seed — declined
+- Before they left [Turn](/places/turn), Hagenfeld offered **100 gold**, payable in Rinden, for the seed — declined
 - The party skipped Turn's Harvest Festival
 - In the [Saltside](/places/saltside) district, they bluffed their way into a **fancy club**
 - Tried selling to [Toll Guild](/factions/toll-guild) collectors — failed

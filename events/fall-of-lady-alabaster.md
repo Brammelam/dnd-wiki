@@ -15,11 +15,13 @@
 
 ## Summary
 
-The party infiltrated a masked [Humanus Association](/factions/humanus-association) meeting beneath [Lady Alabaster](/characters/lady-alabaster)'s estate and heard its members discuss prisoners, raids against elves, and using the cathedral undead crisis for political gain. Varis identified Alabaster behind one of the masks.
+The party infiltrated a masked [Humanus Association](/factions/humanus-association) meeting beneath [Lady Alabaster](/characters/lady-alabaster)'s estate and heard its members discuss prisoners, raids against elves, and using the cathedral undead crisis for political gain. [Varis](/characters/varis) glimpsed a woman behind a slipping mask and believed she was [Lady Alabaster](/characters/lady-alabaster). The party returned to [Thor](/characters/thor-veteran) with leads, but still needed a confession or firmer evidence to clear their names.
 
-After [Thor](/characters/thor-veteran)'s allies promised access to the King's Council, the party intercepted Alabaster aboard a departing ship. The fight set the vessel ablaze and revealed imprisoned elves below deck. They freed the captives, survived the sinking wreck, and brought Alabaster alive to the palace.
+After [Thor](/characters/thor-veteran)'s allies promised access to the King's Council, the party intercepted [Lady Alabaster](/characters/lady-alabaster) aboard a departing ship. Political risk kept those allies from making the arrest themselves. The fight set the vessel ablaze and revealed imprisoned elves below deck. [Varis](/characters/varis) also recognized a half-orc captive with green marks on her neck from an earlier encounter with [Elowen](/characters/elowen).
 
-Before the council, the cardinal of the [Church of the Triad](/factions/temple-of-tyr) compelled Alabaster to tell the truth. She admitted arranging the party's false accusation in the [Crown Prince murder](/events/crown-prince-murder) and named [Old Garreth](/factions/toll-guild) as the person who ordered her. [Viktor Carnelian](/characters/viktor-carnelian) then attacked her and critically wounded the cardinal, turning the hearing into a battle before the conspiracy could be fully examined.
+They freed the prisoners while the ship flooded. [Peren](/characters/peren) tried to help [Gal'Rok](/characters/galrok) in the river, but their rope caught on an anchor. [Fenris](/characters/fenris) hauled the anchor and swimmers toward shore, then returned to free [Peren](/characters/peren) from a submerged window and revive him. With [Lady Alabaster](/characters/lady-alabaster) alive and bound, the party brought her toward the palace at the head of a crowd demanding a hearing.
+
+Before the council, the cardinal of the [Church of the Triad](/factions/temple-of-tyr) compelled [Lady Alabaster](/characters/lady-alabaster) to tell the truth. She admitted arranging the party's false accusation in the [Crown Prince murder](/events/crown-prince-murder) and named [Old Garreth](/factions/toll-guild) as the person who ordered her. [Viktor Carnelian](/characters/viktor-carnelian) then attacked her. The cardinal intercepted his spear and was wounded in the chest; after [Fenris](/characters/fenris) partially healed her, another strike pierced her throat. The session ended during the fight, with her survival and the rest of the conspiracy unresolved.
 
 ## See Also
 

@@ -6,14 +6,26 @@
 
 | | |
 |---|---|
-| **Role** | Merchant / fence (identifiers) |
-| **Base** | Road toward [Dior](/places/dior) |
+| **Role** | Wizard / magical-item identification |
+| **Base** | [Calen](/places/calen) |
 | **Status** | Active |
 | **First Seen** | [Session 15](/sessions/session-15) |
 
 </WikiInfobox>
 
-**Rudolf the Great** dealt in appraised loot: a **parry sword**, **undead-scaring amulet**, **whisper ring**, and paired **compasses** that always point at each other.
+**Rudolf the Great** is an elderly wizard in [Calen](/places/calen). [Varis](/characters/varis) and [Fenris](/characters/fenris) paid him to identify their equipment while traveling toward [Dior](/places/dior) in [Session 15](/sessions/session-15).
+
+## Identifications
+
+After several hours of work, Rudolf explained the items' properties:
+
+- A sword allowed its bearer to parry and counterattack when an enemy missed.
+- An amulet containing a priest's blood could frighten undead a limited number of times.
+- A ring could whisper telepathically using words stored by its wearer.
+- The two compasses always pointed toward one another.
+- The bow he examined was nonmagical.
+
+[Varis](/characters/varis) attuned to the sword before the pair continued their journey.
 
 ## See Also
 

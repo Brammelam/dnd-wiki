@@ -14,58 +14,54 @@
 
 </WikiInfobox>
 
-The **Dior Crypt Expedition** was a three-session dungeon crawl through a 700-year-old sealed dwarven burial complex beneath [Dior](/places/dior).
+The Dior Crypt Expedition took the party through a dwarven burial complex beneath [Dior](/places/dior), said to have been sealed for seven hundred years. The search for treasure left them bound to a dragon's demand for secrecy and a future task in [Morgan's Keep](/places/morgans-keep).
 
-## Setup (Session 16)
+## Recap
 
-The party spent their first day in Dior preparing:
-- Sold magical glasses to [Lynn Salt](/characters/lynn-salt) at [the Academy](/places/the-academy) for 300 gold
-- Visited [Bob Swords](/characters/bob-swords) and [Tore Idle](/characters/tore-idle) for equipment
-- Met [Carlos](/characters/carlos) on the shadow side, who offered to guide them to a secret entrance for 25% of loot
-- Entered through loose planks in a cellar wall, accessed via the back of the temple near the lake
+### Preparations and the Door — Session 16
 
-## The Descent (Session 17)
+In [Dior](/places/dior), the party sold glasses to [Lynn Salt](/characters/lynn-salt) for three hundred gold and arranged to deliver their sealed box to [Toltec](/characters/toltec). [Bob Swords](/characters/bob-swords) referred them to [Tore Idle](/characters/tore-idle) for a bow repair and to [Carlos](/characters/carlos) for unofficial work.
 
-### Puzzle Door
-Four dwarf statues guarded a sealed stone door. The party solved the button sequence puzzle, but [Gal'Rok](/characters/galrok) was caught by a **magical trap** — threads of light tried to pull her apart, dislocating her shoulder.
+[Carlos](/characters/carlos) offered access to [the Crypt](/places/the-crypt) for a quarter of the recovered treasure, plus a separate commission if he sold their finds. At ten that evening, he led them past the guarded temple entrance to a cellar. Loose boards hid a natural crack into the rock. His bad knee kept him outside, and he warned them about dwarven traps.
 
-### The River Crossing
-A 10-meter gap over a steaming underground river required an improvised rope bridge. [Peren](/characters/peren) crossed first with cat-like agility. [Fenris](/characters/fenris) nearly fell but was rescued by Peren in an acrobatic save.
+The party passed warnings about sacred ground, explored a damaged gallery, and avoided a suspicious stair. Farther down, four dwarf statues guarded a handleless door. Pressing the first button on the first statue, the second on the next, and so on opened it. Threads of magical light caught [Gal'Rok](/characters/galrok) and dislocated her shoulder before her companions cut her free.
 
-### The Underground City
-They discovered an enormous cavern containing an abandoned dwarven city. **Goblins** had moved in, growing mushrooms in the old buildings. Multiple combat encounters with goblin ambushes followed.
+### The River and Underground City — Session 17
 
-### The Fire Elemental
-On a central platform, four dwarf statues guarded a sarcophagus. When [Peren](/characters/peren) took **knives** from one statue, a **fire elemental** erupted. The fight was brutal:
-- The elemental was **resistant to physical damage**
-- [Fenris](/characters/fenris) raised a wind wall and later fought as a polar bear
-- [Varis](/characters/varis) played a bone flute to summon spectral water spirits, driving the elemental into the stone
-- [Peren](/characters/peren) ate mysterious mushrooms growing around the sarcophagus, gaining unpredictable effects
+The next session opened with doorway tendrils seizing [Fenris](/characters/fenris). [Varis](/characters/varis) and [Peren](/characters/peren) pulled him clear as the door shut, leaving [Gal'Rok](/characters/galrok) behind. The notes do not clarify whether this was a second trigger of the trap or a different account of the same incident.
 
-### The Dragon
-A massive dragon emerged from beneath the platform. It spoke **telepathically**, demanding respect and silence. After [Fenris](/characters/fenris) was knocked unconscious by a fireball, the party negotiated:
-- All swore an **oath of silence** about the dragon's existence
-- [Varis](/characters/varis) was **magically branded** as seal of the oath
-- The dragon offered them the treasure chest in exchange for a future task: light a rune in [Morgan's Keep](/places/morgans-keep) and explore a hidden place there
+The party searched stone coffins and collected nineteen ancient coins and twelve rusty hammers. An arrow, climbing rope, and *Entangle* provided a crossing over a ten-meter gap above a steaming river. [Fenris](/characters/fenris) slipped, but [Peren](/characters/peren) caught him and helped him reach the other side.
 
-## Escape (Session 18)
+Beyond lay an abandoned dwarven city built in tiers along a vast cavern. Goblins had occupied the houses and ambushed [Peren](/characters/peren) while the party searched. After defeating them, the group continued to a central platform and a raised stone coffin.
 
-[Gal'Rok](/characters/galrok), separated from the group, solved the puzzle door alone and fought through on her own. The party reunited, fought through waves of goblins, and carried the heavy treasure chest back across the river using rope and — memorably — **goblin intestines** as extra binding.
+### The Elemental and the Voice — Session 17
 
-They emerged to [Carlos](/characters/carlos), who paid **583 gold** for the copper chest and helped fence the other loot.
+Taking knives from a guardian statue brought a fire elemental against the party. [Fenris](/characters/fenris)'s *Wind Wall* struck both it and [Peren](/characters/peren). Ordinary weapons did less damage than expected, and the creature repeatedly set its attackers alight.
 
-## Loot
+The bone flute summoned spectral water creatures that briefly drove the elemental into the stone. It returned amid smoke. [Peren](/characters/peren) hid among mushrooms and ate some, gaining brief healing followed by stomach pain. [Fenris](/characters/fenris) fought as a polar bear, while a later use of the flute by [Peren](/characters/peren) brought two fauns with spears. The party eventually defeated the elemental.
 
-| Item | Value |
-|------|-------|
-| Cursed rust knives | Magical (stacking bleed) |
-| 19 ancient dwarven coins | Collector value |
-| Copper chest | 583 gold (via Carlos) |
-| 12 rusty hammers | Minimal |
-| Mushrooms | Unpredictable effects |
-| Dragon's task | Future quest hook |
+A voice spoke in their minds, telling them that they had earned the knives. It allowed them to open the copper-filled coffin and offered payment in exchange for service and silence. An enormous reddish dragon then appeared. [Fenris](/characters/fenris) approached it in admiration, and its fireball struck him unconscious.
+
+### The Bargain and Escape — Session 18
+
+[Gal'Rok](/characters/galrok)'s attempts at the sealed door's buttons failed. After she waited, it opened for an unexplained reason. She crossed the river and a collapsing bridge to rejoin the others, then stabilized [Fenris](/characters/fenris).
+
+The dragon demanded secrecy. [Varis](/characters/varis) received a magical brand on his thigh, and he, [Fenris](/characters/fenris), and [Gal'Rok](/characters/galrok) swore not to reveal its presence. In return for the treasure chest, they agreed to light a special rune with coal in [Morgan's Keep](/places/morgans-keep) and investigate a hidden site there.
+
+The three fought through waves of goblins on the way out. They hauled the heavy chest over the river using rope reinforced with goblin intestines, then opened the exit with the word “Helligjøp.” [Carlos](/characters/carlos) bought the copper chest for 583 gold; the goblin ears they had collected were worthless to him.
+
+## Recovered Items
+
+- Nineteen ancient dwarven coins and twelve rusty hammers from the burial chambers
+- Knives from the guardian statue; [Session 19](/sessions/session-19) describes worsening bleeding wounds, but the notes do not clearly establish that the blades were cursed
+- The copper chest sold to [Carlos](/characters/carlos) for 583 gold
+- Mushrooms that briefly healed [Peren](/characters/peren) and then upset his stomach
+
+## Still Unresolved
+
+- The dragon's hidden site and the purpose of its rune in [Morgan's Keep](/places/morgans-keep)
 
 ## See Also
 
-- [The Crypt of Dior](/places/the-crypt) — Detailed dungeon description
-- [Carlos](/characters/carlos) — Guide and fence
+- [The Crypt of Dior](/places/the-crypt)
+- [Carlos](/characters/carlos)

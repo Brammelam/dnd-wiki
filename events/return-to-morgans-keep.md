@@ -13,7 +13,7 @@
 
 </WikiInfobox>
 
-**Return to Morgan's Keep** covers [Varis](/characters/varis) and [Fenris](/characters/fenris) escorting [Knut](/characters/knut-pilsen) and [Anne](/characters/anne-knutsen) toward the capital after the [Burning of Sire](/events/burning-of-sire). Varis studied the **pyromancer medallion** (*Temple of Life*; names **Catherine** / **Katinka**). They sold **Betty** the horse to give Knut coin, stayed at **[The Final Straw](/places/the-final-straw)** on the **[Frontier](/places/frontier-outskirts)**, and began rebuilding livelihoods with wagon and courier plans.
+**Return to Morgan's Keep** covers [Varis](/characters/varis) and [Fenris](/characters/fenris) escorting [Knut](/characters/knut-pilsen) and [Anne](/characters/anne-knutsen) toward the capital after the [Burning of Sire](/events/burning-of-sire). Varis studied the pyromancer's medallion and the burned pages; the wording *Temple of Life* came from the pages, and the names Catherine or Katinka remained uncertain. The pair agreed to buy Knut's horse Betty for thirty-five gold to help the family, stayed at [The Final Straw](/places/the-final-straw) on the [Frontier](/places/frontier-outskirts), and began making plans for a wagon and courier work.
 
 ## Intelligence network
 

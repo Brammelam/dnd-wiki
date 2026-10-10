@@ -23,7 +23,7 @@ Tore examined [Varis](/characters/varis)'s damaged bow and offered to repair it 
 - A **more powerful bow** with longer range but harder to aim
 - A **standard bow** that was easier to handle but with shorter range
 
-Varis chose the powerful option, valuing precision and force. Tore showed interest in customizing the weapon to Varis's specific needs and discussed possible upgrades, though at premium prices.
+[Varis](/characters/varis) chose greater power and range despite the aiming difficulty, leaving the bow for repair in [Session 16](/sessions/session-16). Tore also discussed more expensive custom upgrades. The repaired bow was described again after the crypt expedition in [Session 18](/sessions/session-18).
 
 ## Relationships
 

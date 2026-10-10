@@ -12,33 +12,33 @@
 
 - [Thor](/characters/thor-veteran) supplied a Humanus cloak, mask, cellar plans, and the password *"Crystal goblet"*
 - The party overheard plans involving prisoners, western pirates, arrested elves, and political use of the cathedral undead
-- Peren's hiding place was exposed; Fenris's bone flute and *Wind Wall* broke the search
-- Varis identified [Lady Alabaster](/characters/lady-alabaster) behind a Humanus mask
-- The party committed to capturing her and bringing evidence before the King's Council
+- [Peren](/characters/peren)'s hiding place was exposed; [Fenris](/characters/fenris)'s bone flute and *Wind Wall* broke the search
+- [Varis](/characters/varis) recognized a masked woman as likely to be [Lady Alabaster](/characters/lady-alabaster).
+- The party returned to [Thor](/characters/thor-veteran) and resolved to capture her for a confession or further evidence.
 
 ## Recap
 
-The party held [Lieutenant Preben Jet](/characters/lieutenant-jet) in a plain apartment while [Thor](/characters/thor-veteran) prepared their next move. A Humanus meeting would begin beneath [Lady Alabaster](/characters/lady-alabaster)'s house in half an hour. Varis received a dark-blue cloak, a narrow-eyed metal mask, the cellar plans, and the password: *"Crystal goblet."* Peren would enter separately, while Fenris changed into a rat and rode in Varis's pocket.
+The party held [Lieutenant Preben Jet](/characters/lieutenant-jet) in a plain apartment while [Thor](/characters/thor-veteran) prepared their next move. A Humanus meeting would begin beneath [Lady Alabaster](/characters/lady-alabaster)'s house in half an hour. [Varis](/characters/varis) received a dark-blue cloak, a narrow-eyed metal mask, the cellar plans, and the password: *"Crystal goblet."* [Peren](/characters/peren) would enter separately, while [Fenris](/characters/fenris) changed into a rat and rode in [Varis](/characters/varis)'s pocket.
 
 ### The wine cellar
 
-Varis passed the woman at the rear door and joined masked members among barrels, crates, and an incongruously comfortable card table. A broad guard in plate watched the room with a staff and sword. Peren tested one old window too loudly, withdrew, then climbed through another; a loose stone fell from its frame. Varis found a storage alcove stacked with grain and potatoes, where Fenris chased mice from a torn sack to draw attention from Peren's entry.
+[Varis](/characters/varis) passed the woman at the rear door and joined masked members among barrels, crates, and an incongruously comfortable card table. A broad guard in plate watched the room with a staff and sword. [Peren](/characters/peren) tested one old window too loudly, withdrew, then climbed through another; a loose stone fell from its frame. [Varis](/characters/varis) found a storage alcove stacked with grain and potatoes, where [Fenris](/characters/fenris) chased mice from a torn sack to draw attention from [Peren](/characters/peren)'s entry.
 
 From hiding, they listened to the [Humanus Association](/factions/humanus-association) discuss prisoners, western pirates, and an operation that had gone according to plan. The speakers named Preben Jet and reported that the alleged killers of the Crown Prince had returned to the city and been seen at the cathedral. Their account of the conspiracy was fractured: some members appeared complicit, others ignorant, and someone might have been acting without the full society's knowledge.
 
-The council also discussed [Gregory Alabaster](/characters/gregory-alabaster), the dead rising in the cathedral, and how fear could be used against the elves. With the elven council already arrested and the cardinal returning, they proposed spreading rumors, pressuring the church, and exploiting the unrest for political gain.
+The members also discussed [Gregory Alabaster](/characters/gregory-alabaster) and the dead rising in the cathedral. They said he had returned from a journey changed, and debated whether the danger came from his own magic or something he had brought home. With the elven council already arrested and the cardinal returning, they proposed spreading rumors, pressuring the church, and using fear of the undead against the elves.
 
 ### Discovered
 
-Guards searched the stores after noticing signs of entry. They overturned boxes, rolled apples across the floor, and stabbed into tables and barrels. Peren wrapped himself in potato sacks; one guard lifted his cover and replaced it without seeing him. The search and the old brown eyes behind a slipping mask stirred memories of a childhood massacre. When concealment failed, Peren stood, ate a potato, and offered a brittle *"What up, guys?"* The armored guard swept him to his knees.
+Guards searched the stores after noticing signs of entry. They overturned boxes, rolled apples across the floor, and stabbed into tables and barrels. [Peren](/characters/peren) wrapped himself in potato sacks; one guard lifted his cover and replaced it without seeing him. The search and the old brown eyes behind a slipping mask stirred memories of a childhood massacre. When concealment failed, [Peren](/characters/peren) stood, ate a potato, and offered a brittle *"What up, guys?"* The armored guard swept him to his knees.
 
-Fenris attacked from behind, then played his bone flute. Visions of snakes filled the corridor and sent people fleeing with cries of *"Demon!"* Varis used the panic to order everyone out. Peren barred a door, struck the woman guarding it, and escaped into an alley while Fenris drove a *Wind Wall* through the cellar passages.
+[Fenris](/characters/fenris) attacked the guard from behind and knocked him unconscious after a second blow, then played his bone flute. Visions of snakes filled the corridor and sent people fleeing with cries of "Demon!" [Varis](/characters/varis) used the panic to order everyone out. [Peren](/characters/peren) barred a door and struck the woman guarding it. A larger pursuer kicked the door down onto her, but [Peren](/characters/peren) recovered his nerve and escaped into an alley. [Fenris](/characters/fenris) drove a *Wind Wall* through the cellar passages, scattering the people still inside.
 
 ### The face behind the mask
 
-The party regrouped in a trophy room upstairs. A young woman's mask slipped in the confusion, giving Varis a clear look at her face. He recognized [Lady Alabaster](/characters/lady-alabaster). Varis opened a window and jumped; the others followed and returned to Thor.
+The party regrouped in a trophy room upstairs. A young woman's mask slipped in the confusion, revealing enough of her face for [Varis](/characters/varis) to believe she was [Lady Alabaster](/characters/lady-alabaster). He opened a window and jumped safely outside; the others followed and returned to [Thor](/characters/thor-veteran).
 
-They now had direct evidence that Lady Alabaster commanded authority inside Humanus, supported raids against elves from [Alverike](/places/alverike), and stood close to the conspiracy that had framed them. They resolved to find her quickly and obtain a confession before she could disappear.
+They reported that the woman they believed to be [Lady Alabaster](/characters/lady-alabaster) held authority among the guards and was implicated in the accusations and raids against elves. The meeting had given them leads, but they still needed a confession or firmer evidence to clear their names. They agreed to lie low while awaiting [Thor](/characters/thor-veteran)'s instructions and prepare to capture her before she could disappear.
 
 ## See Also
 

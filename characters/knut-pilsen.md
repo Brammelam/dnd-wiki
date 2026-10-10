@@ -24,12 +24,14 @@ During the devastating fire that consumed [Sire](/places/sire), Knut's daughter 
 
 Once revived, Knut called out for **Betty** — his horse, which had fled across the river. Anne had climbed onto the party's horse during the rescue.
 
-Ahead of selling farm cheese into [Morgan's Keep](/places/morgans-keep), the reunited party entrusted Knut's wagon freight with merchant coin **and a hidden tracking compass** so they could discreetly surveil shipments ([Session 25](/sessions/session-25)).
+On the road to [Morgan's Keep](/places/morgans-keep), Knut received an offer of stable work but initially asked for time to decide. He later agreed to sell Betty to the party for thirty-five gold, giving him and [Anne](/characters/anne-knutsen) money to begin again in the city ([Session 24](/sessions/session-24)).
+
+Ahead of selling farm cheese into [Morgan's Keep](/places/morgans-keep), the party placed money and a hidden tracking compass among Knut's freight ([Session 25](/sessions/session-25)). Before a later delivery, they agreed to explain the compass openly as a way to keep the courier safe ([Session 28](/sessions/session-28)).
 
 ## Relationships
 
 - **[Anne Knutsen](/characters/anne-knutsen)** — His daughter
 - **[Fenris](/characters/fenris)** — Rescued and healed him; escorted the family toward Morgan's Keep
 - **[Gal'Rok](/characters/galrok)** — Smothered the flames to save him
-- **[Varis](/characters/varis)** — Helped fund their journey (e.g. horse sale)
-- **Betty** — His horse, who escaped across the river
+- **[Varis](/characters/varis)** — Helped the family reach the capital and agreed to buy Betty
+- **Betty** — His former horse, who escaped the fire and was later sold to the party

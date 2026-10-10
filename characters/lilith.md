@@ -19,7 +19,7 @@
 ## Adventures
 
 ### The Turn Hoax (Session 3)
-Lilith and [Fenris](/characters/fenris) pulled off a daring con in [Turn](/places/turn). They rode into town claiming that an **old town in Rinden had burned**, hoping to manipulate the trader [Hagenfeld](/places/turn) into lowering his prices during the drought. They told this story to [Practical Joe](/characters/practical-joe) as well, weaving a web of disinformation.
+Lilith and [Fenris](/characters/fenris) devised a con in [Turn](/places/turn). Lilith rode in claiming that [Rinden](/places/rinden)'s Old Town had burned, hoping the trader [Hagenfeld](/places/turn) would exchange food for the town's timber. They explained their plan to [Practical Joe](/characters/practical-joe), who thanked them. Whether Hagenfeld completed the trade was not recorded.
 
 ### Mercenary Ambush (Session 2)
 Lilith was present during the [mercenary ambush](/events/mercenary-ambush) by [Fat Hans](/characters/fat-hans) and his crew, helping the party fight off the attackers and escape with stolen supplies.

@@ -25,7 +25,7 @@ As a child, Peren witnessed a group of mercenaries commit terrible violence in t
 
 ## Notable Equipment
 
-- **Daggers/Knives** — Including a set of cursed rust-bladed knives from [the Crypt of Dior](/places/the-crypt) that cause stacking bleed damage
+- **Daggers/Knives** — Including rusted knives from [the Crypt of Dior](/places/the-crypt). Worsening bleeding was discussed in [Session 19](/sessions/session-19), but the notes do not establish a curse.
 - **Lockpicks** — Expert-quality tools used frequently
 - **Poisoner's kit** — Learned from [The Crabs](/factions/the-crabs) in [Rinden](/places/rinden)
 - **Glasses** — Has a peculiar relationship with his glasses; removing them turns everything red
@@ -39,19 +39,19 @@ As a child, Peren witnessed a group of mercenaries commit terrible violence in t
 ## Adventures
 
 ### Escape & Early Journey (Sessions 1–3)
-Peren was arrested at [Morgan's Keep](/places/morgans-keep) and helped [escape](/events/escape-from-morgans-keep). He traveled to [Turn](/places/turn) and [Rinden](/places/rinden), where he and [Lilith](/characters/lilith) ran a con on the trader [Hagenfeld](/places/turn) by claiming a town had burned.
+Peren was arrested at [Morgan's Keep](/places/morgans-keep) and helped [escape](/events/escape-from-morgans-keep). In [Greenfield](/places/greenfield), he heard that the prince's alleged killers were due to be hanged the next day, even though the party had escaped. He later traveled with the group through [Turn](/places/turn), where [Lilith](/characters/lilith) and [Fenris](/characters/fenris) devised the timber-trading hoax, and onward to [Rinden](/places/rinden).
 
 ### The Crabs (Session 5)
 In [Rinden](/places/rinden), Peren and [Varis](/characters/varis) infiltrated [The Crabs](/factions/the-crabs) gang. Peren watched fight pits, saved a gang member, and earned a poison-making course. He met the leader [Salander](/characters/salander), who agreed to help investigate the party's framing.
 
 ### The Crypt of Dior (Sessions 17–18)
-Peren was first across the rope bridge over the underground river and saved [Fenris](/characters/fenris) from falling with an acrobatic rescue. He activated the cursed rust knives by taking them from a statue, triggering a fire elemental. Despite his blood aversion, he fought bravely with his daggers.
+Peren was first across the rope crossing over the underground river and caught [Fenris](/characters/fenris) when he fell, with help from his companions. Taking rusted knives from a statue triggered a fire elemental. During the fight, Peren ate mushrooms that briefly healed him but caused abdominal discomfort, then used the flute to summon two spear-bearing fauns. One of them was destroyed before the party defeated the elemental ([Session 17](/sessions/session-17)).
 
 ### Dior Infiltration (Sessions 19–20)
-Peren disguised himself to infiltrate the temple ahead of the wedding, picking locks and mapping the building's interior. He created an illusory rat swarm with a flute to distract guards and planted a compass tracker on [Helga](/characters/helga) while in cat form (via [Fenris](/characters/fenris)).
+Peren disguised himself to infiltrate the temple ahead of the wedding, picking locks and mapping the building's interior. He created an illusory rat swarm with a flute to distract guards. [Fenris](/characters/fenris) planted a compass on [Helga](/characters/helga) while in cat form; Peren then followed her using its counterpart ([Session 20](/sessions/session-20)).
 
 ### Ambush at the Inn (Session 23)
-During the [Road Inn Ambush](/events/road-inn-ambush), [Thorn](/characters/thorn-alchemist) — the poisoner from [Session 9](/sessions/session-09) — drugged him and **stabbed him in the back** in the stable, seeking revenge for his smashed door and the serpent-island scheme. Peren fought back and pinned Thorn. He kept Thorn's **poisoning notebook**.
+During the [Road Inn Ambush](/events/road-inn-ambush), [Thorn](/characters/thorn-alchemist) — the poisoner from [Session 9](/sessions/session-09) — drugged him and stabbed him in the back in the stable, seeking revenge for his smashed door and the serpent-island scheme. Peren fought back and pinned Thorn, but later collapsed from his injuries. [Varis](/characters/varis) gave him first aid and stabilized Thorn with a potion. Peren kept Thorn's poisoning notebook.
 
 ### Crypt of Alabaster (Session 25)
 Peren guarded **[Gregory IV](/characters/gregory-alabaster)'s antechamber** while undead battered the choke, absorbing **knife thrusts punching door slots** repeatedly—ending the ordeal **barely alive** (**few HP**) before retreating beneath Fenris's **_Wind Wall_** ([Session 25](/sessions/session-25)).
@@ -60,7 +60,7 @@ Peren guarded **[Gregory IV](/characters/gregory-alabaster)'s antechamber** whil
 still **barely lucid**, **Peren** rode **[Varis](/characters/varis)' shoulders** under **swinging Amulet-of-the-Living wards** on the crypt stair scramble; after **another draught**, he screamed **timeline fragments** at fading **Gregory** rumours, pleaded ***"Run"*** intel beside **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)** amid nave **regicide shouts**, and limped toward **[Common District](/places/common-district)** cover ([Capital Cathedral Undead Riot](/events/capital-cathedral-undead-riot)).
 
 ### Fall of Lady Alabaster (Sessions 27–29)
-Peren slipped into the Humanus cellar, survived discovery and a traumatic memory, and escaped during Fenris's diversion. During the harbor battle he killed the ship's captain, freed prisoners, and nearly drowned in a submerged window. At the council hearing he stabbed [Viktor Carnelian](/characters/viktor-carnelian) beneath the shield before being thrown into a wall ([Fall of Lady Alabaster](/events/fall-of-lady-alabaster)).
+Peren slipped into the [Humanus](/factions/humanus-association) cellar, survived discovery and a traumatic memory, and escaped during [Fenris](/characters/fenris)'s diversion. During the harbor battle he killed the ship's captain and freed prisoners. He tried to rescue [Gal'Rok](/characters/galrok), then became trapped in a submerged window and needed rescue himself. Before the council hearing, a palace guard recognized him from earlier mercenary service; Peren's recollection of their shared past remained uncertain. At the hearing he stabbed [Viktor Carnelian](/characters/viktor-carnelian) beneath the shield before being thrown into a wall ([Fall of Lady Alabaster](/events/fall-of-lady-alabaster)).
 
 ## Relationships
 

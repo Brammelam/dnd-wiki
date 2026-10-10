@@ -16,21 +16,19 @@
 
 ## Recap
 
-The full party arrived at **[Turn](/places/turn)**, a timber-trading town suffering from drought and food shortage. They settled at **[The Large Log](/places/the-large-log)** inn. Inside were soldiers, a nobleman, and a female orc with a distinctive metal wound.
+### Food and timber
 
-**[Practical Joe](/characters/practical-joe)** became their local contact, explaining the drought and suggesting an **Azure Oak seed** could be worth enough to pay for food. The trader **Hagenfeld** was expected the next day with expensive supplies. When Hagenfeld arrived and the crowd grew angry at her prices, **[Gal'Rok](/characters/galrok)** gave 2 gold pieces to poor half-orcs.
+The party arrived at [Turn](/places/turn), sold their loot to the blacksmith, and took a meal and rooms at [The Large Log](/places/the-large-log). Soldiers played cards with a nobleman, and a female orc with a distinctive metal wound sat among the guests. [Practical Joe](/characters/practical-joe) joined the party and explained that drought had left the town short of food. A traveling trader was due the next day.
 
-**[Lilith](/characters/lilith) and [Fenris](/characters/fenris)** ran a hoax: they rode into town claiming an old town in [Rinden](/places/rinden) had burned, trying to manipulate Hagenfeld. They told the story to Joe as well.
+The following morning, townspeople crowded around the gnome trader Hagenfeld, angry because they could not afford her supplies. [Gal'Rok](/characters/galrok) gave two gold pieces to poor half-orcs in the crowd. [Lilith](/characters/lilith) and [Fenris](/characters/fenris) devised a hoax: [Lilith](/characters/lilith) rode in claiming that [Rinden](/places/rinden)'s old town had burned down. They hoped the prospect of rebuilding would make timber valuable enough for the townspeople to trade it for food. Hagenfeld appeared to believe the story, though the resulting trade was not confirmed.
 
-The party ventured into the forest to find the [Azure Oak](/places/azure-oak-grove):
+The party explained the plan to [Practical Joe](/characters/practical-joe), who thanked them. He then told them that Hagenfeld had also offered to accept an [Azure Oak](/places/azure-oak-grove) seed as part payment. The party went into the forest to find one.
 
-- **[Gal'Rok](/characters/galrok)** was charmed by a fairy and lured toward a ravine
-- **[Elowen](/characters/elowen)** received a **patron Calling** — the first manifestation of her warlock pact
-- They found the **Azure Oak** surrounded by protective thorns
-- **[Fenris](/characters/fenris)** climbed the tree in **squirrel form**
-- Disturbing the fairies caused them to merge into **one large fairy** that attacked, using roots to threaten the party
+### The Azure Oak
 
-The session ended on a cliffhanger with the fairy attacking and roots closing in.
+Fairies met them among the trees. Most resisted their charm, but [Gal'Rok](/characters/galrok) followed one away from the group, fell into a ravine, and barely climbed out. With the fairies no longer trusted as guides, [Elowen](/characters/elowen) received a Calling from her patron that led the party to the [Azure Oak](/places/azure-oak-grove).
+
+Thorns surrounded the tree. [Fenris](/characters/fenris) became a squirrel and climbed to its top to take the seed. When he accused the fairies of causing the thorns, they merged into a single large fairy and knocked him from the tree. Roots began taking strange shapes around the others as the confrontation continued.
 
 ## New Characters
 

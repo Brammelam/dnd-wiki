@@ -10,15 +10,15 @@
 | **Role** | Interrogator |
 | **Base** | [Morgan's Keep](/places/morgans-keep) |
 | **Status** | Active |
-| **First Seen** | [Session 1](/sessions/session-01) |
+| **First Mentioned** | [Session 1](/sessions/session-01) |
 
 </WikiInfobox>
 
-**Lynch** is an interrogator at [Morgan's Keep](/places/morgans-keep) who was involved in questioning the party after their arrest for the [Crown Prince's murder](/events/crown-prince-murder).
+**Lynch** is the infamous interrogator the party expected to face after their arrest for the [Crown Prince's murder](/events/crown-prince-murder) in [Morgan's Keep](/places/morgans-keep).
 
 ## Role in the Story
 
-Lynch was mentioned during the party's arrest and interrogation at the capital. The nature and extent of his methods remain unclear, but the party's urgency to escape suggests the interrogation was not going to end well for them.
+The party spent the night in a cell awaiting Lynch, then escaped before the anticipated interrogation. [Session 1](/sessions/session-01) records no meeting with him or questioning by him.
 
 ## Relationships
 

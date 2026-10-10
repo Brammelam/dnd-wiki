@@ -11,28 +11,21 @@
 ## Key Events
 
 - [The Crabs Job](/events/the-crabs-job) — Infiltration of Rinden's underworld
-- Peren learns poison-making
+- [Peren](/characters/peren) learns about poisons
 
 ## Recap
 
-With only [Peren](/characters/peren) and [Varis](/characters/varis) present, this session focused on investigating **who framed them** for the [Crown Prince's murder](/events/crown-prince-murder).
+### Looking for information
 
-They first visited the **[Toll Guild](/factions/toll-guild) HQ**, where a bureaucratic clerk provided no useful information.
+After selling the seed, the party split into smaller groups to investigate who had framed them for the [Crown Prince's murder](/events/crown-prince-murder). [Peren](/characters/peren) and [Varis](/characters/varis) visited the [Toll Guild](/factions/toll-guild) headquarters in [Rinden](/places/rinden). They posed as prospective banking customers to speak with a clerk, but he could not help them.
 
-They then sought out **[The Crabs](/factions/the-crabs)**, a criminal gang operating in Rinden. To earn their trust:
+### Work for the Crabs
 
-1. **Watched fight pits** — Underground combat arenas
-2. **Saved a Crabs member** from danger
-3. **[Peren](/characters/peren)** received a **poison-making course** from the gang
+The pair found [the Crabs](/factions/the-crabs), who offered help in exchange for work. They watched over the gang's fight pits for an evening and saved a member's life. [Peren](/characters/peren) received instruction in poisons, and both earned an audience with the gang's leader, [Salander](/characters/salander).
 
-These actions earned them a meeting with **[Salander](/characters/salander)**, the gang's leader. He offered a deal:
-
-- Salander would use his intelligence network to **investigate the framing**
-- In return, the party had to **expose the shady business** of **[Father Terry](/characters/father-terry)**
-
-The session ended with the deal struck and the party preparing to fulfill their end of the bargain.
+[Salander](/characters/salander) agreed to find information about their framing if they could discover what [Father Terry](/characters/father-terry) was doing behind the scenes. The meeting gave them a specific investigation to pursue.
 
 ## New Characters
 
 - [Salander](/characters/salander) — Leader of The Crabs
-- [Father Terry](/characters/father-terry) — Target of Salander's grudge
+- [Father Terry](/characters/father-terry) — Priest whom [Salander](/characters/salander) wanted investigated

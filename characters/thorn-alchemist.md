@@ -21,7 +21,9 @@ To force **[Peren](/characters/peren)** to face the serpent **without help**, Th
 
 ## Road revenge
 
-Later, Thorn tracked [Varis](/characters/varis) and Peren on the road ([Road Inn Ambush](/events/road-inn-ambush)): disguised as a **traveling herbalist**, he **drugged their drinks**, then **ambushed Peren alone** in the stable. [Varis](/characters/varis) helped subdue him and used a **healing potion** to **stabilize** Thorn after the fight. Peren kept Thorn's **poisoning notebook**.
+Later, Thorn tracked [Varis](/characters/varis) and [Peren](/characters/peren) on the road and posed as a traveling herbalist. Before revealing himself, he discussed the uncertain effects of fey pollen, agreed to make a fairy healing potion, and let them observe the brewing process. [Peren](/characters/peren) learned enough to make a basic healing mixture, though his impulsive experiment ruined the separate surbla batch.
+
+Thorn drugged their drinks and attacked alone in the stable during the [Road Inn Ambush](/events/road-inn-ambush). [Varis](/characters/varis) helped subdue him and used a healing potion to stabilize him after the fight. Thorn admitted his use of a sleeping mixture while trying to justify the attack as retaliation for the damage to his home. [Peren](/characters/peren) kept his poisoning notebook and some daggers ([Session 23](/sessions/session-23)).
 
 ## See Also
 

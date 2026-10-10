@@ -35,7 +35,7 @@ Their work earned a meeting with [Salander](/characters/salander), the gang's le
 - He would **investigate who framed the party** using his information network
 - In return, the party had to **expose the shady business** of [Father Terry](/characters/father-terry)
 
-The outcome of this deal remains pending as the party left [Rinden](/places/rinden) before completing the task.
+The party returned to [Salander](/characters/salander) with sourleaf discovered aboard the [Scully Stronghold](/places/scully-stronghold) barge in [Session 6](/sessions/session-06). He paid them five gold each and supplied leads to [Helga](/characters/helga) and [Bob Swords](/characters/bob-swords) in [Dior](/places/dior). The investigation produced evidence of smuggling, though Father Terry's responsibility for it was not established in the notes.
 
 ## Related Events
 

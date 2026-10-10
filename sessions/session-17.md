@@ -3,61 +3,58 @@
 | | |
 |---|---|
 | **Date** | 2025-10-12 |
-| **Players** | Varis ([Varis](/characters/varis)), [Peren](/characters/peren), [Fenris](/characters/fenris) |
+| **Players** | [Varis](/characters/varis), [Peren](/characters/peren), [Fenris](/characters/fenris) |
 | **Location** | [The Crypt of Dior](/places/the-crypt) |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-10-12-DiorTheCrypt.pdf)
 
 ## Key Events
 
-- [Dior Crypt Expedition](/events/dior-crypt) continues
-- River crossing with acrobatic rescue
-- Goblin encounters in underground city
-- Fire elemental battle
-- Dragon emergence
+- The party crossed a steaming underground river during the [Dior Crypt Expedition](/events/dior-crypt)
+- Goblins attacked in a buried dwarven city
+- Taking the statue's knives summoned a fire elemental
+- A telepathic voice offered treasure in return for a service and silence
+- A dragon emerged and struck [Fenris](/characters/fenris) unconscious
 
 ## Recap
 
-The session opened with the magical trap's vine-like tendrils seizing [Fenris](/characters/fenris)'s hands as the door slammed shut, separating [Gal'Rok](/characters/galrok) on the other side. [Varis](/characters/varis) and [Peren](/characters/peren) frantically pulled Fenris free and rolled clear.
+### The Burial Chambers
 
-### Exploring the Burial Chambers
+The magical doorway's tendrils seized [Fenris](/characters/fenris)'s hands. [Varis](/characters/varis) and [Peren](/characters/peren) pulled him clear as the door slammed shut, leaving [Gal'Rok](/characters/galrok) on the other side.
 
-The corridor was lined with stone coffins bearing dwarven inscriptions. Varis lit a torch, revealing dusty, sealed caskets. Exploring the fifteen coffins on each side yielded **19 ancient coins** with intricate engravings and **12 short, rusty hammers**. Fenris shifted into bear form to help move the heavy lids.
+The corridor beyond was lined with fifteen stone coffins on each side. [Varis](/characters/varis) lit a torch, and [Fenris](/characters/fenris) became a bear to help move the lids. Their search yielded nineteen ancient engraved coins and twelve short, rusty hammers.
 
 ### The River Crossing
 
-The passage ended at a **10-meter gap** over a steaming underground river with jagged rocks below. Using Fenris's climbing rope, Peren's archery, and an entangle spell, they improvised a rope bridge. [Peren](/characters/peren) crossed first with rogue-like grace. [Varis](/characters/varis) followed with a theatrical backflip. [Fenris](/characters/fenris) nearly fell when the damp rope slipped, but Peren rescued him with an acrobatic sprint along the rope.
+The passage ended at a ten-meter gap above a steaming river and jagged rocks. [Peren](/characters/peren) shot an arrow into a crack on the far side, and [Fenris](/characters/fenris) used *Entangle* to reinforce the anchor. They secured their climbing rope to a coffin and made a crossing.
+
+[Peren](/characters/peren) and [Varis](/characters/varis) reached the far side. When [Fenris](/characters/fenris) slipped on the wet rope and could not pull himself up, [Peren](/characters/peren) went back along it and caught his arm. With help from both companions, the druid reached safety.
 
 ### The Underground City
 
-Beyond the river, the tunnels opened into an **enormous cylindrical cavern** — a dwarven city built into the walls, with houses on both sides of a broad main street, rising in tiers. The air was heavy and claustrophobic.
+The tunnels opened into a vast cavern with a dwarven city built in tiers along its walls. While the party searched separate houses, three goblins ambushed [Peren](/characters/peren). [Varis](/characters/varis) joined the fight. One enemy disappeared in a flash of ethereal light and reappeared elsewhere before the attackers were killed.
 
-They split up to search the buildings. [Peren](/characters/peren) was ambushed by **three small green goblins**. A quick, brutal fight followed — Peren stabbed one down, Varis used Second Wind and charged in. One goblin teleported with an ethereal flash before reappearing elsewhere. They killed the goblins and found signs of a small goblin settlement: mushrooms, coins, small sleeping areas.
+Footsteps retreated through nearby passages. Coins, sleeping spaces, and mushrooms in the buildings showed that goblins had settled in the abandoned city. The party continued along the main tunnel to a central platform.
 
 ### The Fire Elemental
 
-On a central platform, they found a raised sarcophagus guarded by four dwarf statues with weapons and strange symbols. A mushroom patch grew around it. When [Peren](/characters/peren) took the **knives** from a statue, a fire elemental erupted.
+Four armed dwarf statues surrounded a raised stone coffin. When [Peren](/characters/peren) took the knives from one statue, its eyes and chest lit up and a metallic voice sounded. Flames formed a small dragon-like elemental and attacked him.
 
-The battle was devastating:
-- [Fenris](/characters/fenris) raised a **wind wall** that damaged both the elemental and Peren
-- Peren caught fire and took ongoing burn damage, fighting with only 6 HP
-- He activated **Fighting Spirit** for temporary HP and attack advantage
-- Fenris healed Peren with a quick spell — *"You're dying, bro!"*
-- Varis **spat water** at the elemental as a taunt
-- The elemental phased through the party, slashing with fire
-- Peren used Sneak Attack with the cursed knives, but the elemental was **resistant to physical damage**
-- Fenris shifted into a **massive polar bear**, biting and clawing while taking fire damage
-- Varis played a bone flute — the *Song of the Forest* — summoning **spectral water spirits** that drove the elemental into the stone
+[Fenris](/characters/fenris) raised *Wind Wall*, striking both the elemental and [Peren](/characters/peren). The creature recovered from being blown over the edge, moved through the party, and set them alight. Healing kept [Peren](/characters/peren) fighting, but his knives and [Varis](/characters/varis)'s arrows did less damage than expected.
 
-### The Dragon
+The bone flute's *Song of the Forest* brought spectral water creatures against the flames, briefly driving the elemental into the stone. It returned amid smoke. Mushrooms grew around the coffin, and [Peren](/characters/peren) ate some while hiding among them. He felt a little healing followed by an unsettled stomach.
 
-After the elemental fled, a **mushroom patch** grew around the sarcophagus. Then the **ceiling exploded** — a massive reddish dragon claw emerged. A dragon head appeared, flames licking. Fenris approached in awe: *"Magnificent."* The dragon responded with a **fireball** directly at him, knocking him unconscious.
+[Fenris](/characters/fenris) became a polar bear and fought with teeth and claws while burning, using healing to keep going. [Peren](/characters/peren) attacked from hiding and later used the flute to summon two fauns with spears; one was destroyed. Under the party's attacks, the elemental finally collapsed and sank into the floor. They put out the remaining flames on their clothes and bodies.
 
-The session ended with Varis and Peren standing in dust and smoke, needing to decide their next move with the dragon looming and Fenris down.
+### The Voice and the Dragon
 
-## Combat Highlights
+A voice spoke in their minds: they had earned the knives. It allowed them to open the coffin, which contained a heap of old copper coins, and offered payment in exchange for a service and a promise of silence.
 
-- Peren fighting at 6 HP while on fire
-- Fenris's polar bear vs fire elemental
-- Varis's Song of the Forest summoning water spirits
-- Dragon's fireball knocking Fenris unconscious
+Before the terms were settled, stone broke overhead and an enormous reddish dragon appeared through the smoke. [Fenris](/characters/fenris) approached it in admiration: “Magnificent.” The dragon answered with a fireball that left him unconscious and badly burned.
+
+[Varis](/characters/varis) and [Peren](/characters/peren) discussed whether dragonsbane could help, how to save their companion, and whether samples from the dragon might be useful. No attack or successful bargain followed in these notes. The party remained facing the dragon, with the treasure and its demands still unresolved.
+
+## Still Unresolved
+
+- Would the dragon allow the party to leave, and what service did it require?
+- How could they help [Fenris](/characters/fenris) and carry the copper treasure out?

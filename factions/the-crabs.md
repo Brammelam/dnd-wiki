@@ -25,6 +25,8 @@
 
 This earned them a meeting with the leader, [Salander](/characters/salander), who offered a deal: he would investigate the framing if they exposed the shady dealings of [Father Terry](/characters/father-terry).
 
+After the party brought back sourleaf from the [Scully Stronghold investigation](/events/scully-stronghold-infiltration), Salander paid them and supplied leads to [Helga](/characters/helga) and [Bob Swords](/characters/bob-swords). The gang's enforcers later intervened when [Konstantin Carnelian](/characters/konstantin-carnelian) defeated the party in the street, forcing him to withdraw and bringing [Flint](/characters/flint) and [Peren](/characters/peren) back for treatment ([Session 7](/sessions/session-07)).
+
 ## Operations
 
 - **Fight pits** — Underground fighting rings for entertainment and gambling

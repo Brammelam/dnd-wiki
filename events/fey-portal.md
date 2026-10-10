@@ -13,24 +13,17 @@
 
 </WikiInfobox>
 
-The **Fey Portal incident** is one of the most traumatic moments of the campaign: [Flint](/characters/flint) lost his arm when a closing portal severed it at the elbow.
+The **Fey Portal incident** left [Flint](/characters/flint) without an arm after a closing portal severed it at the elbow.
 
 ## What Happened
 
-The party was leaving the [Fey Realm](/places/fey-realm) through a portal. [Flint](/characters/flint)'s leg had been badly injured during their time in the Fey Realm and he was slowing the group down. As they passed through:
+After the party left the [Fey Realm](/places/fey-realm), [Fenris](/characters/fenris) took the others aside to warn them that [Flint](/characters/flint)'s injured leg was worsening. During the conversation, [Flint](/characters/flint) got up and returned to the portal.
 
-1. Flint went through the portal
-2. He realized he had left his **hammer** behind
-3. He reached back through the portal to grab it
-4. The **portal closed on his arm**, severing it cleanly at the elbow
+[Fenris](/characters/fenris) ran to stop him, turning into a cat, but could not reach him in time. [Flint](/characters/flint) reached through for his hammer. The portal closed on his arm and severed it at the elbow.
 
 ## Aftermath
 
-Flint was left with a permanent disability — the loss of his right arm. This moment served as a stark reminder of the dangers of traveling between realms and the capricious nature of fey magic. The portal's instability was already known (metallic objects could be destroyed in transit), but no one expected it to close on a person.
-
-## Significance
-
-The incident changed the party's relationship with portals and the fey. It demonstrated that the [Fey Realm](/places/fey-realm) operates by its own rules, and that even a moment's hesitation can have permanent consequences.
+[Flint](/characters/flint) lost his right arm. The others continued toward [Hooves Bay](/places/hooves-bay); the [session notes](/sessions/session-10) do not describe arrangements for his recovery.
 
 ## Related Events
 

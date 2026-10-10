@@ -10,21 +10,20 @@
 
 ## Key Events
 
-- [Mercenary Ambush](/events/mercenary-ambush) — The countess's revenge
-- Discovery that the killed guards had noble connections
+- [Mercenary Ambush](/events/mercenary-ambush) — [Fat Hans](/characters/fat-hans)'s pursuit
+- [Fat Hans](/characters/fat-hans) claimed the killed guards were a countess's sons
 
 ## Recap
 
-After a **cart crash** on the road, the party was hunted by mercenaries led by ex-guard **[Fat Hans](/characters/fat-hans)**.
+### The ambush
 
-The fight was decisive. The party defeated the mercenaries and learned the reason for the attack: during their [escape from Morgan's Keep](/events/escape-from-morgans-keep), the wall guards they killed were **sons of a countess**. She had hired Fat Hans and his crew to exact revenge.
+The party came together in a cart crash on the road and found themselves hunted by mercenaries led by [Fat Hans](/characters/fat-hans), a former prison guard. They defeated the attackers and took a horse, a compass, and other equipment.
 
-The party:
-- Won the combat
-- Stole a **horse**
-- Took a **compass** and other gear
-- Tied [Fat Hans](/characters/fat-hans) and surviving mercenaries **to a tree**
-- Moved on
+### The countess's claim
+
+Under interrogation, [Fat Hans](/characters/fat-hans) said that some of the wall guards killed during the [escape from Morgan's Keep](/events/escape-from-morgans-keep) were sons of a countess. He claimed that she had sworn revenge and sent the mercenaries after the party.
+
+The party tied [Fat Hans](/characters/fat-hans) and the surviving mercenaries to a tree, then continued toward the next town.
 
 ## New Characters
 
@@ -33,5 +32,5 @@ The party:
 ## Loot
 
 - Horse
-- Compass (later used to track [Helga](/characters/helga))
+- Compass
 - Gear from the mercenaries

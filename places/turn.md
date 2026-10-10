@@ -22,7 +22,7 @@
 
 ## Description
 
-Turn is a small town centered around wood and trade. When the party arrived, the town was suffering from a **drought** that caused food shortages. The trader **Hagenfeld** was expected to arrive with supplies, but his prices were expected to be steep.
+Turn is a timber-trading town. When the party arrived, a drought had caused food shortages. **Hagenfeld**, a gnome woman, arrived with supplies, but the townspeople could not afford her prices.
 
 The town had a mix of residents including soldiers, nobles, and a female orc with a distinctive metal wound. [Practical Joe](/characters/practical-joe) served as the party's local contact, informing them about the drought and the potential value of an [Azure Oak seed](/events/azure-oak-quest).
 

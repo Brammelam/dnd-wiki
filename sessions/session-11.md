@@ -3,35 +3,48 @@
 | | |
 |---|---|
 | **Date** | 2025-05-22 |
-| **Players** | Varis ([Varis](/characters/varis)), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok), [Elowen](/characters/elowen) |
+| **Players** | [Varis](/characters/varis), [Fenris](/characters/fenris), [Gal'Rok](/characters/galrok), [Elowen](/characters/elowen) |
 | **Location** | Underground lake (hydra lair), [Alverike](/places/alverike) / fey-touched woods |
 
 > [Read the original session notes (PDF)](https://gitlab.com/hellesvik/dnd/-/blob/main/History/2025-05-22-LakeHydraCombat.pdf)
 
 ## Key Events
 
-- Hydra boss fight; reunion of split party via fey guidance
-- Gal'Rok's glass weapon trade
-- Triple-crystal pact with undeath-aligned portal; oracle-orc caveat ignored; **[Fenris](/characters/fenris)**: **Blade of the Ethereal**; **[Elowen](/characters/elowen)**: **Sprout**, **Nathair's Mask**; planar consequence **unresolved**
-- Amulet of the Living (**[Varis](/characters/varis)**) as additional session loot from the delve
+- The [lake hydra fight](/events/lake-hydra-hunt) ended with the party alive and the creature apparently dead
+- [Gal'Rok](/characters/galrok)'s glass axe shattered in the fight and regrew at sunset
+- [Fenris](/characters/fenris) kept Blade of the Ethereal; [Elowen](/characters/elowen) kept Sprout and Nathair's Mask despite the warning about the portal ward
+- [Varis](/characters/varis) recovered Amulet of the Living during the delve
+- The party fought off two zombies before leaving toward [Fort John](/places/fort-john)
+
+## Still Unresolved
+
+- Had taking the relics weakened the seal enough to let the dead through?
 
 ## Recap
 
-**Varis** and **Fenris** fought a **multi-headed hydra** in a flooded cavern — Fenris tried crocodile and **giant octopus** forms while Varis dove in with rapier and poisoned arrows. **Gal'Rok**, separated in the **Fey-touched forest**, met the **Glassmaker** and traded iron gear for a **glass axe** and glasses; a blue fey (**[Sommerhimmel](/characters/sommerhimmel)**) guided her back toward the party.
+### The lake and the glassmaker
 
-The hydra **regrew heads**; the battle dragged from water to shore. Gal'Rok's glass axe **shattered** taking a head. Fenris was **dragged underwater**; Varis landed killing shots. The party barely survived the collapsing, bloodied fray.
+[Varis](/characters/varis) and [Fenris](/characters/fenris) fought a hydra in the underground lake. [Fenris](/characters/fenris)'s teeth could not penetrate its scales in crocodile form, and the creature drove him out of that shape. He became a giant octopus instead, while one of the hydra's heads began to grow back. [Varis](/characters/varis) examined the nearby crystal but received no response, then jumped into the water with his rapier and struck one of the hydra's heads.
 
-**Crystals & undead gateway:** Beneath or alongside the confrontation, **three crystals** shackled **a portal toward an undead-touched realm**—each crystal held (or manifested) relic-level power while helping **check** the breach. Communicating **from inside** the crystals, **an orc spirit** hinted that departing with **only one** of the three relics would **probably** leave the ward stable enough, whereas claiming **multiple** could **compound harm**—straining whatever holds the gateway closed.
+Meanwhile, [Gal'Rok](/characters/galrok) searched for a way back to the party through the woods of [Alverike](/places/alverike). In a glass-domed house, the [Glassmaker](/characters/glassmaker-fey) offered help in exchange for her iron equipment. She traded it for a glass axe and received a pair of specially made glasses. The [Glassmaker](/characters/glassmaker-fey) summoned [Sommerhimmel](/characters/sommerhimmel) to guide her back. Her route through the portal included a vision of a realm filled with zombies.
 
-**The party still stripped all three nodes:** **[Fenris](/characters/fenris)** claimed **Blade of the Ethereal**; **[Elowen](/characters/elowen)** claimed **Sprout** and **Nathair's Mask**—collectively ignoring the oracle's restraint.
+### Underwater rescue
 
-1. **Blade of the Ethereal** (*[Fenris](/characters/fenris)*) — longsword (**1d8** slashing, **versatile 1d10**); **on a hit**, wielder **and target** Blink-like phase for **two turns**, linger **one more turn on the Ethereal Plane**, then **reappear at random nearby locations**.
-2. **Sprout** (*[Elowen](/characters/elowen)*) — buckler (**+1 AC**). When using **an attack of opportunity**, may **cast a spell** instead of attacking; when **successfully blocking** an attack, may **cast a spell** as a **Reaction**.
-3. **Nathair's Mask** (*[Elowen](/characters/elowen)*) — grants **+2** to illusion spells (**per table**, typically attack **and** DC); **_Nathair's Mischief_** may be cast **for free once** after each dawn.
+[Fenris](/characters/fenris) caught several hydra heads in his tentacles and eventually dragged the creature to the shore. [Gal'Rok](/characters/galrok) arrived and severed a head with her glass axe, shattering the blade in the process. The hydra broke free, seized [Fenris](/characters/fenris), and pulled him beneath the water. [Varis](/characters/varis) struck again with his rapier and fired a poisoned arrow as the heads disappeared below the surface.
 
-Removing every crystal **risked weakening the barrier** feeding that undead-aligned gate—stakes left as an open threat for later play ([Lake Hydra Hunt](/events/lake-hydra-hunt)).
+[Gal'Rok](/characters/galrok) jumped in after [Fenris](/characters/fenris), fighting with the remaining axe handle in the dark water. He broke free and used *Shape Water* to clear their view. The hydra's apparently lifeless body sank toward the bottom. [Fenris](/characters/fenris) took hold of [Gal'Rok](/characters/galrok) and brought her to the surface, where [Varis](/characters/varis) waited with the green crystal that had absorbed [Elowen](/characters/elowen).
 
-Separate **random/session loot:** **[Varis](/characters/varis)** recovered **Amulet of the Living** while working the hydra-stronghold delve.
+### The ward and the road ahead
+
+The survivors exchanged accounts of what had happened. [Gal'Rok](/characters/galrok) showed the glasses, but they did not improve [Varis](/characters/varis)'s sight. Attempts to communicate with the crystal brought no answer. A spirit explained that the crystals held the portal to the realm of the dead closed and should not be removed.
+
+The campaign's account also records an orc presence within the crystals warning that taking one relic would probably leave the ward stable, while taking several could do greater harm. The party nevertheless removed all three: [Fenris](/characters/fenris) took Blade of the Ethereal, while [Elowen](/characters/elowen) took Sprout and Nathair's Mask. [Varis](/characters/varis) also recovered Amulet of the Living during the delve. The relics' full properties are recorded on their owners' pages.
+
+Two shambling zombies interrupted the party's attempt to rest. They shot them down, took a short rest, and left the cave. At sunset, the glass blade grew back on [Gal'Rok](/characters/galrok)'s axe. Ahead, the party saw a fortified hill, a tent camp, and smoke rising from the besieged stronghold that led them into the [Fort John rebellion](/events/fort-john-rebellion).
+
+::: info Source and campaign record
+The PDF lists [Varis](/characters/varis), [Fenris](/characters/fenris), and [Gal'Rok](/characters/galrok) as the active players and describes [Elowen](/characters/elowen) inside the crystal. The wiki's later lore corrections include her in the session and place the three relics and Amulet of the Living here. That existing allocation is retained; the PDF itself does not name those items.
+:::
 
 ## Related
 

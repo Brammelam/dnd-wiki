@@ -32,7 +32,7 @@ Key details about the conspiracy have emerged over the course of the campaign:
 ## Consequences
 
 - The party [escaped from Morgan's Keep](/events/escape-from-morgans-keep) and became fugitives
-- During the escape, they killed wall guards who were sons of a countess, leading to [mercenary pursuit](/events/mercenary-ambush)
+- [Fat Hans](/characters/fat-hans) claimed the wall guards killed during the escape were sons of a countess who had hired him to pursue the party ([Mercenary Ambush](/events/mercenary-ambush))
 - Wanted posters with their descriptions were distributed across the kingdom (no bounty listed)
 - In [Greenfield](/places/greenfield), the party heard that the "guilty" had already been caught and would be hanged — meaning someone else was being blamed
 - [Helga](/characters/helga) later promised to reduce their wanted status if they kept a low profile
@@ -42,12 +42,12 @@ Key details about the conspiracy have emerged over the course of the campaign:
 The party has pursued several leads:
 1. **[The Crabs](/factions/the-crabs)** in [Rinden](/places/rinden) — [Salander](/characters/salander) agreed to investigate in exchange for exposing [Father Terry](/characters/father-terry)
 2. **[Helga](/characters/helga)** — Provided key information at the [Tyr Moir](/places/tyr-moir) graveyard
-3. **[Fall of Lady Alabaster](/events/fall-of-lady-alabaster)** — The party returned to the capital, exposed Alabaster, and carried her confession to the King's Council
+3. **[Fall of Lady Alabaster](/events/fall-of-lady-alabaster)** — The party returned to the capital, captured Alabaster, and brought her before the King's Council, where she admitted arranging the accusation under truth magic
 4. **The Dragon's task** — The dragon in [the Crypt](/places/the-crypt) asked them to light a rune and explore a hidden place in Morgan's Keep
 
 ## Related Events
 
-- [Capital Cathedral undead riot](/events/capital-cathedral-undead-riot) — risen remains of the prince appeared at the cathedral; see [Session 26](/sessions/session-26)
+- [Capital Cathedral undead riot](/events/capital-cathedral-undead-riot) — the crowd identified a fallen armored corpse as the prince, but its identity remained unconfirmed; see [Session 26](/sessions/session-26)
 - [Fall of Lady Alabaster](/events/fall-of-lady-alabaster) — the frame-up was admitted under truth magic; the murder itself remains unresolved
 - [Escape from Morgan's Keep](/events/escape-from-morgans-keep)
 - [Dior Wedding & Helga Confrontation](/events/dior-wedding)

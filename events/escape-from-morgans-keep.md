@@ -23,7 +23,7 @@ The **Escape from Morgan's Keep** was the party's desperate breakout from captiv
 
 - The party rested in a **barn** outside the city before encountering a farmer the next morning
 - They traveled the road toward [Rinden](/places/rinden), stopping at [Greenfield](/places/greenfield) where they heard contradictory rumors about the murder
-- The wall guards they killed turned out to be **sons of a countess**, who later hired [Fat Hans](/characters/fat-hans) and mercenaries to hunt them down (see: [Mercenary Ambush](/events/mercenary-ambush))
+- [Fat Hans](/characters/fat-hans) later claimed that the slain wall guards were sons of a countess who had hired his mercenaries to pursue them (see: [Mercenary Ambush](/events/mercenary-ambush))
 - Wanted posters with their descriptions were distributed across the kingdom
 
 ## Significance

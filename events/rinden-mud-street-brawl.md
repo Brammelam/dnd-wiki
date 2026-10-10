@@ -19,6 +19,10 @@ The **Mud Street brawl** followed intelligence from [Salander](/characters/salan
 
 [Varis](/characters/varis), [Flint](/characters/flint), and [Peren](/characters/peren) forced a confrontation: holy water, clubs, poison bluffing, archery, and Flint's **Vow of Enmity**. The locals were beaten into submission for [Griselda](/characters/griselda-mud-street)'s leverage.
 
+Despite [Griselda](/characters/griselda-mud-street)'s warning against killing, [Flint](/characters/flint)'s hammer killed one defender. The survivors surrendered and paid the rent. Each adventurer received fifteen gold, and Griselda gave [Peren](/characters/peren) a lead to a retired poison expert on the coast toward [Dior](/places/dior).
+
+Later in the same session, [Konstantin Carnelian](/characters/konstantin-carnelian) challenged the party over a murder charge. He brought Flint and Peren down before enforcers from [the Crabs](/factions/the-crabs) forced him to retreat and carried the wounded party back to the Pits.
+
 ## See Also
 
 - [The Crabs Job](/events/the-crabs-job)

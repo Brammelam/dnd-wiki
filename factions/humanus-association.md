@@ -27,7 +27,11 @@
 
 The cardinal in the king's council was mentioned in connection with the Association's influence, suggesting their reach extends to the highest levels of government.
 
-In [Session 27](/sessions/session-27), the party infiltrated a masked meeting beneath [Lady Alabaster](/characters/lady-alabaster)'s estate. Members discussed shipping prisoners to western pirates, exploiting the cathedral undead crisis, and using the arrest of the elven council to weaken elves politically. Varis identified Lady Alabaster among them. Her later truth-compelled testimony connected the party's framing to [Old Garreth](/factions/toll-guild), though the full relationship between Humanus and the council remained unresolved.
+Questioned in the [Crypt of Alabaster](/places/crypt-of-alabaster), the deceased [Gregory Alabaster the Fourth](/characters/gregory-alabaster) said the association changed its meeting place each time. The previous gathering had been at [Lieutenant Jet](/characters/lieutenant-jet)'s premises; the next was due in [Lady Alabaster](/characters/lady-alabaster)'s wine cellar in two hours ([Session 25](/sessions/session-25)).
+
+In [Session 27](/sessions/session-27), the party infiltrated that masked meeting. Members discussed shipping prisoners to western pirates, exploiting the cathedral undead crisis, and using the arrest of the elven council to weaken elves politically. They claimed [Gregory](/characters/gregory-alabaster) had returned changed from a journey, but disagreed about whether the danger came from his own magic or something he had brought home. They also discussed spreading rumors and pressuring the returning cardinal.
+
+[Varis](/characters/varis) believed he recognized [Lady Alabaster](/characters/lady-alabaster) behind a slipping mask. The party left with leads rather than a complete account of the conspiracy: some speakers appeared complicit, others uncertain about what had been done in their name. Her later truth-compelled testimony connected the party's framing to [Old Garreth](/factions/toll-guild), though the full relationship between Humanus and the King's Council remained unresolved ([Session 29](/sessions/session-29)).
 
 ## Threat Level
 

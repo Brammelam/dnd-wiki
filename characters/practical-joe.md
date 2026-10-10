@@ -18,9 +18,9 @@
 
 ## Role in the Story
 
-Joe informed the party about the drought affecting Turn and the food shortage caused by it. The trader [Hagenfeld](/places/turn) was expected the next day, and Joe explained that an **Azure Oak seed** could be worth enough to pay for food for the town.
+Joe told the party about the drought and food shortage in [Turn](/places/turn), where the trader Hagenfeld was expected the next day. After [Lilith](/characters/lilith) and [Fenris](/characters/fenris)'s hoax, the party explained their plan to make the town's timber valuable enough to exchange for food. Joe thanked them and reported that Hagenfeld had also offered to accept an [Azure Oak](/places/azure-oak-grove) seed as part payment ([Session 3](/sessions/session-03)).
 
-He also warned the party that **house guards** had been asking questions in Turn — suggesting that the authorities were still hunting the fugitives from [Morgan's Keep](/places/morgans-keep).
+Before the party left for [Rinden](/places/rinden), Joe warned that a noble household's guards were asking questions in [Turn](/places/turn). He did not identify the household or establish whom they were seeking ([Session 4](/sessions/session-04)).
 
 ## Relationships
 
