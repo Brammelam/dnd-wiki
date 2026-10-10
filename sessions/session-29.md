@@ -23,11 +23,13 @@ These questions reflect where the session ended; their answers are not yet known
 
 ## Recap
 
-Morning found the party on the quay among wet survivors and the smoke of the ruined ship. Townspeople brought blankets and food while a weary watchman thanked them. [Lady Alabaster](/characters/lady-alabaster) lay bound and gagged nearby. When city guards arrived, their captain promised an investigation—but the crowd began shouting for the King's Council and surged toward the palace.
+Morning found the party on the quay among wet survivors and the smoke of the ruined ship. Townspeople brought blankets and food while a weary watchman thanked them. [Lady Alabaster](/characters/lady-alabaster) lay bound and gagged nearby. A helmeted city guard said the incident would be investigated and offered to take statements from anyone willing to explain what happened. The crowd began shouting for the King's Council and surged toward the palace.
+
+As people organized aid, a man who knew people in the city's defense pulled Varis aside. He offered him work if he ever needed it and told him where to find them. [Peren](/characters/peren) covered a rescued older man with a blanket and stayed close while help gathered around the survivors.
 
 ### The palace gates
 
-[Varis](/characters/varis), [Peren](/characters/peren), [Fenris](/characters/fenris), and [Gal'Rok](/characters/galrok) led the procession from the harbor into broad streets and walled gardens. Royal guards initially closed the gate. The accusation that Countess Alabaster had transported elves as slaves changed their reception; the line opened, and [Helga](/characters/helga) escorted the party through the courtyard.
+[Varis](/characters/varis), [Peren](/characters/peren), [Fenris](/characters/fenris), and [Gal'Rok](/characters/galrok) led a growing crowd from the harbor toward the palace. Broad streets and walled gardens replaced the working district. City guards held the crowd back as royal guards closed the gate and turned the party away. When they heard Alabaster's name and the accusation that she had transported elves as slaves, they opened the gate. [Helga](/characters/helga) escorted the party into the courtyard.
 
 Inside the palace they passed portraits, statues, arms, armor, and curiosities collected by [King Morgan XIII](/places/kingdom-of-morgan). Helga seated them with their prisoner and gave them food and time to recover while she summoned the council.
 
@@ -41,9 +43,11 @@ The cardinal drew a shining circle around Lady Alabaster and compelled the truth
 
 ### Violence in the council chamber
 
-[Viktor Carnelian](/characters/viktor-carnelian) lunged forward with a spear to silence Alabaster. The cardinal caught the shaft, but Viktor drove the weapon into the cardinal's chest. Fenris summoned an ice elemental and a fire elemental between Alabaster and her attackers. Varis put an ice arrow into Viktor's shoulder while Gal'Rok tried to cut through the spear.
+[Viktor Carnelian](/characters/viktor-carnelian) lunged forward with a spear to silence Alabaster. The cardinal caught the shaft, but Viktor drove the weapon into the cardinal's chest. Fenris summoned an ice elemental and a fire elemental between Alabaster and her attackers. Varis shot Viktor in the shoulder with an ice arrow.
 
-Fenris healed the cardinal enough to keep her alive. Peren slipped beneath Viktor's shield and stabbed him in the side. Viktor answered with a sweeping strike that hurled Gal'Rok through the chamber and threw Peren into a wall. The spear drove toward the cardinal's throat as guards rushed through the corridors. The fight paused on that edge, with Alabaster's confession heard and the council conspiracy exposed but not yet resolved.
+Varis fired again at close range, striking the edge of Viktor's arm armor without stopping him. [Gal'Rok](/characters/galrok) tried to cut the spear, but Viktor pulled it away before her blow landed. Fenris healed the cardinal's chest wound enough to give her some strength back. [Peren](/characters/peren) struck Viktor beneath his shield, though his armor blunted the knife's penetration.
+
+Viktor answered with a sweeping strike that hurled Gal'Rok through the chamber and threw Peren into a wall. He drove the spear into the cardinal's throat; it nearly killed her, but did not pass all the way through. Guards rushed through the corridors as the fight paused in the chaos around the wounded cardinal, with Alabaster's confession heard and the council conspiracy exposed but not yet resolved.
 
 ## See Also
 
