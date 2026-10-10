@@ -217,3 +217,7 @@
     padding-left: calc(var(--wiki-page-inline-pad) + var(--vp-sidebar-width)) !important;
   }
 }
+
+body {
+  overflow-y: auto !important;
+}
