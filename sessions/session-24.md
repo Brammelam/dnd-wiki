@@ -52,7 +52,11 @@ Before the evening meeting, [Varis](/characters/varis) bought cloth to cover his
 
 The intelligence service offered to help if [Thor](/characters/thor-veteran) vouched for them. Its representative connected [Lieutenant Jet](/characters/lieutenant-jet)'s role in the investigation with his wife's debt to the [Humanus Association](/factions/humanus-association). To expose the people behind the [Crown Prince murder](/events/crown-prince-murder) accusation, the party would need to infiltrate a meeting of the association's inner circle.
 
-The service offered false identities, disguises, and a ring with limited power to question the recently dead. [Gregory Alabaster](/characters/gregory-alabaster), a deceased member of the association's twelve-person circle, lay in the [Crypt of Alabaster](/places/crypt-of-alabaster) beneath the cathedral and might know where the group would meet. [Fenris](/characters/fenris) explained that his own magic dealt with plants and animals rather than the dead. [Varis](/characters/varis) also offered the burned papers and medallion associated with [Brad](/characters/brad-academy-student) for examination. They agreed to enter the crypt next, then returned to their camp arrangements and preparations.
+The service offered false identities, disguises, and a ring with limited power to question the recently dead. [Gregory Alabaster](/characters/gregory-alabaster), a deceased member of the association's twelve-person circle, lay in the [Crypt of Alabaster](/places/crypt-of-alabaster) beneath the cathedral and might know where the group would meet. [Fenris](/characters/fenris) explained that his own magic dealt with plants and animals rather than the dead. [Varis](/characters/varis) also offered the pyromancer's burned papers and medallion for examination. They agreed to enter the crypt next, then returned to their camp arrangements and preparations.
+
+::: info Uncertain identity
+These notes call the pyromancer Brad, but do not establish that he was the [Academy student](/characters/brad-academy-student) who arranged the courier job. The [Sire account](/sessions/session-22) leaves the attacker unnamed.
+:::
 
 ## Related
 

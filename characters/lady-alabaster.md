@@ -12,7 +12,7 @@
 
 </WikiInfobox>
 
-**Lady Alabaster**, called **Gryvinda Alabaster** in the Humanus investigation, employed **[Konstantin Carnelian](/characters/konstantin-carnelian)** to pursue the party over the death of her son **Tom**.
+**Lady Alabaster** employed [Konstantin Carnelian](/characters/konstantin-carnelian) to pursue the party over the death of her son Tom.
 
 During a [Humanus Association](/factions/humanus-association) meeting beneath her estate, [Varis](/characters/varis) glimpsed a woman behind a slipping mask and believed he recognized her as Lady Alabaster. The party returned to [Thor](/characters/thor-veteran), intending to obtain a confession or firmer evidence of what they had overheard ([Session 27](/sessions/session-27)).
 

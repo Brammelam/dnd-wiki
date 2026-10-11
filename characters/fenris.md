@@ -36,7 +36,7 @@ In squirrel form, Fenris climbed the [Azure Oak](/places/azure-oak-grove) and tr
 Fenris became a giant spider to distract the defenders while [Varis](/characters/varis) and [Gal'Rok](/characters/galrok) entered [Fort John](/places/fort-john). His later squirrel scouting exposed him inside the tower. After escaping his captors with magic, he hid in the well and altered its water to look and smell poisoned. The deception helped pressure the rebels toward negotiations ([Fort John Rebellion](/events/fort-john-rebellion)).
 
 ### The Crypt of Dior (Sessions 17–18)
-Fenris was central to surviving the crypt. As a polar bear, he fought the fire elemental with devastating melee attacks while healing himself between rounds. He nearly died when a dragon emerged from beneath the platform, taking a direct fireball. The dragon spared the party after they swore an oath of silence about its existence, magically branding [Varis](/characters/varis).
+Fenris was central to surviving the crypt. As a polar bear, he fought the fire elemental while healing himself between rounds. He nearly died when a dragon appeared and struck him with a fireball. The dragon spared the party after they swore an oath of silence about its existence, magically branding the entire party. Any mention of the dragon deals damage to the player.
 
 ### Wedding Espionage (Sessions 19–20)
 Fenris repeatedly transformed into a **cat** to infiltrate the temple in [Dior](/places/dior) ahead of the wedding. As a cat, he:
@@ -46,7 +46,7 @@ Fenris repeatedly transformed into a **cat** to infiltrate the temple in [Dior](
 - Planted a compass tracker in Helga's belt pouch while chasing a mouse
 
 ### Helga Confrontation (Sessions 20–21)
-At [Tyr Moir](/places/tyr-moir) graveyard, Fenris guarded the entrance and used light and sound tricks. In [Session 20](/sessions/session-20), he subdued, bound, and hid a guard watching the meeting. During the interrogation in [Session 21](/sessions/session-21), he calmed [Varis](/characters/varis), placing a hand on his bow to de-escalate. He later released the captive guard.
+At [Tyr Moir](/places/tyr-moir) graveyard, Fenris guarded the entrance and used light and sound tricks. In [Session 20](/sessions/session-20), he helped bind, gag, and hide a guard subdued by [Peren](/characters/peren). During the interrogation in [Session 21](/sessions/session-21), he calmed [Varis](/characters/varis), placing a hand on his bow to de-escalate. The party released the captive guard afterward.
 
 ### Burning of Sire (Session 22)
 Fenris and [Gal'Rok](/characters/galrok) rode toward [Sire](/places/sire) to investigate smoke on the horizon. They rescued [Knut Pilsen](/characters/knut-pilsen) and [Anne Knutsen](/characters/anne-knutsen) from burning debris, with Fenris transforming into a bear to lift a fallen tree. He then fought a **pyromancer** in the burning town, transforming into a giant constricting snake to grapple the enemy. He collected a glowing medallion and the pyromancer's remains as evidence.

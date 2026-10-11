@@ -38,7 +38,7 @@ In [Dior](/places/dior), Gal'Rok climbed up to survey the temple while [Fenris](
 Gal'Rok joined [Varis](/characters/varis) and [Fenris](/characters/fenris) at the [Tyr Moir](/places/tyr-moir) confrontation with [Helga](/characters/helga). After learning about [Lieutenant Jet](/characters/lieutenant-jet)'s imprisoned wife, she suggested using [Fenris](/characters/fenris)'s ethereal blade to move the woman through a cell wall. It remained an untested escape plan.
 
 ### Burning of Sire (Session 22)
-Gal'Rok and [Fenris](/characters/fenris) rode to investigate fires near [Sire](/places/sire). They rescued [Knut Pilsen](/characters/knut-pilsen) and his daughter from a burning building, with Gal'Rok smothering flames with her cloak despite her own **trauma around fire**. She then fought a pyromancer on the town square, taking a direct fireball to the chest and continuing to fight. She severed the pyromancer's hand with her glass axe in a devastating strike but was eventually knocked unconscious by a point-blank fire explosion before being revived by Fenris.
+Gal'Rok and [Fenris](/characters/fenris) rode to investigate fires near [Sire](/places/sire). [Anne](/characters/anne-knutsen) led them to her father, [Knut Pilsen](/characters/knut-pilsen), trapped beneath fallen, burning timber near the river. Gal'Rok smothered the flames with her cloak despite her fear of fire, while [Fenris](/characters/fenris) helped lift the timber. She then fought a pyromancer in the town square and severed his hand with her glass axe. His final explosion left her unconscious before [Fenris](/characters/fenris) revived her.
 
 ### Session 25 — Riverside camp
 At the riverside approach to [Morgan's Keep](/places/morgans-keep), companions noted **burn scarring across her right foot**. The player **left before the party entered the cathedral**—[Gal'Rok](/characters/galrok) does **not** appear in the nave, undercrofts, or [Crypt of Alabaster](/places/crypt-of-alabaster) beats from that session ([Session 25](/sessions/session-25)).
@@ -53,7 +53,7 @@ Gal'Rok boarded [Lady Alabaster](/characters/lady-alabaster)'s ship, broke her g
 
 - Gave 2 gp to poor half-orcs in Turn
 - Rejoined the crypt expedition after the sealed door reopened and stabilized [Fenris](/characters/fenris)
-- Smothered flames to rescue a child despite fire trauma
+- Smothered flames to rescue [Knut Pilsen](/characters/knut-pilsen) despite her fear of fire
 - Severed a pyromancer's hand mid-combat with her glass axe
 
 ## Relationships
