@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Burning of Sire
+## Burning of Sire
 
 | | |
 |---|---|

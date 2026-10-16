@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Lynn Gilda Salt
+## Lynn Gilda Salt
 
 | | |
 |---|---|

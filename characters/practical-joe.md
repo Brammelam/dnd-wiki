@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Practical Joe
+## Practical Joe
 
 | | |
 |---|---|

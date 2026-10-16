@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Baron Peridott
+## Baron Peridott
 
 | | |
 |---|---|

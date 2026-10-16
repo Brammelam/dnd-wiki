@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Scully Stronghold Infiltration
+## Scully Stronghold Infiltration
 
 | | |
 |---|---|

@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### The Large Log
+## The Large Log
 
 | | |
 |---|---|

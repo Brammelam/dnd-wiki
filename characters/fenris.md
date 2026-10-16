@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Fenris Shadowveil
+## Fenris Shadowveil
 
 | | |
 |---|---|

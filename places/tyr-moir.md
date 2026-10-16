@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### Tyr Moir
+## Tyr Moir
 
 | | |
 |---|---|

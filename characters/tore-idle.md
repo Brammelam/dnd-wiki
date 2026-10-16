@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Tore Idle
+## Tore Idle
 
 | | |
 |---|---|

@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Rudolf the Great
+## Rudolf the Great
 
 | | |
 |---|---|

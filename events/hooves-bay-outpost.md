@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Hooves Bay & Ancient Outpost
+## Hooves Bay & Ancient Outpost
 
 | | |
 |---|---|

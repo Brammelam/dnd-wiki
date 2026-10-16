@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Lady Alabaster
+## Lady Alabaster
 
 | | |
 |---|---|

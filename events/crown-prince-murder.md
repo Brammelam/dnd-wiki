@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Crown Prince Murder
+## Crown Prince Murder
 
 | | |
 |---|---|

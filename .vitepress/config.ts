@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'Chronicles of Morgan',
   description: 'A wiki for our D&D campaign',
   cleanUrls: true,
+  srcExclude: ['REPO_CONTEXT.md'],
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],

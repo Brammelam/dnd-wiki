@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Gal'Rok
+## Gal'Rok
 
 | | |
 |---|---|

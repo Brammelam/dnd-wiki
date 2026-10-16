@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Lady Amber
+## Lady Amber
 
 | | |
 |---|---|

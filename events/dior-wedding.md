@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Dior Wedding & Helga Confrontation
+## Dior Wedding & Helga Confrontation
 
 | | |
 |---|---|

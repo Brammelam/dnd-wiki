@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Toltec Box Courier Contract
+## Toltec Box Courier Contract
 
 | | |
 |---|---|

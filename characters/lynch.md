@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Lynch
+## Lynch
 
 | | |
 |---|---|

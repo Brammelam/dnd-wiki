@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Father Terry
+## Father Terry
 
 | | |
 |---|---|

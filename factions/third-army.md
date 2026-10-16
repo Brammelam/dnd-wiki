@@ -2,7 +2,7 @@
 
 <WikiInfobox type="faction">
 
-### Third Army
+## Third Army
 
 | | |
 |---|---|

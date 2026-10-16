@@ -2,13 +2,13 @@
 
 ## Purpose
 
-This repository is a **VitePress** static site serving as the **Chronicles of Morgan** D&D campaign wiki. It is hosted on **GitHub** at `https://github.com/Brammelam/dnd-wiki` and deployed as a **Render Static Site**.
+This repository is a **VitePress** static site serving as the **Chronicles of Morgan** D&D campaign wiki. It is hosted on **GitHub** at `https://github.com/Brammelam/dnd-wiki`. The repository has both a Render blueprint and a GitHub Actions workflow that deploys built assets over Tailscale and SSH.
 
 The original campaign source material (session notes as markdown and PDF) lives in a separate GitLab repo at `https://gitlab.com/hellesvik/dnd` under the `History/` directory.
 
 ## Stack
 
-- **VitePress** (static site generator, Markdown to HTML)
+- **VitePress** (static site generator, Markdown to HTML); `package.json` pins its transitive Vite dependency to 6.4.4 to use the patched build toolchain
 - **Vue 3** (custom components: `WikiInfobox`, `WikiHome`)
 - **Plain CSS** in `.vitepress/theme/custom.css` (no Tailwind)
 - **Render.com** Static Site (auto-deploys on push to `main`)
@@ -46,10 +46,12 @@ npm run preview   # serve built site at http://localhost:4173/
 
 ## Deployment
 
-Render auto-deploys on every push to `main`. Config is in `render.yaml`:
+The Render blueprint is in `render.yaml`:
 - Build command: `npm ci && npm run build`
 - Publish directory: `.vitepress/dist`
 - PR previews enabled
+
+`.github/workflows/deploy.yml` also builds on pushes to `main` and deploys to `/volume1/Docker/dnd-wiki/site` over Tailscale and SSH. It extracts into a staging directory before syncing to the served directory. The serving host and its headers should be verified separately from the Render blueprint.
 
 ## Design System
 

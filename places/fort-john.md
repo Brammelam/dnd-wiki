@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### Fort John
+## Fort John
 
 | | |
 |---|---|

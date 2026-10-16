@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### Mountain Dew's Rest
+## Mountain Dew's Rest
 
 | | |
 |---|---|

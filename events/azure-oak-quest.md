@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Azure Oak Quest
+## Azure Oak Quest
 
 | | |
 |---|---|

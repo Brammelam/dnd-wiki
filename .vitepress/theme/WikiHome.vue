@@ -67,6 +67,22 @@ const recentSessions = [
     </header>
 
     <div class="wiki-home__body">
+      <nav class="wiki-home__portal" aria-label="Browse the wiki">
+        <h2 class="wiki-home__section-title">Browse the Wiki</h2>
+        <div class="wiki-home__grid">
+          <a
+            v-for="cat in categories"
+            :key="cat.title"
+            :href="cat.href"
+            class="wiki-home__card"
+          >
+            <span class="wiki-home__card-title">{{ cat.title }}</span>
+            <span class="wiki-home__card-desc">{{ cat.description }}</span>
+            <span class="wiki-home__card-count">{{ cat.count }} articles <span aria-hidden="true">↗</span></span>
+          </a>
+        </div>
+      </nav>
+
       <section class="wiki-home__story">
         <h2 class="wiki-home__section-title">Where We Left Off</h2>
         <div class="wiki-home__prose">
@@ -129,22 +145,6 @@ const recentSessions = [
         </div>
 
       </section>
-
-      <nav class="wiki-home__portal" aria-label="Browse the wiki">
-        <h2 class="wiki-home__section-title">Browse the Wiki</h2>
-        <div class="wiki-home__grid">
-          <a
-            v-for="cat in categories"
-            :key="cat.title"
-            :href="cat.href"
-            class="wiki-home__card"
-          >
-            <span class="wiki-home__card-title">{{ cat.title }}</span>
-            <span class="wiki-home__card-desc">{{ cat.description }}</span>
-            <span class="wiki-home__card-count">{{ cat.count }} articles <span aria-hidden="true">↗</span></span>
-          </a>
-        </div>
-      </nav>
     </div>
   </div>
 </template>
@@ -261,6 +261,14 @@ const recentSessions = [
   grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.75fr);
   gap: clamp(2.5rem, 7vw, 7rem);
   align-items: start;
+}
+
+.wiki-home__story {
+  order: 0;
+}
+
+.wiki-home__portal {
+  order: 1;
 }
 
 .wiki-home__section-title {
@@ -414,6 +422,10 @@ const recentSessions = [
 
   .wiki-home__portal {
     order: 0;
+  }
+
+  .wiki-home__story {
+    order: 1;
   }
 }
 

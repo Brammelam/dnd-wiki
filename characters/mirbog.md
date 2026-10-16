@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Mirbog
+## Mirbog
 
 | | |
 |---|---|

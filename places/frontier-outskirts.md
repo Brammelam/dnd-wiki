@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### Frontier
+## Frontier
 
 | | |
 |---|---|

@@ -61,11 +61,11 @@ for (const d of DISCUSSIONS) {
     }),
   })
   const json = await res.json()
-  if (json.errors) {
-    console.error(`Discussion #${d.number} failed:`, JSON.stringify(json.errors, null, 2))
+  const url = json.data?.addDiscussionComment?.comment?.url
+  if (!res.ok || json.errors || !url) {
+    console.error(`Discussion #${d.number} failed:`, res.status, JSON.stringify(json.errors ?? json, null, 2))
     process.exitCode = 1
   } else {
-    const url = json.data?.addDiscussionComment?.comment?.url
-    console.log(`OK #${d.number}:`, url || json)
+    console.log(`OK #${d.number}:`, url)
   }
 }

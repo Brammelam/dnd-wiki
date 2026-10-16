@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Lieutenant Preben Jet
+## Lieutenant Preben Jet
 
 | | |
 |---|---|

@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### Crypt of Alabaster
+## Crypt of Alabaster
 
 | | |
 |---|---|

@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Capital Cathedral Undead Riot
+## Capital Cathedral Undead Riot
 
 | | |
 |---|---|

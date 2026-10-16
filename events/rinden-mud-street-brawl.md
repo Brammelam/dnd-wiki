@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Rinden Mud Street Brawl
+## Rinden Mud Street Brawl
 
 | | |
 |---|---|

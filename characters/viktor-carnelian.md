@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Viktor Carnelian
+## Viktor Carnelian
 
 | | |
 |---|---|

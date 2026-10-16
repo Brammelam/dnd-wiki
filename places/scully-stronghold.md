@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### Scully Stronghold
+## Scully Stronghold
 
 | | |
 |---|---|

@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Lake Hydra Hunt
+## Lake Hydra Hunt
 
 | | |
 |---|---|

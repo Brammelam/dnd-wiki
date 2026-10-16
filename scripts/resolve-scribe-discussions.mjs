@@ -27,6 +27,20 @@ const closeDisc = `
   }
 `
 
+const discussionState = `
+  query($id: ID!) {
+    node(id: $id) {
+      ... on Discussion {
+        closed
+        comments(first: 100) {
+          nodes { body }
+          pageInfo { hasNextPage }
+        }
+      }
+    }
+  }
+`
+
 /** node_id from GET /repos/OWNER/REPO/discussions/N */
 const THREADS = [
   {
@@ -111,26 +125,38 @@ async function gql(query, variables) {
     body: JSON.stringify({ query, variables }),
   })
   const json = await res.json()
-  if (json.errors) {
-    throw new Error(JSON.stringify(json.errors, null, 2))
+  if (!res.ok || json.errors || !json.data) {
+    throw new Error(`GitHub HTTP ${res.status}: ${JSON.stringify(json.errors ?? json)}`)
   }
   return json.data
 }
 
 for (const t of THREADS) {
   try {
-    if (t.body) {
+    const state = (await gql(discussionState, { id: t.id })).node
+    if (!state?.comments || state.comments.pageInfo.hasNextPage) {
+      throw new Error('Discussion missing or has more than 100 comments; inspect it before retrying')
+    }
+    const alreadyPosted = t.body && state.comments.nodes.some(({ body }) => body.trim() === t.body.trim())
+    if (t.body && !alreadyPosted && !state.closed) {
       const r1 = await gql(addComment, {
         input: { discussionId: t.id, body: t.body },
       })
-      console.log(`#${t.n} comment:`, r1.addDiscussionComment?.comment?.url || "ok")
+      const url = r1.addDiscussionComment?.comment?.url
+      if (!url) throw new Error('Comment response did not include a URL')
+      console.log(`#${t.n} comment:`, url)
+    } else if (t.body && !alreadyPosted) {
+      throw new Error('Discussion is closed without the expected resolution comment')
     } else {
-      console.log(`#${t.n} comment: (skip — already noted)`)
+      console.log(`#${t.n} comment: (already posted or not required)`)
     }
-    const r2 = await gql(closeDisc, {
-      input: { discussionId: t.id, reason: "RESOLVED" },
-    })
-    console.log(`#${t.n} closed:`, r2.closeDiscussion?.discussion?.closed ?? r2)
+    if (!state.closed) {
+      const r2 = await gql(closeDisc, {
+        input: { discussionId: t.id, reason: "RESOLVED" },
+      })
+      if (!r2.closeDiscussion?.discussion?.closed) throw new Error('Discussion was not closed')
+    }
+    console.log(`#${t.n} closed`)
   } catch (e) {
     console.error(`FAIL #${t.n}:`, e.message)
     process.exitCode = 1

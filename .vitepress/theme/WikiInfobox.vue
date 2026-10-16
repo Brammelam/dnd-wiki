@@ -24,7 +24,7 @@ defineProps<{
   overflow: hidden;
 }
 
-.wiki-infobox :deep(h3) {
+.wiki-infobox :deep(h2) {
   margin: 0;
   padding: 0.65rem 1rem;
   font-family: 'Cinzel', serif;
@@ -37,7 +37,7 @@ defineProps<{
 }
 
 .wiki-infobox--place {
-  --wiki-infobox-accent: #5a8a5a;
+  --wiki-infobox-accent: #3f663f;
 }
 
 .dark .wiki-infobox--place {
@@ -45,7 +45,7 @@ defineProps<{
 }
 
 .wiki-infobox--faction {
-  --wiki-infobox-accent: #8a7a3a;
+  --wiki-infobox-accent: #6b591f;
 }
 
 .dark .wiki-infobox--faction {

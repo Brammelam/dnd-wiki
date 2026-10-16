@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Fort John Rebellion
+## Fort John Rebellion
 
 | | |
 |---|---|

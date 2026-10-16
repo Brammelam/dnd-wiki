@@ -2,7 +2,7 @@
 
 <WikiInfobox type="faction">
 
-### Humanus Association
+## Humanus Association
 
 | | |
 |---|---|

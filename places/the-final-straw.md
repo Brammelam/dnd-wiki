@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### The Final Straw
+## The Final Straw
 
 | | |
 |---|---|

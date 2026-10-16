@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### The Academy
+## The Academy
 
 | | |
 |---|---|

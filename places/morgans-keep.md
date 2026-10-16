@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### Morgan's Keep
+## Morgan's Keep
 
 | | |
 |---|---|

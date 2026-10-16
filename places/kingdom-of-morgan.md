@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### Kingdom of Morgan
+## Kingdom of Morgan
 
 | | |
 |---|---|

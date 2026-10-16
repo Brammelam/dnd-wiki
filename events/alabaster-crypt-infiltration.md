@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Alabaster Crypt Infiltration
+## Alabaster Crypt Infiltration
 
 | | |
 |---|---|

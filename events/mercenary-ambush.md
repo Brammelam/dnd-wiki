@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Mercenary Ambush
+## Mercenary Ambush
 
 | | |
 |---|---|

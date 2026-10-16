@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: dnd-wiki-deploy
+  cancel-in-progress: false
+
 permissions:
   contents: read
   id-token: write
@@ -15,10 +19,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
           node-version: 22
           cache: npm
@@ -30,7 +34,7 @@ jobs:
         run: npm run build
 
       - name: Connect to Tailscale
-        uses: tailscale/github-action@v4
+        uses: tailscale/github-action@d1b6cd204f8dceda5b3eaad7f1f767be390056cd # v4
         with:
           oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
           audience: ${{ secrets.TS_AUDIENCE }}
@@ -46,9 +50,14 @@ jobs:
 
       - name: Deploy
         run: |
+          set -euo pipefail
           tar -C .vitepress/dist -cf - . | \
           ssh \
             -i ~/.ssh/id_ed25519 \
             "${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}" \
-            'rm -rf /volume1/Docker/dnd-wiki/site/* &&
-             tar -xf - -C /volume1/Docker/dnd-wiki/site'
+            'set -eu
+             stage=$(mktemp -d /volume1/Docker/dnd-wiki/.site-stage.XXXXXX)
+             trap "rm -rf \"$stage\"" EXIT
+             tar -xf - -C "$stage"
+             # shortcut: rsync switches files individually; use a release mount after checking the NAS service config.
+             rsync -a --delete-delay --delay-updates "$stage/" /volume1/Docker/dnd-wiki/site/'

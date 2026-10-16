@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### The Crypt of Dior
+## The Crypt of Dior
 
 | | |
 |---|---|

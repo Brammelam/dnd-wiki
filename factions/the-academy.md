@@ -2,7 +2,7 @@
 
 <WikiInfobox type="faction">
 
-### The Academy
+## The Academy
 
 | | |
 |---|---|

@@ -2,7 +2,7 @@
 
 <WikiInfobox type="place">
 
-### The Thirsty Dwarf
+## The Thirsty Dwarf
 
 | | |
 |---|---|

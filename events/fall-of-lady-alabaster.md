@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Fall of Lady Alabaster
+## Fall of Lady Alabaster
 
 | | |
 |---|---|

@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Fey Portal & Flint's Arm
+## Fey Portal & Flint's Arm
 
 | | |
 |---|---|

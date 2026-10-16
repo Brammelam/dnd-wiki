@@ -1,10 +1,11 @@
 <script setup lang="ts">
 import { useData, useRoute } from 'vitepress'
-import { ref, watch, nextTick, onMounted } from 'vue'
+import { ref, watch, nextTick, onMounted, onUnmounted } from 'vue'
 
 const { isDark, frontmatter } = useData()
 const route = useRoute()
 const container = ref<HTMLElement>()
+let observer: IntersectionObserver | undefined
 
 const isDoc = () => frontmatter.value.layout !== 'page' && frontmatter.value.layout !== 'home'
 
@@ -25,15 +26,30 @@ function loadGiscus() {
   script.setAttribute('data-input-position', 'bottom')
   script.setAttribute('data-theme', isDark.value ? 'transparent_dark' : 'light')
   script.setAttribute('data-lang', 'en')
+  script.setAttribute('data-loading', 'lazy')
   script.crossOrigin = 'anonymous'
   script.async = true
   container.value.appendChild(script)
 }
 
-onMounted(loadGiscus)
+function scheduleGiscus() {
+  observer?.disconnect()
+  if (!container.value || !isDoc()) return
+  container.value.innerHTML = ''
+  if (!('IntersectionObserver' in window)) return loadGiscus()
+  observer = new IntersectionObserver(([entry]) => {
+    if (!entry.isIntersecting) return
+    observer?.disconnect()
+    loadGiscus()
+  }, { rootMargin: '300px' })
+  observer.observe(container.value)
+}
+
+onMounted(scheduleGiscus)
+onUnmounted(() => observer?.disconnect())
 
 watch(() => route.path, () => {
-  nextTick(loadGiscus)
+  nextTick(scheduleGiscus)
 })
 
 watch(isDark, (dark) => {

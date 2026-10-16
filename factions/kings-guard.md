@@ -2,7 +2,7 @@
 
 <WikiInfobox type="faction">
 
-### The King's Guard
+## The King's Guard
 
 | | |
 |---|---|

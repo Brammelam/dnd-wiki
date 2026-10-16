@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Dior Crypt Expedition
+## Dior Crypt Expedition
 
 | | |
 |---|---|

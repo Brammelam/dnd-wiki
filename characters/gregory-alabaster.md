@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Gregory Alabaster (IV)
+## Gregory Alabaster (IV)
 
 | | |
 |---|---|

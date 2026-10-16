@@ -2,7 +2,7 @@
 
 <WikiInfobox type="faction">
 
-### Church of the Triad
+## Church of the Triad
 
 | | |
 |---|---|

@@ -2,7 +2,7 @@
 
 <WikiInfobox type="event">
 
-### Thorn's Serpent and Fey Visions
+## Thorn's Serpent and Fey Visions
 
 | | |
 |---|---|

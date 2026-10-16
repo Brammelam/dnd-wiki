@@ -2,7 +2,7 @@
 
 <WikiInfobox type="character">
 
-### Sir Simon Strong
+## Sir Simon Strong
 
 | | |
 |---|---|

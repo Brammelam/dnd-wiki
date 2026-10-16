@@ -2,7 +2,7 @@
 
 <WikiInfobox type="faction">
 
-### The Crabs
+## The Crabs
 
 | | |
 |---|---|
