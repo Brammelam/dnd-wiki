@@ -11,6 +11,7 @@ The original campaign source material (session notes as markdown and PDF) lives 
 - **VitePress** (static site generator, Markdown to HTML); `package.json` pins its transitive Vite dependency to 6.4.4 to use the patched build toolchain
 - **Vue 3** (custom components: `WikiInfobox`, `WikiHome`)
 - **Plain CSS** in `.vitepress/theme/custom.css` (no Tailwind)
+- **Local fonts** in `public/fonts/`, declared in `.vitepress/theme/fonts.css` with optional display and preloaded Latin text faces. Theme imports use `vitepress/theme-without-fonts` to omit unused Inter fonts.
 - **Render.com** Static Site (auto-deploys on push to `main`)
 
 ## Directory Layout
@@ -35,6 +36,8 @@ dnd-wiki/
     └── favicon.svg
 ```
 
+The homepage uses responsive WebP banners in `public/party-banner-{640,1280,1916}.webp`. The corresponding JPEGs remain as source assets. Rebuild a variant with `cwebp -q 70 -m 6 public/party-banner-1280.jpg -o public/party-banner-1280.webp`.
+
 ## How to Run Locally
 
 ```bash
@@ -52,6 +55,8 @@ The Render blueprint is in `render.yaml`:
 - PR previews enabled
 
 `.github/workflows/deploy.yml` also builds on pushes to `main` and deploys to `/volume1/Docker/dnd-wiki/site` over Tailscale and SSH. It extracts into a staging directory before syncing to the served directory. The serving host and its headers should be verified separately from the Render blueprint.
+
+`deploy/nginx-performance.conf` contains cache and gzip directives for the existing static server. It is not applied by the workflow. See `deploy/README.md` for the Synology setup and header checks. Local Lighthouse verification can use `npx lighthouse http://localhost:4173/ --preset=desktop --view` against `npm run preview`.
 
 ## Design System
 

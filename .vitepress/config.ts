@@ -4,21 +4,25 @@ export default defineConfig({
   title: 'Chronicles of Morgan',
   description: 'A wiki for our D&D campaign',
   cleanUrls: true,
-  srcExclude: ['REPO_CONTEXT.md'],
+  srcExclude: ['REPO_CONTEXT.md', 'deploy/**'],
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
-    ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
-    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-    ['link', { href: 'https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap', rel: 'stylesheet' }],
+    ['link', { rel: 'preload', href: '/fonts/cinzel-v26-normal-latin.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
+    ['link', { rel: 'preload', href: '/fonts/source-sans-3-v20-normal-latin.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
   ],
 
   themeConfig: {
-    logo: '/favicon.svg',
+    logo: { src: '/favicon.svg', width: 24, height: 24 },
     siteTitle: 'Chronicles of Morgan',
 
     search: {
       provider: 'local',
+      options: {
+        translations: {
+          button: { buttonAriaLabel: 'SearchK' },
+        },
+      },
     },
 
     nav: [

@@ -40,12 +40,12 @@ const recentSessions = [
 </script>
 
 <template>
-  <div class="wiki-home">
+  <main class="wiki-home">
     <div class="wiki-home__banner">
       <img
-        src="/party-banner-1280.jpg"
-        srcset="/party-banner-640.jpg 640w, /party-banner-1280.jpg 1280w, /party-banner-1916.jpg 1916w"
-        sizes="(max-width: 1152px) 100vw, 1152px"
+        src="/party-banner-1280.webp"
+        srcset="/party-banner-640.webp 640w, /party-banner-1280.webp 1280w, /party-banner-1916.webp 1916w"
+        sizes="calc(min(100vw, 1152px) - 2 * clamp(20px, 4vw, 56px))"
         width="1916"
         height="821"
         alt="Adventurers facing spectral foes and goblins at sunset"
@@ -146,7 +146,7 @@ const recentSessions = [
 
       </section>
     </div>
-  </div>
+  </main>
 </template>
 
 <style scoped>
@@ -357,7 +357,7 @@ const recentSessions = [
 
 .wiki-home__prose a {
   color: var(--vp-c-brand-1);
-  text-decoration-color: var(--wiki-color-warm-border);
+  text-decoration: underline;
   text-underline-offset: 0.18em;
 }
 
