@@ -35,3 +35,4 @@ The **cardinal** sits on the **King's Council** alongside the heads of the [Thir
 - Soldiers name Tyr, Torm, and Ilmater alongside their duties
 - [Helga](/characters/helga) left a lantern at the Tyr statue in Tyr Moir during the [Dior wedding](/events/dior-wedding) arc
 - The cardinal compelled [Lady Alabaster](/characters/lady-alabaster)'s confession before the King's Council, then was critically wounded by [Viktor Carnelian](/characters/viktor-carnelian) ([Session 29](/sessions/session-29))
+- During the council battle, the cardinal's blind priestess continued healing her as an unnamed scarred giant carried them both out. Her dwarf warrior covered the withdrawal. The party did not know whether the cardinal would survive ([Session 30](/sessions/session-30))

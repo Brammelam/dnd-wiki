@@ -49,3 +49,5 @@ The party lured Helga to the [Tyr Moir](/places/tyr-moir) graveyard with an anon
 ## King's Council Hearing
 
 After the party rescued prisoners from [Lady Alabaster](/characters/lady-alabaster)'s ship, Helga escorted them through the palace and summoned the King's Council. She remained present when Alabaster confessed to the framing conspiracy and [Viktor Carnelian](/characters/viktor-carnelian) attacked ([Session 29](/sessions/session-29)).
+
+As the fighting spread, Helga pulled [King Morgan XIII](/places/kingdom-of-morgan) from his chair and led him toward the door behind the throne. Another guard stood between the king and the fight ([Session 30](/sessions/session-30)).

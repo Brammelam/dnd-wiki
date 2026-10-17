@@ -2,11 +2,11 @@
 
 Revisit the campaign by story arc, with the newest arc first. Sessions within each arc follow the order we played them.
 
-[Read the latest session — The Trial of Lady Alabaster](/sessions/session-29) · [Start from the beginning](/sessions/session-01)
+[Read the latest session — Blood in the King's Council](/sessions/session-30) · [Start from the beginning](/sessions/session-01)
 
 ## Return to Morgan’s Keep
 
-Sessions 24–29
+Sessions 24–30
 
 | # | Date | Title | Players |
 |---|------|-------|---------|
@@ -16,6 +16,7 @@ Sessions 24–29
 | 27 | 2026-08-02 | [Infiltrating Humanus](/sessions/session-27) | Varis, Peren, Fenris |
 | 28 | 2026-08-23 | [The Burning Barge](/sessions/session-28) | Varis, Peren, Fenris, Gal'Rok |
 | 29 | 2026-09-13 | [The Trial of Lady Alabaster](/sessions/session-29) | Varis, Peren, Fenris, Gal'Rok |
+| 30 | 2026-10-04 | [Blood in the King's Council](/sessions/session-30) | Varis, Peren, Fenris, Gal'Rok |
 
 ## Wedding plans and the road home
 

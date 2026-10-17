@@ -16,6 +16,10 @@ The **Third Army** is a principal military pillar of the [Kingdom of Morgan](/pl
 
 Military religious practice in the field often invokes the same patrons as the [Church of the Triad](/factions/temple-of-tyr): **Tyr**, **Torm**, and **Ilmater**.
 
+## In the story
+
+During the council battle in [Session 30](/sessions/session-30), General Kamp stayed by the wall with the mage [Molly Alabaster](/characters/molly-alabaster) and the armored dwarf [Gunther](/characters/gunther). His entourage did not intervene to help the wounded cardinal. The general warned [Gal'Rok](/characters/galrok) to run, then withdrew with them.
+
 ## See Also
 
 - [Kingdom of Morgan § Politics](/places/kingdom-of-morgan#politics)

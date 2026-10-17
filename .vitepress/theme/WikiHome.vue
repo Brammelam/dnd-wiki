@@ -4,7 +4,7 @@ const categories = [
     title: 'Characters',
     href: '/characters/',
     description: 'Player characters and the NPCs encountered across the campaign.',
-    count: 43,
+    count: 45,
   },
   {
     title: 'Places',
@@ -28,14 +28,14 @@ const categories = [
     title: 'Sessions',
     href: '/sessions/',
     description: 'Full recaps of every session played.',
-    count: 29,
+    count: 30,
   },
 ]
 
 const recentSessions = [
+  { title: "Session 30 — Blood in the King's Council", href: '/sessions/session-30' },
   { title: 'Session 29 — The Trial of Lady Alabaster', href: '/sessions/session-29' },
   { title: 'Session 28 — The Burning Barge', href: '/sessions/session-28' },
-  { title: 'Session 27 — Infiltrating Humanus', href: '/sessions/session-27' },
 ]
 </script>
 
@@ -88,19 +88,21 @@ const recentSessions = [
         <div class="wiki-home__prose">
           <p>
             <a href="/places/morgans-keep">Morgan's Keep</a>, the King's Council
-            &mdash; after <a href="/sessions/session-29">Session 29</a>.
-            <a href="/characters/lady-alabaster">Lady Alabaster</a> admitted framing
-            the party and named <a href="/factions/toll-guild">Old Garreth</a> as
-            the person who ordered it.
+            &mdash; after <a href="/sessions/session-30">Session 30</a>.
+            The cardinal has been carried out, her survival unknown.
+            <a href="/characters/lady-alabaster">Lady Alabaster</a> remains alive
+            and bleeding on the chamber floor after
+            <a href="/characters/galrok">Gal'Rok</a> severed her lower leg.
           </p>
           <p>
-            <a href="/characters/viktor-carnelian">Viktor Carnelian</a> attacked.
-            The cardinal is wounded, guards are approaching, and the fight in
-            the council chamber is still underway.
+            <a href="/characters/viktor-carnelian">Viktor Carnelian</a> recovered
+            from his wounds and left. <a href="/characters/peren">Peren</a>
+            followed him into the corridor while the others withdrew.
+            <a href="/factions/toll-guild">Old Garreth</a> also escaped the chamber.
           </p>
           <p>
-            <strong>Still unresolved:</strong> Can the party protect the cardinal
-            and keep Alabaster alive to testify?
+            <strong>Still unresolved:</strong> What awaits
+            <a href="/characters/peren">Peren</a> beyond the council chamber?
           </p>
         </div>
         <h3 class="wiki-home__sub-title">Recent Sessions</h3>

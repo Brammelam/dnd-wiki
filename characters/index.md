@@ -68,3 +68,5 @@ The party of fugitives framed for the [Crown Prince's murder](/events/crown-prin
 - **[Jamaris Jamarisen Llamar](/characters/jamaris-jamarisen-llamar)** — Zealous spear-bearer during the [capital cathedral riot](/events/capital-cathedral-undead-riot)
 - **[Maurus](/characters/maurus)** — Offstage contact slated for post-riot debrief (role TBD at table)
 - **[Viktor Carnelian](/characters/viktor-carnelian)** — Attacked Lady Alabaster and the cardinal during the King's Council hearing
+- **[Molly Alabaster](/characters/molly-alabaster)** — Mage accompanying [General Kamp](/factions/third-army); stole an amulet during the council fight
+- **[Gunther](/characters/gunther)** — Armored dwarf who protected [General Kamp](/factions/third-army) during the council fight

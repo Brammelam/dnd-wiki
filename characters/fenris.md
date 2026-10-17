@@ -63,6 +63,11 @@ Fenris **snuffed** tapers with **_Wind Wall_**, took a **door ram** on crypt sta
 ### Fall of Lady Alabaster (Sessions 27–29)
 Fenris entered the Humanus cellar as a rat and covered the escape with his bone flute and *Wind Wall*. As a giant octopus he stopped Lady Alabaster's ship, restrained her, freed prisoners, and rescued Gal'Rok and Peren from drowning. At the council he protected Alabaster with summoned elementals and healed the wounded cardinal ([Fall of Lady Alabaster](/events/fall-of-lady-alabaster)).
 
+### Blood in the King's Council (Session 30)
+Fenris trapped [Konstantin Carnelian](/characters/konstantin-carnelian) and several guards in roots, then fought [Viktor Carnelian](/characters/viktor-carnelian) as a bear. His magical claws penetrated Viktor's protection. [Gunther](/characters/gunther) destroyed his ice elemental, while [Old Garreth](/factions/toll-guild)'s guards cut down the magma elemental.
+
+[Konstantin Carnelian](/characters/konstantin-carnelian) honored his earlier promise and told Fenris that the party could leave. Fenris kept fighting until four swordsmen surrounded him and forced him out of bear form. He drove some of them back with wind, transformed again, and withdrew from the chamber ([Session 30](/sessions/session-30)).
+
 ### Communing with Trees (Session 21)
 Fenris used Speak with Plants to consult an ancient pine tree by the river outside [Dior](/places/dior). The tree communicated in simple concepts: "rush. dry. safe." — confirming the river still flowed but the land was drier than usual, and smoke was present.
 

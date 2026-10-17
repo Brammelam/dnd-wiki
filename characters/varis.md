@@ -66,6 +66,9 @@ After the orb broke, Varis carried [Peren](/characters/peren) up the crypt stair
 ### Fall of Lady Alabaster (Sessions 27–29)
 Varis infiltrated the [Humanus](/factions/humanus-association) cellar in disguise and believed one of its masked members was [Lady Alabaster](/characters/lady-alabaster). He later boarded her departing ship, shattered her smoke crystal with an arrow, helped evacuate its prisoners, and brought her before the King's Council. When [Viktor Carnelian](/characters/viktor-carnelian) attacked the hearing, Varis struck him with an ice arrow ([Fall of Lady Alabaster](/events/fall-of-lady-alabaster)).
 
+### Blood in the King's Council (Session 30)
+[Viktor Carnelian](/characters/viktor-carnelian)'s thrown spear knocked Varis down, but he recovered and kept shooting. After seeing magical attacks penetrate Viktor's protection, Varis used a lightning arrow to make him drop his shield and an ice arrow to bring him down. Viktor later recovered as his armor glowed. Varis called for help for the cardinal of the [Church of the Triad](/factions/temple-of-tyr), witnessed one royal guard kill another wounded guard, and withdrew with [Gal'Rok](/characters/galrok) ([Session 30](/sessions/session-30)).
+
 ## Relationships
 - **[Fenris](/characters/fenris)** — Fellow crypt explorer; Fenris often provides magical support for Varis's attacks
 - **[Helga](/characters/helga)** — Antagonistic; she arrested him and he confronted her at the graveyard

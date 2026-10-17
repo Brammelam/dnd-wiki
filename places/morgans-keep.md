@@ -32,10 +32,13 @@ Morgan's Keep is a large, well-fortified city that serves as the seat of the kin
 - **[Crown Prince Murder](/events/crown-prince-murder)** — The inciting incident; the party was arrested here
 - **[Escape from Morgan's Keep](/events/escape-from-morgans-keep)** — The party fought through guards and fled
 - **Guard killings** — During the escape, the party killed wall guards who turned out to be sons of a countess, leading to the [mercenary ambush](/events/mercenary-ambush)
+- **[Fall of Lady Alabaster](/events/fall-of-lady-alabaster)** — Her truth-compelled confession before the King's Council led to a battle in the palace. [Helga](/characters/helga) led the king away, guards fought one another, and the wounded cardinal was carried out with her survival unknown
 
 ## Connections
 
-The party was originally heading to [Rinden](/places/rinden) to investigate the framing. Later sessions revealed that [Helga](/characters/helga) could reduce their wanted status if they stayed low. The [Humanus Association](/factions/humanus-association), headquartered here, is suspected of being behind the framing. The party is currently traveling back toward Morgan's Keep to continue their investigation.
+The party was originally heading to [Rinden](/places/rinden) to investigate the framing. Later sessions revealed that [Helga](/characters/helga) could reduce their wanted status if they stayed low. The [Humanus Association](/factions/humanus-association), headquartered here, is suspected of being behind the framing. The party returned and brought [Lady Alabaster](/characters/lady-alabaster) before the King's Council.
+
+At the end of [Session 30](/sessions/session-30), [Lady Alabaster](/characters/lady-alabaster) lay alive and bleeding in the damaged council hall as fresh soldiers arrived. [Varis](/characters/varis), [Gal'Rok](/characters/galrok), and [Fenris](/characters/fenris) withdrew, while [Peren](/characters/peren) followed [Viktor Carnelian](/characters/viktor-carnelian) into a palace corridor. The hearing had not established a formal resolution of the accusations against them.
 
 ## Known Residents
 

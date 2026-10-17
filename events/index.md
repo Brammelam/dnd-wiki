@@ -126,7 +126,7 @@ Undead surge through the cathedral after the orb breaks, including a risen corps
 <div class="wiki-timeline-entry">
 
 ### [Fall of Lady Alabaster](/events/fall-of-lady-alabaster)
-The party infiltrates a Humanus meeting, captures [Lady Alabaster](/characters/lady-alabaster) aboard a burning slave ship, and brings her before the King's Council. Under a truth ritual she admits framing the party and names [Old Garreth](/factions/toll-guild), prompting [Viktor Carnelian](/characters/viktor-carnelian) to attack. *Sessions 27–29*
+The party infiltrates a Humanus meeting, captures [Lady Alabaster](/characters/lady-alabaster) aboard a burning slave ship, and brings her before the King's Council. Under a truth ritual she admits framing the party and names [Old Garreth](/factions/toll-guild), prompting [Viktor Carnelian](/characters/viktor-carnelian) to attack. The council erupts into fighting; the wounded cardinal is carried out, and [Peren](/characters/peren) pursues the retreating [Viktor](/characters/viktor-carnelian) as the others withdraw. *Sessions 27–30*
 
 </div>
 </div>

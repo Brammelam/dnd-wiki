@@ -21,6 +21,8 @@ The King's Guard arrested the party for the [Crown Prince's murder](/events/crow
 
 After the party's [escape](/events/escape-from-morgans-keep), the Guard maintained wanted posters with the party's descriptions across the kingdom, though notably **without a bounty**. Guards have been spotted asking questions in [Turn](/places/turn) and other towns.
 
+When the King's Council erupted into fighting, [Helga](/characters/helga) led the king toward the door behind his throne. Guards in the hall fought one another: one protected [Peren](/characters/peren) from a guard the party had assaulted in [Dior](/places/dior), while another killed the fallen guard who had helped [Lady Alabaster](/characters/lady-alabaster). [Varis](/characters/varis) saw that uniforms no longer showed who stood on the same side. More soldiers entered as the combatants withdrew ([Session 30](/sessions/session-30)).
+
 ## Known Operations
 
 - **Crown Prince investigation** — Led to the wrongful arrest of the party

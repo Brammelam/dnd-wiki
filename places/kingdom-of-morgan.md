@@ -39,7 +39,9 @@ The kingdom is experiencing internal strife:
 - A **cardinal** on the council has been mentioned as having power to compel truth
 - At [Lady Alabaster](/characters/lady-alabaster)'s hearing, that truth magic exposed [Old Garreth](/factions/toll-guild) as the alleged author of the party's framing before [Viktor Carnelian](/characters/viktor-carnelian) attacked
 - **Military mobilization** has been observed outside [Dior](/places/dior), with soldiers preparing for a march toward Morgan's Keep
-- The cardinal has reportedly **fled to Dior** and is sending forces against "Orrids Keep"
+- Earlier reports placed the cardinal in [Dior](/places/dior), sending forces against "Orrids Keep"
+
+The council hearing collapsed into fighting in [Session 30](/sessions/session-30). [Helga](/characters/helga) led the king away, guards fought one another, and the wounded cardinal was carried out with her survival unknown. [Old Garreth](/factions/toll-guild), General Kamp of the [Third Army](/factions/third-army), and the brothers [Viktor](/characters/viktor-carnelian) and [Konstantin Carnelian](/characters/konstantin-carnelian) withdrew. The party's legal standing and the prince's murder remained unresolved.
 
 ## Religion
 

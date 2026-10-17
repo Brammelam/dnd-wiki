@@ -21,7 +21,7 @@
 - **Rage** — Enters a fury that grants bonus damage and resistance to physical attacks
 - **Reckless Attack** — Trades defense for overwhelming offense
 - **Great Weapon Fighting** — Devastating strikes with a heavy axe
-- **Glass Axe** — A magical axe that shatters into magical shards on critical hits
+- **Glass Axe** — A magical axe that shatters into magical shards on critical hits; its blade regrows at sunset
 
 ## Adventures
 
@@ -48,6 +48,11 @@ At the riverside approach to [Morgan's Keep](/places/morgans-keep), companions n
 
 ### Sessions 28–29 — Alabaster capture and hearing
 Gal'Rok boarded [Lady Alabaster](/characters/lady-alabaster)'s ship, broke her glass axe against its captain, forced open the prisoners' cells, and nearly drowned when a rope caught on an anchor. At the King's Council she tried to cut [Viktor Carnelian](/characters/viktor-carnelian)'s spear before his counterattack threw her across the chamber ([Fall of Lady Alabaster](/events/fall-of-lady-alabaster)).
+
+### Blood in the King's Council (Session 30)
+Gal'Rok struck [Viktor Carnelian](/characters/viktor-carnelian) with her glass axe, breaking it against his chest. After [General Kamp](/factions/third-army) told her to run, she overturned the table concealing [Lady Alabaster](/characters/lady-alabaster). She severed the countess's lower leg at the knee, took her necklace, and left her alive and bleeding before withdrawing with [Varis](/characters/varis) ([Session 30](/sessions/session-30)).
+
+The glass axe regrows its blade at sunset. Its shattering in [Session 28](/sessions/session-28) and [Session 30](/sessions/session-30) did not permanently destroy the weapon.
 
 ## Notable Moments
 

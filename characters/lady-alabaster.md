@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **Role** | Noble / Humanus conspirator |
-| **Status** | Captured; before the King's Council |
+| **Status** | Alive; bleeding in the council chamber |
 | **First Seen** | [Session 14](/sessions/session-14) (mentioned) |
 
 </WikiInfobox>
@@ -19,6 +19,8 @@ During a [Humanus Association](/factions/humanus-association) meeting beneath he
 They intercepted her aboard a departing ship carrying imprisoned elves. She held a purple crystal that released smoke; when [Varis](/characters/varis) shattered it, its magic immobilized him and also caught her. [Fenris](/characters/fenris) restrained her and later pulled her from the flooding wreck. [Peren](/characters/peren) secured her with a rope during the evacuation, and she was brought ashore alive ([Session 28](/sessions/session-28)).
 
 Before the King's Council, she admitted under the cardinal's truth ritual that she had arranged the false accusations against the party in the [Crown Prince murder](/events/crown-prince-murder), and named [Old Garreth](/factions/toll-guild) as the person who ordered her. [Viktor Carnelian](/characters/viktor-carnelian) attacked before the council could learn more. The cardinal intercepted his spear, while [Fenris](/characters/fenris) summoned elementals to protect Lady Alabaster. The hearing remained interrupted by fighting at the end of [Session 29](/sessions/session-29).
+
+During the continuing fight, a guard cut her bonds and she crawled under a table. [Gal'Rok](/characters/galrok) overturned it and severed her lower leg at the knee despite her plea for mercy. She took Alabaster's necklace and left her alive and bleeding on the floor. Her survival beyond the chamber remained unknown ([Session 30](/sessions/session-30)).
 
 ## Connections
 

@@ -62,6 +62,11 @@ still **barely lucid**, **Peren** rode **[Varis](/characters/varis)' shoulders**
 ### Fall of Lady Alabaster (Sessions 27–29)
 Peren slipped into the [Humanus](/factions/humanus-association) cellar, survived discovery and a traumatic memory, and escaped during [Fenris](/characters/fenris)'s diversion. During the harbor battle he killed the ship's captain and freed prisoners. He tried to rescue [Gal'Rok](/characters/galrok), then became trapped in a submerged window and needed rescue himself. Before the council hearing, a palace guard recognized him from earlier mercenary service; Peren's recollection of their shared past remained uncertain. At the hearing he stabbed [Viktor Carnelian](/characters/viktor-carnelian) beneath the shield before being thrown into a wall ([Fall of Lady Alabaster](/events/fall-of-lady-alabaster)).
 
+### Blood in the King's Council (Session 30)
+Peren attacked [Viktor Carnelian](/characters/viktor-carnelian) with poisoned knives and used flash bombs against his group. A guard the party had subdued in [Dior](/places/dior) attacked him, but the palace guard who had recognized Peren intervened. That rescuer brought back memories of a town massacre and Peren's own participation in it. The memories left him unable to act while a swordsman struck him. The guard's name, the town, and the details of Peren's involvement remain unknown.
+
+Peren saw [Old Garreth](/factions/toll-guild) walk through a flash bomb without reacting. He recovered in time to evade the swordsman and follow [Viktor Carnelian](/characters/viktor-carnelian) into the corridor as the fight broke up ([Session 30](/sessions/session-30)).
+
 ## Relationships
 
 - **[Varis](/characters/varis)** — Primary partner; they frequently travel and fight as a duo
